@@ -1,9 +1,27 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
-    <a class="navbar-brand" href="{{ relative_path }}index.html">Navbar</a>
+      <a class="navbar-brand" href="{{ relative_path }}index.html">
+    <img src="../img/kvrx_logo.jpeg" width="30" height="30" class="d-inline-block align-top" alt="">
+    KVRX Hot 100: The Mobile Application
+  </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="{{ relative_path }}song_generator.html">Song Generator</a>
+      </li>
+            <li class="nav-item">
+        <a class="nav-link" href="{{ relative_path }}artists.html">Artists</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{ relative_path }}about.html">About</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
         <li class="nav-item dropdown">

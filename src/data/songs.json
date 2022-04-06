@@ -1,0 +1,36 @@
+{
+    "songs": [
+      {
+        "slug": "You're Gonna Miss Me",
+        "artist": "By 13th Floor Elevators",
+        "genre": "Rock",
+        "texan": "Texan",
+        "image": "13thfloorelevators",
+        "image2": "13th"
+      },
+      {
+        "slug": "Something",
+        "artist": "By Blue Cactus",
+        "genre": "Rock",
+        "texan": "Texan",
+        "image": "blue_cactus",
+        "image2": "bc"
+      },
+      {
+        "slug": "Rabbit Hole",
+        "artist": "By Bad Waitress",
+        "genre": "Alt",
+        "texan": "Texan",
+        "image": "bad_waitress",
+        "image2": "bw"
+      },
+      {
+        "slug": "Odessa",
+        "artist": "By Blunt Bangs",
+        "genre": "Alt",
+        "texan": "Texan",
+        "image": "blunt_bangs",
+        "image2": "bb"
+      }
+    ]
+}
