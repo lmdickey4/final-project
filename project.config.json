@@ -9,6 +9,11 @@
       "fileId": "1gDwO-32cgpBDn_0niV0iu6TqQTaRDr4nmSqnT53magY",
       "type": "sheet",
       "name": "bookstores"
+    },
+    {
+      "fileId": "1I-W53YeYBhx1du5H5zxQk381582aV-R5WmMtVLjX2CM",
+      "type": "sheet",
+      "name": "artists"
     }
   ],
   "to_bake": [
@@ -18,6 +23,13 @@
       "array": "books",
       "slug": "slug",
       "path": "books"
+    },
+    {
+      "template": "artists",
+      "data": "artists",
+      "array": "artists",
+      "slug": "slug",
+      "path": "artist"
     }
   ]
 }
