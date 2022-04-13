@@ -6,15 +6,61 @@
 
 {% block content %}
 
+<head>
+<script type="text/javascript" src="data/index.js"></script>
+</head>
 
-
-  <div class="row">
-    {% for song in songs.songs %}
-      <div class="col">
-        <img src="img/{{ song.image }}.jpeg" alt="" class="img-fluid">
-        <h3><a href="songs/{{ song.artist }}.html">{{ song.song }}</a></h3>
-      </div>
-    {% endfor %}
-  </div>
+<div id="carouselExampleControls" class="carousel" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <div class="card">
+                <div class="img-wrapper"><a href="artist/abbeylincoln.html"><img src="img/abbeylincoln.jpeg" class="d-block w-100" alt="..."></a></div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="card">
+                <div class="img-wrapper"><a href="artist/aawilliams.html"><img src="img/aawilliams.jpeg" class="d-block w-100" alt="..."></a></div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="card">
+                <div class="img-wrapper"><a href="artist/13thfloorelevators.html"><img src="img/13thfloorelevators.jpeg" class="d-block w-100" alt="..."></a></div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="card">
+                <div class="img-wrapper"><a href="artist/45adapters.html"><img src="img/45adapters.jpeg" class="d-block w-100" alt="..."></a></div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="card">
+                <div class="img-wrapper"><a href="artist/adoy.html"><img src="img/adoy.jpeg" class="d-block w-100" alt="..."></a></div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="card">
+                <div class="img-wrapper"><a href="artist/badwaitress.html"><img src="img/bw.jpeg" class="d-block w-100" alt="..."></a></div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="card">
+                <div class="img-wrapper"><a href="artist/bluecactus.html"><img src="img/bc.jpeg" class="d-block w-100" alt="..."></a></div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="card">
+                <div class="img-wrapper"><a href="artist/bluntbangs.html"><img src="img/bb.jpeg" class="d-block w-100" alt="..."></a></div>
+            </div>
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
 </div>
+
 {% endblock %}

@@ -1,0 +1,164 @@
+{
+  "genres_sheet": [
+    {
+      "artist": "13th Floor Elevators",
+      "genres": "Rock",
+      "slug": "rock"
+    },
+    {
+      "artist": "45 Adapters",
+      "genres": "Punk",
+      "slug": "punk"
+    },
+    {
+      "artist": "5 Spiritual Tones",
+      "genres": "R&B/Soul",
+      "slug": "rbsoul"
+    },
+    {
+      "artist": "A.A. Williams",
+      "genres": "Alternative",
+      "slug": "alternative"
+    },
+    {
+      "artist": "Abbey Lincoln",
+      "genres": "Jazz",
+      "slug": "jazz"
+    },
+    {
+      "artist": "ADOY",
+      "genres": "Korean",
+      "slug": "adoy"
+    },
+    {
+      "artist": "Adventures In Sound",
+      "genres": "Worldwide",
+      "slug": "worldwide"
+    },
+    {
+      "artist": "African Brothers Band (Interna",
+      "genres": "Worldwide",
+      "slug": "worldwide"
+    },
+    {
+      "artist": "Aim Low",
+      "genres": "Ambient",
+      "slug": "amient"
+    },
+    {
+      "artist": "Aisko Rock Group",
+      "genres": "Rock",
+      "slug": "aiskorockgroup"
+    },
+    {
+      "artist": "Ajoy Chakrabarty",
+      "genres": "Indian",
+      "slug": "ajoychakrabarta"
+    },
+    {
+      "artist": "Akron",
+      "genres": "Alternative",
+      "slug": "akron"
+    },
+    {
+      "artist": "Albert Ayler",
+      "genres": "Jazz",
+      "slug": "albertayler"
+    },
+    {
+      "artist": "Alewya",
+      "genres": "Hip-hop/Rap",
+      "slug": "alewya"
+    },
+    {
+      "artist": "alexalone",
+      "genres": "Alternative",
+      "slug": "alexalone"
+    },
+    {
+      "artist": "Alfa Mist",
+      "genres": "Jazz",
+      "slug": "alfamist"
+    },
+    {
+      "artist": "Algernon Cadwallader",
+      "genres": "Alternative",
+      "slug": "algernoncadwallader"
+    },
+    {
+      "artist": "Alice Coltrane",
+      "genres": "Jazz",
+      "slug": "alicecoltrane"
+    },
+    {
+      "artist": "Altin Gun",
+      "genres": "Alternative",
+      "slug": "altingun"
+    },
+    {
+      "artist": "Andrew Hill",
+      "genres": "Jazz",
+      "slug": "andrewhill"
+    },
+    {
+      "artist": "Angelique Kidjo",
+      "genres": "Classical ",
+      "slug": "angeliquekidjo"
+    },
+    {
+      "artist": "Anjimile",
+      "genres": "Alt",
+      "slug": "anjimile"
+    },
+    {
+      "artist": "Anna Ash",
+      "genres": "Alt folk ",
+      "slug": "annaash"
+    },
+    {
+      "artist": "Anna McClellan",
+      "genres": "Alt",
+      "slug": "annamclellan"
+    },
+    {
+      "artist": "Anoushka Shankar",
+      "genres": "Alt",
+      "slug": "anoushkashankar"
+    },
+    {
+      "artist": "Antagonizers ATL",
+      "genres": "Punk ",
+      "slug": "antagonizersatl"
+    },
+    {
+      "artist": "Anthony Braxton",
+      "genres": "Jazz",
+      "slug": "anthonybraxton"
+    },
+    {
+      "artist": "Anushka",
+      "genres": "electronic ",
+      "slug": "anushka"
+    },
+    {
+      "artist": "Anxious",
+      "genres": "Indie rock ",
+      "slug": "anxious"
+    },
+    {
+      "artist": "Apostles of Music",
+      "genres": "Gospel funk ",
+      "slug": "apostlesofmusic"
+    },
+    {
+      "artist": "Archie Shepp and Jason Moran",
+      "genres": "Jazz",
+      "slug": "archiesheppandjasonmoran"
+    },
+    {
+      "artist": "area resident",
+      "genres": "alt",
+      "slug": "arearesident"
+    }
+  ]
+}

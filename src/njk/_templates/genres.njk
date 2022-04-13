@@ -2,7 +2,7 @@
 
 {% set relative_path = "../" %}
 
-{% block page_title %}Artists{% endblock %}
+{% block page_title %}Genres{% endblock %}
 
 {% block page_description %}The index search description for this page goes here.{% endblock %}
 
@@ -16,8 +16,8 @@
           <img src="../img/{{ slug }}.jpeg" alt="" class="img-fluid mb-4">
       </div>
       <div class="col-sm-8">
-          <h1>{{ artist }}</h1>
-          <p>{{ about }}</p>
+          <h1>{{ genres }}</h1>
+          <p>{{ artist }}</p>
           <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/{{ artist_id }}?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
       </div>
     </div>
