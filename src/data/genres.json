@@ -1,164 +1,164 @@
 {
-  "genres_sheet": [
+  "genres": [
     {
-      "artist": "13th Floor Elevators",
-      "genres": "Rock",
+      "genre": "Rock",
       "slug": "rock"
     },
     {
-      "artist": "45 Adapters",
-      "genres": "Punk",
+      "genre": "Punk",
       "slug": "punk"
     },
     {
-      "artist": "5 Spiritual Tones",
-      "genres": "R&B/Soul",
+      "genre": "R&B/Soul",
       "slug": "rbsoul"
     },
     {
-      "artist": "A.A. Williams",
-      "genres": "Alternative",
+      "genre": "Alternative",
       "slug": "alternative"
     },
     {
-      "artist": "Abbey Lincoln",
-      "genres": "Jazz",
+      "genre": "Hip-hop/rap ",
+      "slug": "hhrap"
+    },
+    {
+      "genre": "Jazz",
       "slug": "jazz"
     },
     {
-      "artist": "ADOY",
-      "genres": "Korean",
-      "slug": "adoy"
+      "genre": "Folk ",
+      "slug": "folk"
     },
     {
-      "artist": "Adventures In Sound",
-      "genres": "Worldwide",
+      "genre": "Korean ",
+      "slug": "korean"
+    },
+    {
+      "genre": "Brazillian ",
+      "slug": "brazillian"
+    },
+    {
+      "genre": "Worldwide ",
       "slug": "worldwide"
     },
     {
-      "artist": "African Brothers Band (Interna",
-      "genres": "Worldwide",
-      "slug": "worldwide"
+      "genre": "Ambient",
+      "slug": "ambient"
     },
     {
-      "artist": "Aim Low",
-      "genres": "Ambient",
-      "slug": "amient"
+      "genre": "Indian ",
+      "slug": "indian"
     },
     {
-      "artist": "Aisko Rock Group",
-      "genres": "Rock",
-      "slug": "aiskorockgroup"
+      "genre": "Classical ",
+      "slug": "classical"
     },
     {
-      "artist": "Ajoy Chakrabarty",
-      "genres": "Indian",
-      "slug": "ajoychakrabarta"
+      "genre": "Alt folk",
+      "slug": "altfolk"
     },
     {
-      "artist": "Akron",
-      "genres": "Alternative",
-      "slug": "akron"
+      "genre": "Electronic ",
+      "slug": "electronic"
     },
     {
-      "artist": "Albert Ayler",
-      "genres": "Jazz",
-      "slug": "albertayler"
+      "genre": "Indie rock ",
+      "slug": "indierock"
     },
     {
-      "artist": "Alewya",
-      "genres": "Hip-hop/Rap",
-      "slug": "alewya"
+      "genre": "Europe",
+      "slug": "europe"
     },
     {
-      "artist": "alexalone",
-      "genres": "Alternative",
-      "slug": "alexalone"
+      "genre": "Psychedelic ",
+      "slug": "psychedelic"
     },
     {
-      "artist": "Alfa Mist",
-      "genres": "Jazz",
-      "slug": "alfamist"
+      "genre": "Metal ",
+      "slug": "metal"
     },
     {
-      "artist": "Algernon Cadwallader",
-      "genres": "Alternative",
-      "slug": "algernoncadwallader"
+      "genre": "Blues ",
+      "slug": "blues"
     },
     {
-      "artist": "Alice Coltrane",
-      "genres": "Jazz",
-      "slug": "alicecoltrane"
+      "genre": "Indie Rock ",
+      "slug": "indierock"
     },
     {
-      "artist": "Altin Gun",
-      "genres": "Alternative",
-      "slug": "altingun"
+      "genre": "Hard Bop ",
+      "slug": "hardbop"
     },
     {
-      "artist": "Andrew Hill",
-      "genres": "Jazz",
-      "slug": "andrewhill"
+      "genre": "Country ",
+      "slug": "country"
     },
     {
-      "artist": "Angelique Kidjo",
-      "genres": "Classical ",
-      "slug": "angeliquekidjo"
+      "genre": "Reggae",
+      "slug": "reggae"
     },
     {
-      "artist": "Anjimile",
-      "genres": "Alt",
-      "slug": "anjimile"
+      "genre": "Funk/soul ",
+      "slug": "funksoul"
     },
     {
-      "artist": "Anna Ash",
-      "genres": "Alt folk ",
-      "slug": "annaash"
+      "genre": "Cajun",
+      "slug": "cajun"
     },
     {
-      "artist": "Anna McClellan",
-      "genres": "Alt",
-      "slug": "annamclellan"
+      "genre": "Christian ",
+      "slug": "christian"
     },
     {
-      "artist": "Anoushka Shankar",
-      "genres": "Alt",
-      "slug": "anoushkashankar"
+      "genre": "Afro-pop",
+      "slug": "afropop"
     },
     {
-      "artist": "Antagonizers ATL",
-      "genres": "Punk ",
-      "slug": "antagonizersatl"
+      "genre": "Carribean ",
+      "slug": "carribean"
     },
     {
-      "artist": "Anthony Braxton",
-      "genres": "Jazz",
-      "slug": "anthonybraxton"
+      "genre": "Japanese Rock",
+      "slug": "japaneserock"
     },
     {
-      "artist": "Anushka",
-      "genres": "electronic ",
-      "slug": "anushka"
+      "genre": "J-Pop",
+      "slug": "jpop"
     },
     {
-      "artist": "Anxious",
-      "genres": "Indie rock ",
-      "slug": "anxious"
+      "genre": "Latin ",
+      "slug": "latin"
     },
     {
-      "artist": "Apostles of Music",
-      "genres": "Gospel funk ",
-      "slug": "apostlesofmusic"
+      "genre": "Dubstep ",
+      "slug": "dubstep"
     },
     {
-      "artist": "Archie Shepp and Jason Moran",
-      "genres": "Jazz",
-      "slug": "archiesheppandjasonmoran"
+      "genre": "Americana",
+      "slug": "americana"
     },
     {
-      "artist": "area resident",
-      "genres": "alt",
-      "slug": "arearesident"
+      "genre": "Spoken word",
+      "slug": "spokenword"
+    },
+    {
+      "genre": "Musica Tropical ",
+      "slug": "musicatropical"
+    },
+    {
+      "genre": "Bollywood",
+      "slug": "bollywood"
+    },
+    {
+      "genre": "Neo-soul",
+      "slug": "neosoul"
+    },
+    {
+      "genre": "French Pop",
+      "slug": "frenchpop"
+    },
+    {
+      "genre": "Art Rock",
+      "slug": "artrock"
     }
   ]
 }

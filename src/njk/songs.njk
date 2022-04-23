@@ -1,0 +1,51 @@
+{% extends '_templates/base.njk' %}
+
+{% set relative_path = "../" %}
+
+{% block page_title %}Non-Blacklisted Songs{% endblock %}
+
+{% block page_description %}The index search description for this page goes here.{% endblock %}
+
+{% block content %}
+
+<div class="container">
+<h1>Non-Blacklisted Songs</h1>
+<p>Go through the table to find a new song to play on-air!</p>
+<table class="table table-hover table-sm table-dark">
+  <thead>
+    <tr class="table-active">
+      <th scope="col">Explicit/Clean</th>
+      <th scope="col">Song</th>
+      <th scope="col">Artist</th>
+      <th scope="col">Genre</th>
+      <th scope="col">Texan</th>
+    </tr>
+  </thead>
+  <tbody>
+      {% for item in songs.songs %}
+    <tr>
+        <td>
+            {{ item.explicit }}
+        </td>
+        <td>
+            {{ item.song }}
+        </td>
+        <td>
+            {{ item.artist }}
+        </td>
+        <td>
+            {{ item.genre }}
+        </td>
+        <td>
+            {{ item.texan }}
+        </td>
+    </tr>
+    {% endfor %}
+    
+   
+  </tbody>
+</table>
+</div>
+
+
+{% endblock %}

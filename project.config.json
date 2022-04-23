@@ -9,6 +9,11 @@
       "fileId": "1rpsqkjPfE5IgUw6s-ajQUbLrL9Ohpwhwhd45Qjwd-rk",
       "type": "sheet",
       "name": "genres"
+    },
+    {
+      "fileId": "1orfZFLa4aiZKR_6CRVmBfw_RGb64izMtNYN7k9BAUB4",
+      "type": "sheet",
+      "name": "songs"
     }
   ],
   "to_bake": [
@@ -22,9 +27,9 @@
     {
       "template": "genres",
       "data": "genres",
-      "array": "genres_sheet",
+      "array": "genres",
       "slug": "slug",
-      "path": "genres"
+      "path": "genre"
     }
   ]
 }

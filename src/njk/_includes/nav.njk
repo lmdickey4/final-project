@@ -15,16 +15,10 @@
             Genres
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="genres.html">Rock</a></li>
-            <li><a class="dropdown-item" href="punk.html">Punk</a></li>
-            <li><a class="dropdown-item" href="r&bsoul.html">R&B/Soul</a></li>
-            <li><a class="dropdown-item" href="alternative.html">Alternative</a></li>
-            <li><a class="dropdown-item" href="jazz.html">Jazz</a></li>
-            <li><a class="dropdown-item" href="korean.html">Korean</a></li>
-            <li><a class="dropdown-item" href="worldwide.html">Worldwide</a></li>
-            <li><a class="dropdown-item" href="hip-hop/rap.html">Hip-Hop/Rap</a></li>
-            <li><a class="dropdown-item" href="classical.html">Classical</a></li>
-            <li><a class="dropdown-item" href="altfolk.html">Alternative Folk</a></li>
+            {% for tab in genres.genres %}
+              <li><a class="dropdown-item" href="{{ relative_path }}genre/{{ tab.slug }}.html">{{ tab.genre }}</a></li>
+            {% endfor %}
+
           </ul>
         </li>
          <div class="collapse navbar-collapse" id="navbarNavDropdown">
@@ -46,10 +40,13 @@
       <li class="nav-item">
         <a class="nav-link" href="{{ relative_path }}about.html">About</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{ relative_path }}songs.html">Non-Blacklisted Songs</a>
+      </li>
     </ul>
   </div>
 </nav>
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-960a35f6-fb0f-41dd-8e2e-4508fb24cd0f"></div>
+
+
   </div>
 </nav>
