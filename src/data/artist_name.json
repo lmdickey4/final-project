@@ -1,0 +1,28 @@
+{
+  "artist_name": [
+    {
+      "artist": "Artists Starting with \"A\"",
+      "slug": "aartist"
+    },
+    {
+      "artist": "Artists Starting with \"B\"",
+      "slug": "bartist"
+    },
+    {
+      "artist": "Artists Starting with \"C\"",
+      "slug": "cartist"
+    },
+    {
+      "artist": "Artists Starting with \"D\"",
+      "slug": "dartist"
+    },
+    {
+      "artist": "Artists Starting with \"E\"",
+      "slug": "eartist"
+    },
+    {
+      "artist": "Artists Starting with \"#\"",
+      "slug": "numberartist"
+    }
+  ]
+}

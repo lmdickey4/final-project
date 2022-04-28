@@ -1,0 +1,564 @@
+{
+  "e_songs": [
+    {
+      "explicit": "Clean",
+      "song": "Clarity",
+      "artist": "Early Eyes",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "earlyeyes"
+    },
+    {
+      "explicit": "Clean",
+      "song": "I'm Enough",
+      "artist": "Early Eyes",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "earlyeyes"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Always Room For Another",
+      "artist": "Easter Island",
+      "texan": "Not Texan ",
+      "genre": "Pop",
+      "slug": "easterisland"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Captain Maudlin",
+      "artist": "Easter Island",
+      "texan": "Not Texan ",
+      "genre": "Pop",
+      "slug": "easterisland"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Island Nation",
+      "artist": "Easter Island",
+      "texan": "Not Texan ",
+      "genre": "Pop",
+      "slug": "easterisland"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Sea Change",
+      "artist": "Easter Island",
+      "texan": "Not Texan ",
+      "genre": "Pop",
+      "slug": "easterisland"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Solo",
+      "artist": "Easter Island",
+      "texan": "Not Texan ",
+      "genre": "Pop",
+      "slug": "easterisland"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Chambers",
+      "artist": "Easter Island",
+      "texan": "Not Texan ",
+      "genre": "Pop",
+      "slug": "easterisland"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Smoke",
+      "artist": "Easter Island",
+      "texan": "Not Texan ",
+      "genre": "Pop",
+      "slug": "easterisland"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Glass",
+      "artist": "Easter Island",
+      "texan": "Not Texan ",
+      "genre": "Pop",
+      "slug": "easterisland"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Great Big World",
+      "artist": "Easter Island",
+      "texan": "Not Texan ",
+      "genre": "Pop",
+      "slug": "easterisland"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Quiet Party",
+      "artist": "Easter Island",
+      "texan": "Not Texan ",
+      "genre": "Pop",
+      "slug": "easterisland"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Blues Up and Down (Live)",
+      "artist": "Eddie \"Lockjaw\" Davis & Johhny Griffin",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "eddielockjawdavis"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Bobeira",
+      "artist": "Edson Frederico E A Transa",
+      "texan": "Not Texan ",
+      "genre": "Latin",
+      "slug": "edsonfrederico"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Birds",
+      "artist": "Electrelane",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "electrelane"
+    },
+    {
+      "explicit": "Clean",
+      "song": "1000yrs",
+      "artist": "Electric Blue Yonder",
+      "texan": "Not Texan ",
+      "genre": "Folk",
+      "slug": "electricblueyonder"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Lonely Child",
+      "artist": "Electric Blue Yonder",
+      "texan": "Not Texan ",
+      "genre": "Folk",
+      "slug": "electricblueyonder"
+    },
+    {
+      "explicit": "Clean",
+      "song": "O Susanne",
+      "artist": "Eli Josef",
+      "texan": "Texan ",
+      "genre": "Alt",
+      "slug": "elijosef"
+    },
+    {
+      "explicit": "Clean",
+      "song": "One More Walk in the Park",
+      "artist": "Eli Josef",
+      "texan": "Texan ",
+      "genre": "Alt",
+      "slug": "elijosef"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Sunny D",
+      "artist": "Eli Josef",
+      "texan": "Texan ",
+      "genre": "Alt",
+      "slug": "elijosef"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Broken Bones",
+      "artist": "Eli Josef",
+      "texan": "Texan ",
+      "genre": "Alt",
+      "slug": "elijosef"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Chair Outisde in the Sun",
+      "artist": "Eli Josef",
+      "texan": "Texan ",
+      "genre": "Alt",
+      "slug": "elijosef"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Close 2 U",
+      "artist": "Eli Josef",
+      "texan": "Texan ",
+      "genre": "Alt",
+      "slug": "elijosef"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Dead Frogs feat. Teenage Priest",
+      "artist": "Eli Josef",
+      "texan": "Texan ",
+      "genre": "Alt",
+      "slug": "elijosef"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Doomsday Disco",
+      "artist": "Eli Josef",
+      "texan": "Texan ",
+      "genre": "Alt",
+      "slug": "elijosef"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Drive Real Fast",
+      "artist": "Eli Josef",
+      "texan": "Texan ",
+      "genre": "Alt",
+      "slug": "elijosef"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Goodbye Earth, Goodbye Now feat. Fletcher Suvia, Andres Garcia, and Pete O'Hanl",
+      "artist": "Eli Josef",
+      "texan": "Texan ",
+      "genre": "Alt",
+      "slug": "elijosef"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Incineration of the Human Race feat. Ben Katzman's DeGreaser",
+      "artist": "Eli Josef",
+      "texan": "Texan ",
+      "genre": "Alt",
+      "slug": "elijosef"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Freight Train",
+      "artist": "Elizabeth Cotten",
+      "texan": "Not Texan ",
+      "genre": "Folk",
+      "slug": "elizabethcotten"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Bananeira",
+      "artist": "Emilio Santiago",
+      "texan": "Not Texan ",
+      "genre": "Brazilian",
+      "slug": "emiliosantiago"
+    },
+    {
+      "explicit": "Clean",
+      "song": "I Get the Feeling",
+      "artist": "Emily Brown",
+      "texan": "Not Texan ",
+      "genre": "Folk",
+      "slug": "emilybrown"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Return",
+      "artist": "Emma Ruth Rundle",
+      "texan": "Not Texan ",
+      "genre": "Rock",
+      "slug": "emmaruthrundle"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Blooms of Oblivion",
+      "artist": "Emma Ruth Rundle",
+      "texan": "Not Texan ",
+      "genre": "Rock",
+      "slug": "emmaruthrundle"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Body",
+      "artist": "Emma Ruth Rundle",
+      "texan": "Not Texan ",
+      "genre": "Rock",
+      "slug": "emmaruthrundle"
+    },
+    {
+      "explicit": "Clean",
+      "song": "The Company",
+      "artist": "Emma Ruth Rundle",
+      "texan": "Not Texan ",
+      "genre": "Rock",
+      "slug": "emmaruthrundle"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Dancing Man",
+      "artist": "Emma Ruth Rundle",
+      "texan": "Not Texan ",
+      "genre": "Rock",
+      "slug": "emmaruthrundle"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Razor's Edge",
+      "artist": "Emma Ruth Rundle",
+      "texan": "Not Texan ",
+      "genre": "Rock",
+      "slug": "emmaruthrundle"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Citadel",
+      "artist": "Emma Ruth Rundle",
+      "texan": "Not Texan ",
+      "genre": "Rock",
+      "slug": "emmaruthrundle"
+    },
+    {
+      "explicit": "Clean",
+      "song": "In My Afterlife",
+      "artist": "Emma Ruth Rundle",
+      "texan": "Not Texan ",
+      "genre": "Rock",
+      "slug": "emmaruthrundle"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Crone Dance",
+      "artist": "Emma Ruth Rundle & Thou",
+      "texan": "Not Texan ",
+      "genre": "Rock",
+      "slug": "emmaruthrundle"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Recurrence",
+      "artist": "Emma Ruth Rundle & Thou",
+      "texan": "Not Texan ",
+      "genre": "Rock",
+      "slug": "emmaruthrundle"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Hollywood",
+      "artist": "Emma Ruth Rundle & Thou",
+      "texan": "Not Texan ",
+      "genre": "Rock",
+      "slug": "emmaruthrundle"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Orphan Limbs",
+      "artist": "Emma Ruth Rundle & Thou",
+      "texan": "Not Texan ",
+      "genre": "Rock",
+      "slug": "emmaruthrundle"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Aggression",
+      "artist": "Eric Dolphy",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "emmaruthrundle"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Like Someone In Love",
+      "artist": "Eric Dolphy",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "ericdolphy"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Story Book Children",
+      "artist": "Ernest Ranglin",
+      "texan": "Not Texan ",
+      "genre": "Reggae",
+      "slug": "ernestranglin"
+    },
+    {
+      "explicit": "Clean",
+      "song": "A Foggy Day (In London Town) [Live]",
+      "artist": "Erroll Garner",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "errollgarner"
+    },
+    {
+      "explicit": "Clean",
+      "song": "But Not For Me [Live]",
+      "artist": "Erroll Garner",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "errollgarner"
+    },
+    {
+      "explicit": "Clean",
+      "song": "I Can't Get Started With You [Live]",
+      "artist": "Erroll Garner",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "errollgarner"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Dreamy [Live]",
+      "artist": "Erroll Garner",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "errollgarner"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Lover [Live]",
+      "artist": "Erroll Garner",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "errollgarner"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Moments Delight [Live]",
+      "artist": "Erroll Garner",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "errollgarner"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Bernie's Tune [Live]",
+      "artist": "Erroll Garner",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "errollgarner"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Misty [Live]",
+      "artist": "Erroll Garner",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "errollgarner"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Erroll's Theme [Live]",
+      "artist": "Erroll Garner",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "errollgarner"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Always On Mind",
+      "artist": "Even Oxen",
+      "texan": "Not Texan ",
+      "genre": "Christian",
+      "slug": "evenoxen"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Ay Li'l Darlin'",
+      "artist": "Even Oxen",
+      "texan": "Not Texan ",
+      "genre": "Christian",
+      "slug": "evenoxen"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Locusts",
+      "artist": "Even Oxen",
+      "texan": "Not Texan ",
+      "genre": "Christian",
+      "slug": "evenoxen"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Take My Life and Let it Be / Offertory",
+      "artist": "Even Oxen",
+      "texan": "Not Texan ",
+      "genre": "Christian",
+      "slug": "evenoxen"
+    },
+    {
+      "explicit": "Clean",
+      "song": "His Robes for Mine",
+      "artist": "Even Oxen",
+      "texan": "Not Texan ",
+      "genre": "Christian",
+      "slug": "evenoxen"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Day by Day / His Robes for Mine",
+      "artist": "Even Oxen",
+      "texan": "Not Texan ",
+      "genre": "Christian",
+      "slug": "evenoxen"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Ambulance",
+      "artist": "Even Oxen",
+      "texan": "Not Texan ",
+      "genre": "Christian",
+      "slug": "evenoxen"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Charms",
+      "artist": "Even Oxen",
+      "texan": "Not Texan ",
+      "genre": "Christian",
+      "slug": "evenoxen"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Pasture Grazing",
+      "artist": "Even Oxen",
+      "texan": "Not Texan ",
+      "genre": "Christian",
+      "slug": "evenoxen"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Beauty and Bonds",
+      "artist": "Even Oxen",
+      "texan": "Not Texan ",
+      "genre": "Christian",
+      "slug": "evenoxen"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Gentle Colors",
+      "artist": "Even Oxen",
+      "texan": "Not Texan ",
+      "genre": "Christian",
+      "slug": "evenoxen"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Psalm 18",
+      "artist": "Even Oxen",
+      "texan": "Not Texan ",
+      "genre": "Christian",
+      "slug": "evenoxen"
+    },
+    {
+      "explicit": "Clean",
+      "song": "My Sins were Forgiven by the Son",
+      "artist": "Even Oxen",
+      "texan": "Not Texan ",
+      "genre": "Christian",
+      "slug": "evenoxen"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Every Eye Will See God Come Down",
+      "artist": "Even Oxen",
+      "texan": "Not Texan ",
+      "genre": "Christian",
+      "slug": "evenoxen"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Early in the Morning",
+      "artist": "Even Oxen",
+      "texan": "Not Texan ",
+      "genre": "Christian",
+      "slug": "evenoxen"
+    }
+  ]
+}

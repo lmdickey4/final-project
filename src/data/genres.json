@@ -17,148 +17,24 @@
       "slug": "alternative"
     },
     {
-      "genre": "Hip-hop/rap ",
-      "slug": "hhrap"
-    },
-    {
       "genre": "Jazz",
       "slug": "jazz"
-    },
-    {
-      "genre": "Folk ",
-      "slug": "folk"
-    },
-    {
-      "genre": "Korean ",
-      "slug": "korean"
-    },
-    {
-      "genre": "Brazillian ",
-      "slug": "brazillian"
-    },
-    {
-      "genre": "Worldwide ",
-      "slug": "worldwide"
     },
     {
       "genre": "Ambient",
       "slug": "ambient"
     },
     {
-      "genre": "Indian ",
-      "slug": "indian"
-    },
-    {
-      "genre": "Classical ",
-      "slug": "classical"
-    },
-    {
-      "genre": "Alt folk",
-      "slug": "altfolk"
-    },
-    {
-      "genre": "Electronic ",
-      "slug": "electronic"
-    },
-    {
-      "genre": "Indie rock ",
-      "slug": "indierock"
-    },
-    {
       "genre": "Europe",
       "slug": "europe"
-    },
-    {
-      "genre": "Psychedelic ",
-      "slug": "psychedelic"
-    },
-    {
-      "genre": "Metal ",
-      "slug": "metal"
-    },
-    {
-      "genre": "Blues ",
-      "slug": "blues"
-    },
-    {
-      "genre": "Indie Rock ",
-      "slug": "indierock"
-    },
-    {
-      "genre": "Hard Bop ",
-      "slug": "hardbop"
-    },
-    {
-      "genre": "Country ",
-      "slug": "country"
     },
     {
       "genre": "Reggae",
       "slug": "reggae"
     },
     {
-      "genre": "Funk/soul ",
-      "slug": "funksoul"
-    },
-    {
       "genre": "Cajun",
       "slug": "cajun"
-    },
-    {
-      "genre": "Christian ",
-      "slug": "christian"
-    },
-    {
-      "genre": "Afro-pop",
-      "slug": "afropop"
-    },
-    {
-      "genre": "Carribean ",
-      "slug": "carribean"
-    },
-    {
-      "genre": "Japanese Rock",
-      "slug": "japaneserock"
-    },
-    {
-      "genre": "J-Pop",
-      "slug": "jpop"
-    },
-    {
-      "genre": "Latin ",
-      "slug": "latin"
-    },
-    {
-      "genre": "Dubstep ",
-      "slug": "dubstep"
-    },
-    {
-      "genre": "Americana",
-      "slug": "americana"
-    },
-    {
-      "genre": "Spoken word",
-      "slug": "spokenword"
-    },
-    {
-      "genre": "Musica Tropical ",
-      "slug": "musicatropical"
-    },
-    {
-      "genre": "Bollywood",
-      "slug": "bollywood"
-    },
-    {
-      "genre": "Neo-soul",
-      "slug": "neosoul"
-    },
-    {
-      "genre": "French Pop",
-      "slug": "frenchpop"
-    },
-    {
-      "genre": "Art Rock",
-      "slug": "artrock"
     }
   ]
 }

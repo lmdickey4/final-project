@@ -1,0 +1,1692 @@
+{
+  "b_songs": [
+    {
+      "explicit": "Clean",
+      "song": "Rabbit Hole",
+      "artist": "Bad Waitress",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "badwaitress"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Yeah Yeah Yeah",
+      "artist": "Bad Waitress",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "badwaitress"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Lacerate",
+      "artist": "Bad Waitress",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "badwaitress"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Strawberry Milkshake",
+      "artist": "Bad Waitress",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "badwaitress"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Manners",
+      "artist": "Bad Waitress",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "badwaitress"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Delusions of Grandeur",
+      "artist": "Bad Waitress",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "badwaitress"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Standards",
+      "artist": "Bad Waitress",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "badwaitress"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Live in Reverse",
+      "artist": "Bad Waitress",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "badwaitress"
+    },
+    {
+      "explicit": "Clean",
+      "song": "12 Years Old",
+      "artist": "Bad Waitress",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "badwaitress"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Restless Body",
+      "artist": "Bad Waitress",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "badwaitress"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Novo Dia",
+      "artist": "Balanca Povo",
+      "texan": "Not Texan",
+      "genre": "Brazilian soul",
+      "slug": "balancapovo"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Anadolka",
+      "artist": "Balkan Taksim",
+      "texan": "Not Texan",
+      "genre": "Europe",
+      "slug": "balkantaksim"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Lunca",
+      "artist": "Balkan Taksim",
+      "texan": "Not Texan",
+      "genre": "Europe",
+      "slug": "balkantaksim"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Lunca (Radio Edit)",
+      "artist": "Balkan Taksim",
+      "texan": "Not Texan",
+      "genre": "Europe",
+      "slug": "balkantaksim"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Zalina",
+      "artist": "Balkan Taksim",
+      "texan": "Not Texan",
+      "genre": "Europe",
+      "slug": "balkantaksim"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Meram Ekspresi",
+      "artist": "Balkan Taksim",
+      "texan": "Not Texan",
+      "genre": "Europe",
+      "slug": "balkantaksim"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Zalina",
+      "artist": "Balkan Taksim",
+      "texan": "Not Texan",
+      "genre": "Europe",
+      "slug": "balkantaksim"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Shlonak",
+      "artist": "Balkan Taksim",
+      "texan": "Not Texan",
+      "genre": "Europe",
+      "slug": "balkantaksim"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Cartes Postales",
+      "artist": "Balkan Taksim",
+      "texan": "Not Texan",
+      "genre": "Europe",
+      "slug": "balkantaksim"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Usak Ekspresi",
+      "artist": "Balkan Taksim",
+      "texan": "Not Texan",
+      "genre": "Europe",
+      "slug": "balkantaksim"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Zali Zare",
+      "artist": "Balkan Taksim",
+      "texan": "Not Texan",
+      "genre": "Europe",
+      "slug": "balkantaksim"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Lunca",
+      "artist": "Balkan Taksim",
+      "texan": "Not Texan",
+      "genre": "Europe",
+      "slug": "balkantaksim"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Anadolka",
+      "artist": "Balkan Taksim",
+      "texan": "Not Texan",
+      "genre": "Europe",
+      "slug": "balkantaksim"
+    },
+    {
+      "explicit": "Clean",
+      "song": "A Mirelui",
+      "artist": "Balkan Taksim",
+      "texan": "Not Texan",
+      "genre": "Europe",
+      "slug": "balkantaksim"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Mortu",
+      "artist": "Balkan Taksim",
+      "texan": "Not Texan",
+      "genre": "Europe",
+      "slug": "balkantaksim"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Ankara Ekspresi",
+      "artist": "Balkan Taksim",
+      "texan": "Not Texan",
+      "genre": "Europe",
+      "slug": "balkantaksim"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Foaie verde",
+      "artist": "Balkan Taksim",
+      "texan": "Not Texan",
+      "genre": "Europe",
+      "slug": "balkantaksim"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Balkan Teleskop",
+      "artist": "Balkan Taksim",
+      "texan": "Not Texan",
+      "genre": "Europe",
+      "slug": "balkantaksim"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Lunca (Radio Edit)",
+      "artist": "Balkan Taksim",
+      "texan": "Not Texan",
+      "genre": "Europe",
+      "slug": "balkantaksim"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Doesn't Matter Anymore",
+      "artist": "Beach Bullies",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "beachbullies"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Princesa Negra De Angola (Instr)",
+      "artist": "Bebeto",
+      "texan": "Not Texan",
+      "genre": "Brazilian soul",
+      "slug": "bebeto"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Misanthrope Gets Lunch",
+      "artist": "Bent Arcana",
+      "texan": "Not Texan",
+      "genre": "Rock",
+      "slug": "bentarcana"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Mimi",
+      "artist": "Bent Arcana",
+      "texan": "Not Texan",
+      "genre": "Rock",
+      "slug": "bentarcana"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Oblivion Sigil",
+      "artist": "Bent Arcana",
+      "texan": "Not Texan",
+      "genre": "Rock",
+      "slug": "bentarcana"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Sprites",
+      "artist": "Bent Arcana",
+      "texan": "Not Texan",
+      "genre": "Rock",
+      "slug": "bentarcana"
+    },
+    {
+      "explicit": "Clean",
+      "song": "The Gate",
+      "artist": "Bent Arcana",
+      "texan": "Not Texan",
+      "genre": "Rock",
+      "slug": "bentarcana"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Groove Elation",
+      "artist": "Bernice",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "bernice"
+    },
+    {
+      "explicit": "Clean",
+      "song": "It's Me, Robin",
+      "artist": "Bernice",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "bernice"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Big Mato",
+      "artist": "Bernice",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "bernice"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Dry River Bed",
+      "artist": "Bernice",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "bernice"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Lone Swan",
+      "artist": "Bernice",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "bernice"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Empty Cup",
+      "artist": "Bernice",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "bernice"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Personal Bubble",
+      "artist": "Bernice",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "bernice"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Your Beautiful House",
+      "artist": "Bernice",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "bernice"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Infinite Love",
+      "artist": "Bernice",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "bernice"
+    },
+    {
+      "explicit": "Clean",
+      "song": "We Choose You",
+      "artist": "Bernice",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "bernice"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Groove Elation (Radio Edit)",
+      "artist": "Bernice",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "bernice"
+    },
+    {
+      "explicit": "Clean",
+      "song": "It's Me, Robin (Radio Edit)",
+      "artist": "Bernice",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "bernice"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Infinite Love (Radio Edit)",
+      "artist": "Bernice",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "bernice"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Ever New (Reworked by Bon Iver",
+      "artist": "Beverly Glenn-Copeland",
+      "texan": "Not Texan",
+      "genre": "New age",
+      "slug": "beverlyglenncopeland"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Fastest Star (Julia Holter Rem",
+      "artist": "Beverly Glenn-Copeland",
+      "texan": "Not Texan",
+      "genre": "New age",
+      "slug": "beverlyglenncopeland"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Let Us Dance (Arca Remix)",
+      "artist": "Beverly Glenn-Copeland",
+      "texan": "Not Texan",
+      "genre": "New age",
+      "slug": "beverlyglenncopeland"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Old (New) Melody (Ana Roxanne",
+      "artist": "Beverly Glenn-Copeland",
+      "texan": "Not Texan",
+      "genre": "New age",
+      "slug": "beverlyglenncopeland"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Sunset Village (Blood Orange R",
+      "artist": "Beverly Glenn-Copeland",
+      "texan": "Not Texan",
+      "genre": "New age",
+      "slug": "beverlyglenncopeland"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Ever New (Kelsey Lu's Transpor",
+      "artist": "Beverly Glenn-Copeland",
+      "texan": "Not Texan",
+      "genre": "New age",
+      "slug": "beverlyglenncopeland"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Ever New (Joseph Shabason & Th",
+      "artist": "Beverly Glenn-Copeland",
+      "texan": "Not Texan",
+      "genre": "New age",
+      "slug": "beverlyglenncopeland"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Ghost House (Performed By Jere",
+      "artist": "Beverly Glenn-Copeland",
+      "texan": "Not Texan",
+      "genre": "New age",
+      "slug": "beverlyglenncopeland"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Ah So We Stay",
+      "artist": "Big Youth",
+      "texan": "Not Texan",
+      "genre": "Reggae",
+      "slug": "bigyouth"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Screaming Target",
+      "artist": "Big Youth",
+      "texan": "Not Texan",
+      "genre": "Reggae",
+      "slug": "bigyouth"
+    },
+    {
+      "explicit": "Clean",
+      "song": "2020 I Pray Thee",
+      "artist": "Big Youth and Brain Dead",
+      "texan": "Not Texan",
+      "genre": "Reggae",
+      "slug": "bigyouth"
+    },
+    {
+      "explicit": "Explicit",
+      "song": "Trust No Mo (CLEAN)",
+      "artist": "Billy Dean Thomas",
+      "texan": "Not Texan",
+      "genre": "Hip hop/rap",
+      "slug": "billydeanthomas"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Be Well (CLEAN)",
+      "artist": "Billy Dean Thomas",
+      "texan": "Not Texan",
+      "genre": "Hip hop/rap",
+      "slug": "billydeanthomas"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Xan For Xan Ft. Michael Christmas (CLEAN)",
+      "artist": "Billy Dean Thomas",
+      "texan": "Not Texan",
+      "genre": "Hip hop/rap",
+      "slug": "billydeanthomas"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Stressin & Flexxin (CLEAN)",
+      "artist": "Billy Dean Thomas",
+      "texan": "Not Texan",
+      "genre": "Hip hop/rap",
+      "slug": "billydeanthomas"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Trump Vs. Biden Feat. S'natra (CLEAN)",
+      "artist": "Billy Dean Thomas",
+      "texan": "Not Texan",
+      "genre": "Hip hop/rap",
+      "slug": "billydeanthomas"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Niggas Aint Perfect (CLEAN)",
+      "artist": "Billy Dean Thomas",
+      "texan": "Not Texan",
+      "genre": "Hip hop/rap",
+      "slug": "billydeanthomas"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Balance (CLEAN)",
+      "artist": "Billy Dean Thomas",
+      "texan": "Not Texan",
+      "genre": "Hip hop/rap",
+      "slug": "billydeanthomas"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Bread Song",
+      "artist": "Black Country, New Road",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "blackcountrynewroad"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Chaos Space Marine",
+      "artist": "Black Country, New Road",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "blackcountrynewroad"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Snow Globes",
+      "artist": "Black Country, New Road",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "blackcountrynewroad"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Concorde (Radio Edit)",
+      "artist": "Black Country, New Road",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "blackcountrynewroad"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Concorde",
+      "artist": "Black Country, New Road",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "blackcountrynewroad"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Clay Pigeons",
+      "artist": "Blaze Foley",
+      "texan": "Texan ",
+      "genre": "Country",
+      "slug": "blazefoley"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Blue as the Day",
+      "artist": "Blue Cactus",
+      "texan": "Not Texan",
+      "genre": "Country",
+      "slug": "bluecactus"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Stranger Again",
+      "artist": "Blue Cactus",
+      "texan": "Not Texan",
+      "genre": "Country",
+      "slug": "bluecactus"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Rebel",
+      "artist": "Blue Cactus",
+      "texan": "Not Texan",
+      "genre": "Country",
+      "slug": "bluecactus"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Come Clean",
+      "artist": "Blue Cactus",
+      "texan": "Not Texan",
+      "genre": "Country",
+      "slug": "bluecactus"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Rodeo Queen",
+      "artist": "Blue Cactus",
+      "texan": "Not Texan",
+      "genre": "Country",
+      "slug": "bluecactus"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Worried Man",
+      "artist": "Blue Cactus",
+      "texan": "Not Texan",
+      "genre": "Country",
+      "slug": "bluecactus"
+    },
+    {
+      "explicit": "Clean",
+      "song": "I Can't Touch You",
+      "artist": "Blue Cactus",
+      "texan": "Not Texan",
+      "genre": "Country",
+      "slug": "bluecactus"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Enough",
+      "artist": "Blue Cactus",
+      "texan": "Not Texan",
+      "genre": "Country",
+      "slug": "bluecactus"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Radioman",
+      "artist": "Blue Cactus",
+      "texan": "Not Texan",
+      "genre": "Country",
+      "slug": "bluecactus"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Space Country",
+      "artist": "Blue Cactus",
+      "texan": "Not Texan",
+      "genre": "Country",
+      "slug": "bluecactus"
+    },
+    {
+      "explicit": "Clean",
+      "song": "She's Gone",
+      "artist": "Blunt Bangs",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bluntbangs"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Decide [RADIO EDIT]",
+      "artist": "Blunt Bangs",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bluntbangs"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Silence Is Golden",
+      "artist": "Blunt Bangs",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bluntbangs"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Sick Moves [FCC WARNING]",
+      "artist": "Blunt Bangs",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bluntbangs"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Eau Caroline",
+      "artist": "Blunt Bangs",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bluntbangs"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Speed Reader",
+      "artist": "Blunt Bangs",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bluntbangs"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Odessa",
+      "artist": "Blunt Bangs",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bluntbangs"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Tom Ford [FCC WARNING]",
+      "artist": "Blunt Bangs",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bluntbangs"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Moshi Moshi [FCC WARNING]",
+      "artist": "Blunt Bangs",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bluntbangs"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Hot Potato",
+      "artist": "Blunt Bangs",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bluntbangs"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Decide [FCC WARNING]",
+      "artist": "Blunt Bangs",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bluntbangs"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Prophesy Reveal",
+      "artist": "Bo Jangles",
+      "texan": "Not Texan",
+      "genre": "Hip Hop/rap",
+      "slug": "bojangles"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Syke! Life Is Awesome!",
+      "artist": "Bomb the Music Industry!",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bombthemusicindustry"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Side Projects are Never Successful",
+      "artist": "Bomb The Music Industry!",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bombthemusicindustry"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Sorry, Brooklyn, Dancing Won't Solve Anything",
+      "artist": "Bomb The Music Industry!",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bombthemusicindustry"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Jobs Schmobs",
+      "artist": "Bomb the Music Industry!",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bombthemusicindustry"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Never Trust a Man Without a Ho",
+      "artist": "Bomb the Music Industry!",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bombthemusicindustry"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Get Warmer",
+      "artist": "Bomb the Music Industry!",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bombthemusicindustry"
+    },
+    {
+      "explicit": "Clean",
+      "song": "The Last Party (Foul)",
+      "artist": "Bomb the Music Industry!",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bombthemusicindustry"
+    },
+    {
+      "explicit": "Clean",
+      "song": "493 Ruth",
+      "artist": "Bomb the Music Industry!",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bombthemusicindustry"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Bike Test 1 2 3",
+      "artist": "Bomb the Music Industry!",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bombthemusicindustry"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Unlimited Breadsticks, Soup an",
+      "artist": "Bomb the Music Industry!",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bombthemusicindustry"
+    },
+    {
+      "explicit": "Clean",
+      "song": "No Rest for the Whiny",
+      "artist": "Bomb the Music Industry!",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bombthemusicindustry"
+    },
+    {
+      "explicit": "Clean",
+      "song": "25 Hour Goddamn Telethon",
+      "artist": "Bomb the Music Industry!",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bombthemusicindustry"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Depression Is No Fun",
+      "artist": "Bomb the Music Industry!",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bombthemusicindustry"
+    },
+    {
+      "explicit": "Clean",
+      "song": "I Don't Love You Anymore",
+      "artist": "Bomb the Music Industry!",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bombthemusicindustry"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Pizza Claus Is Comin' to Town",
+      "artist": "Bomb the Music Industry!",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "bombthemusicindustry"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Azamane Tiliade",
+      "artist": "Bombino",
+      "texan": "Not Texan",
+      "genre": "Afro-pop",
+      "slug": "bombino"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Desperation",
+      "artist": "Bonecrusher",
+      "texan": "Not Texan",
+      "genre": "Hip Hop/rap",
+      "slug": "bonecrusher"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Rei Lagarto",
+      "artist": "Bonifrate",
+      "texan": "Not Texan",
+      "genre": "Psychedelic ",
+      "slug": "bonifrate"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Casiopeia",
+      "artist": "Bonifrate",
+      "texan": "Not Texan",
+      "genre": "Psychedelic ",
+      "slug": "bonifrate"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Corisco (Parte 1)",
+      "artist": "Bonifrate",
+      "texan": "Not Texan",
+      "genre": "Psychedelic ",
+      "slug": "bonifrate"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Tela Azul",
+      "artist": "Bonifrate",
+      "texan": "Not Texan",
+      "genre": "Psychedelic ",
+      "slug": "bonifrate"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Cara de Pano",
+      "artist": "Bonifrate",
+      "texan": "Not Texan",
+      "genre": "Psychedelic ",
+      "slug": "bonifrate"
+    },
+    {
+      "explicit": "Clean",
+      "song": 2054,
+      "artist": "Bonifrate",
+      "texan": "Not Texan",
+      "genre": "Psychedelic ",
+      "slug": "bonifrate"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Corisco (Parte 2)",
+      "artist": "Bonifrate",
+      "texan": "Not Texan",
+      "genre": "Psychedelic ",
+      "slug": "bonifrate"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Lacertus Rex (Non-Vinyl Bonus Track)",
+      "artist": "Bonifrate",
+      "texan": "Not Texan",
+      "genre": "Psychedelic ",
+      "slug": "bonifrate"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Comeca em Voce",
+      "artist": "Boogarins",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "boogarins"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Correndo em f�ria",
+      "artist": "Boogarins",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "boogarins"
+    },
+    {
+      "explicit": "Clean",
+      "song": "vc sabe mto (Improviso F�brica de Sonhos)",
+      "artist": "Boogarins",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "boogarins"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Basic Lines",
+      "artist": "Boogarins",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "boogarins"
+    },
+    {
+      "explicit": "Clean",
+      "song": "No meio de tanto cobertor",
+      "artist": "Boogarins",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "boogarins"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Role Torto Role Torto",
+      "artist": "Boogarins",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "boogarins"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Derramado",
+      "artist": "Boogarins",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "boogarins"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Eixao",
+      "artist": "Boogarins",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "boogarins"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Voc� sabe muito",
+      "artist": "Boogarins",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "boogarins"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Supernova",
+      "artist": "Boogarins",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "boogarins"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Meto o loco",
+      "artist": "Boogarins",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "boogarins"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Far and safe (Te quero longe)",
+      "artist": "Boogarins",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "boogarins"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Moonstruck",
+      "artist": "Borboleta",
+      "texan": "Not Texan ",
+      "genre": "Pop",
+      "slug": "borboleta"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Earth",
+      "artist": "Borboleta",
+      "texan": "Not Texan ",
+      "genre": "Pop",
+      "slug": "borboleta"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Sunchips",
+      "artist": "Borboleta",
+      "texan": "Not Texan ",
+      "genre": "Pop",
+      "slug": "borboleta"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Take Your Time",
+      "artist": "Borboleta",
+      "texan": "Not Texan ",
+      "genre": "Pop",
+      "slug": "borboleta"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Fly",
+      "artist": "Borboleta",
+      "texan": "Not Texan ",
+      "genre": "Pop",
+      "slug": "borboleta"
+    },
+    {
+      "explicit": "Clean",
+      "song": "I Want to Go to the Side Where You Can Touch��_",
+      "artist": "Boris",
+      "texan": "Not Texan ",
+      "genre": "Metal",
+      "slug": "boris"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Icelina",
+      "artist": "Boris",
+      "texan": "Not Texan ",
+      "genre": "Metal",
+      "slug": "boris"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Drowning by Numbers",
+      "artist": "Boris",
+      "texan": "Not Texan ",
+      "genre": "Metal",
+      "slug": "boris"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Invitation",
+      "artist": "Boris",
+      "texan": "Not Texan ",
+      "genre": "Metal",
+      "slug": "boris"
+    },
+    {
+      "explicit": "Clean",
+      "song": "The Fallen",
+      "artist": "Boris",
+      "texan": "Not Texan ",
+      "genre": "Metal",
+      "slug": "boris"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Beyond Good and Evil",
+      "artist": "Boris",
+      "texan": "Not Texan ",
+      "genre": "Metal",
+      "slug": "boris"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Old Projector",
+      "artist": "Boris",
+      "texan": "Not Texan ",
+      "genre": "Metal",
+      "slug": "boris"
+    },
+    {
+      "explicit": "Clean",
+      "song": "You Will Know (Ohayo Version)",
+      "artist": "Boris",
+      "texan": "Not Texan ",
+      "genre": "Metal",
+      "slug": "boris"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Jozan",
+      "artist": "Boris",
+      "texan": "Not Texan ",
+      "genre": "Metal",
+      "slug": "boris"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Rafflesia",
+      "artist": "Boris with Michio Kurihara/Bor",
+      "texan": "Not Texan ",
+      "genre": "",
+      "slug": "boris"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Writin' on the Wall",
+      "artist": "Boscoe",
+      "texan": "Not Texan ",
+      "genre": "RBSoul",
+      "slug": "boscoe"
+    },
+    {
+      "explicit": "Clean",
+      "song": "The Eye Fell In Love",
+      "artist": "Bosnian Rainbows",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "bosnianrainbows"
+    },
+    {
+      "explicit": "Clean",
+      "song": "I Cry For You",
+      "artist": "Bosnian Rainbows",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "bosnianrainbows"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Morning Sickness",
+      "artist": "Bosnian Rainbows",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "bosnianrainbows"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Torn Maps",
+      "artist": "Bosnian Rainbows",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "bosnianrainbows"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Turtle Neck",
+      "artist": "Bosnian Rainbows",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "bosnianrainbows"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Always on the Run",
+      "artist": "Bosnian Rainbows",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "bosnianrainbows"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Red",
+      "artist": "Bosnian Rainbows",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "bosnianrainbows"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Mother, Father, Set Us Free",
+      "artist": "Bosnian Rainbows",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "bosnianrainbows"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Maryland Avenue (CLEAN)",
+      "artist": "Brassknuckle Boys",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "brassknuckleboys"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Nancy Wilson (Shigeto Remix Feat Ahya Simone & Dez Andres)",
+      "artist": "Brian Jackson",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "brianjackson"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Under The Bridge",
+      "artist": "Brian Jackson, Adrian Younge and Ali Shaheed Muhammad",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "brianjackson"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Mars Walk",
+      "artist": "Brian Jackson, Adrian Younge and Ali Shaheed Muhammad",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "brianjackson"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Young Muhammad",
+      "artist": "Brian Jackson, Adrian Younge and Ali Shaheed Muhammad",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "brianjackson"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Nancy Wilson",
+      "artist": "Brian Jackson, Adrian Younge and Ali Shaheed Muhammad",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "brianjackson"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Baba Ibeji",
+      "artist": "Brian Jackson, Adrian Younge and Ali Shaheed Muhammad",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "brianjackson"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Duality",
+      "artist": "Brian Jackson, Adrian Younge and Ali Shaheed Muhammad",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "brianjackson"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Bain de Minuit",
+      "artist": "Brian Jackson, Adrian Younge and Ali Shaheed Muhammad",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "brianjackson"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Ethiopian Sunshower",
+      "artist": "Brian Jackson, Adrian Younge and Ali Shaheed Muhammad",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "brianjackson"
+    },
+    {
+      "explicit": "Clean",
+      "song": "That's Enough",
+      "artist": "Brother John Witherspoon",
+      "texan": "Not Texan ",
+      "genre": "RBSoul",
+      "slug": "brotherjohnwitherspoon"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Division in the Heartland",
+      "artist": "Bruce Lee Band",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "bruceleeband"
+    },
+    {
+      "explicit": "Clean",
+      "song": "BLT",
+      "artist": "Bruce Lee Band",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "bruceleeband"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Polka Dots And Moonbeams",
+      "artist": "Bud Powell",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "budpowell"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Tea For Two",
+      "artist": "Bud Powell",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "budpowell"
+    },
+    {
+      "explicit": "Clean",
+      "song": "It Could Happen To You",
+      "artist": "Bud Powell",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "budpowell"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Lover Come Back To Me",
+      "artist": "Bud Powell",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "budpowell"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Lullaby of Birdland",
+      "artist": "Bud Powell",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "budpowell"
+    },
+    {
+      "explicit": "Clean",
+      "song": "I Want To Be Happy",
+      "artist": "Bud Powell",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "budpowell"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Embraceable You",
+      "artist": "Bud Powell",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "budpowell"
+    },
+    {
+      "explicit": "Clean",
+      "song": "I've Got You Under My Skin",
+      "artist": "Bud Powell",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "budpowell"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Ornithology",
+      "artist": "Bud Powell",
+      "texan": "Not Texan ",
+      "genre": "Jazz",
+      "slug": "budpowell"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Lost & Lonesome",
+      "artist": "Buffalo Nichols",
+      "texan": "Not Texan ",
+      "genre": "Blues ",
+      "slug": "buffalonichols"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Living Hell",
+      "artist": "Buffalo Nichols",
+      "texan": "Not Texan ",
+      "genre": "Blues ",
+      "slug": "buffalonichols"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Sick Bed Blues",
+      "artist": "Buffalo Nichols",
+      "texan": "Not Texan ",
+      "genre": "Blues ",
+      "slug": "buffalonichols"
+    },
+    {
+      "explicit": "Clean",
+      "song": "These Things",
+      "artist": "Buffalo Nichols",
+      "texan": "Not Texan ",
+      "genre": "Blues ",
+      "slug": "buffalonichols"
+    },
+    {
+      "explicit": "Clean",
+      "song": "How To Love",
+      "artist": "Buffalo Nichols",
+      "texan": "Not Texan ",
+      "genre": "Blues ",
+      "slug": "buffalonichols"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Another Man",
+      "artist": "Buffalo Nichols",
+      "texan": "Not Texan ",
+      "genre": "Blues ",
+      "slug": "buffalonichols"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Back On Top",
+      "artist": "Buffalo Nichols",
+      "texan": "Not Texan ",
+      "genre": "Blues ",
+      "slug": "buffalonichols"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Sorry It Was You",
+      "artist": "Buffalo Nichols",
+      "texan": "Not Texan ",
+      "genre": "Blues ",
+      "slug": "buffalonichols"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Svatba (The Wedding)",
+      "artist": "Bulgarian State Radio & Television Female Vocal",
+      "texan": "Not Texan ",
+      "genre": "Worldwide ",
+      "slug": "bulgarianstateradio"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Kalimankou Denkou (The Evening Gathering)",
+      "artist": "Bulgarian State Radio & Television Female Vocal",
+      "texan": "Not Texan ",
+      "genre": "Worldwide ",
+      "slug": "bulgarianstateradio"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Strati Na Angelaki Doumasche (Haiduk Song)",
+      "artist": "Bulgarian State Radio & Television Female Vocal",
+      "texan": "Not Texan ",
+      "genre": "Worldwide ",
+      "slug": "bulgarianstateradio"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Polegnala E Pschenitza (Harvest Song from Thrace)",
+      "artist": "Bulgarian State Radio & Television Female Vocal",
+      "texan": "Not Texan ",
+      "genre": "Worldwide ",
+      "slug": "bulgarianstateradio"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Messetschinko Lio Greilivko (Love Song from the Mountains)",
+      "artist": "Bulgarian State Radio & Television Female Vocal",
+      "texan": "Not Texan ",
+      "genre": "Worldwide ",
+      "slug": "bulgarianstateradio"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Brei Yvane (Dancing Song)",
+      "artist": "Bulgarian State Radio & Television Female Vocal",
+      "texan": "Not Texan ",
+      "genre": "Worldwide ",
+      "slug": "bulgarianstateradio"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Erghen Diado (Song of Schopsko)",
+      "artist": "Bulgarian State Radio & Television Female Vocal",
+      "texan": "Not Texan ",
+      "genre": "Worldwide ",
+      "slug": "bulgarianstateradio"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Sableyalo Mi Agontze (The Bleating Lamb)",
+      "artist": "Bulgarian State Radio & Television Female Vocal",
+      "texan": "Not Texan ",
+      "genre": "Worldwide ",
+      "slug": "bulgarianstateradio"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Pritouritze Planinata (Song from the Thracian Plain)",
+      "artist": "Bulgarian State Radio & Television Female Vocal",
+      "texan": "Not Texan ",
+      "genre": "Worldwide ",
+      "slug": "bulgarianstateradio"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Mir Stanke le (Harvest Song from Thrace)",
+      "artist": "Bulgarian State Radio & Television Female Vocal",
+      "texan": "Not Texan ",
+      "genre": "Worldwide ",
+      "slug": "bulgarianstateradio"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Schopska Pesen (Diaphonic Chant)",
+      "artist": "Bulgarian State Radio & Television Female Vocal",
+      "texan": "Not Texan ",
+      "genre": "Worldwide ",
+      "slug": "bulgarianstateradio"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Polegnala E Todora (Love Song)",
+      "artist": "Bulgarian State Radio & Television Female Vocal",
+      "texan": "Not Texan ",
+      "genre": "Worldwide ",
+      "slug": "bulgarianstateradio"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Pilentze Pee (Pilentze Sings)",
+      "artist": "Bulgarian State Radio & Television Female Vocal",
+      "texan": "Not Texan ",
+      "genre": "Worldwide ",
+      "slug": "bulgarianstateradio"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Every Tradition",
+      "artist": "Bully",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "bully"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Where To Start",
+      "artist": "Bully",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "bully"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Prism",
+      "artist": "Bully",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "bully"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Add It On",
+      "artist": "Bully",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "bully"
+    },
+    {
+      "explicit": "Clean",
+      "song": "You",
+      "artist": "Bully",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "bully"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Let You",
+      "artist": "Bully",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "bully"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Like Fire",
+      "artist": "Bully",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "bully"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Stuck In Your Head",
+      "artist": "Bully",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "bully"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Come Down",
+      "artist": "Bully",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "bully"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Not Ashamed",
+      "artist": "Bully",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "bully"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Hours And Hours",
+      "artist": "Bully",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "bully"
+    },
+    {
+      "explicit": "Clean",
+      "song": "What I Wanted",
+      "artist": "Bully",
+      "texan": "Not Texan ",
+      "genre": "Alt",
+      "slug": "bully"
+    }
+  ]
+}

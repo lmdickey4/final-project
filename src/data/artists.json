@@ -212,14 +212,14 @@
     },
     {
       "artist": "Armada",
-      "about": "",
+      "about": "Armada is one of the top Indonesian pop groups. Formerly the band KERTAS, they changed their name in 2008 and released their first album Balas Dendam. ",
       "slug": "armada",
       "artist_id": "6H857CtcaYMSxOB4jvSIZf?si=FFHjD9jNSUujk_PijE-UDw",
       "genre": "Pop"
     },
     {
       "artist": "Arushi Jain",
-      "about": "",
+      "about": "Arushi Jain is a singer, pianist, and modular synthesist of Indian classical music. With an unorthodox vision of that centuries-old tradition – one that’s electronic, for a start, and resolutely DIY.",
       "slug": "arushijain",
       "artist_id": "7vQf39VMZhNhPo54R8hIzJ?si=x5N7rDInQPuuwXQCetJNLg",
       "genre": "Electronic"
@@ -233,14 +233,14 @@
     },
     {
       "artist": "Ashley Shadow",
-      "about": "",
+      "about": "Ashley Shadow is from Vancouver, B.C., Canada. She is a songwriter and singer primarily influenced by punk, soul, folk and country.",
       "slug": "ashleyshadow",
       "artist_id": "5RdjQlRaM2PIjLE2tfgHxY?si=2KBDEh7eRqmYQCXt0mbayA",
       "genre": "Alternative"
     },
     {
       "artist": "Atlas Sound",
-      "about": "",
+      "about": "Atlas Sound is the solo project of Bradford Cox, the striking and eccentric vocalist for the enperimental indie rocker act Deerhunter. ",
       "slug": "atlassound",
       "artist_id": "3kGhAL9j1WyNjNkWTRQd8T?si=Quh_tXuRSbGxyzAXMoh9Eg",
       "genre": "Alternative"
@@ -254,14 +254,14 @@
     },
     {
       "artist": "Avey Tare",
-      "about": "",
+      "about": "David Michael Portner, also known by his moniker Avey Tare, is a musician and songwriter who co-founded the American experimental pop band Animal Collective.",
       "slug": "aveytare",
       "artist_id": "0yJolfjqzHfNbr9IoBSndu?si=RzXEr2TGS9GllkqBbC1zcQ",
       "genre": "Alternative"
     },
     {
       "artist": "Avey Tare's Slasher Flicks",
-      "about": "",
+      "about": "Avey Tare's Slasher Flicks, consists of Avey Tare of Animal Collective, ex-Dirty Projectors member Angel Deradoorian, and ex-Ponytaildrummer Jeremy Hyman. The first single from the album, \"Little Fang\", was named \"Best New Track\" by Pitchfork.",
       "slug": "averytareslasher",
       "artist_id": "1sY7Ak1Ygf2ZqmiZPTkZw5?si=hTl104TOQKmZMJ_7j--ZaQ",
       "genre": "Alternative"
@@ -275,17 +275,17 @@
     },
     {
       "artist": "Azymuth",
-      "about": "",
+      "about": "Azymuth is a Brazilian jazz-funk trio formed in 1973. The original band members were the now late Jose Roberto Bertrami (keyboards), plus Alex Malheiros (bass, guitars), and Ivan Conti (drums, percussion).",
       "slug": "azymuth",
       "artist_id": "5lYcr7Yue9FUB7MJDBtTJx?si=A32EX1ukT1W67UetIw4CiQ",
       "genre": "Brazillian"
     },
     {
       "artist": "Bad Waitress",
-      "about": "",
+      "about": "Bad Waitress is a Canadian punk rock band from Toronto, Ontario. The band is signed with Royal Mountain Records. Bad Waitress began under the moniker the Nude Dogs",
       "slug": "badwaitress",
       "artist_id": "5h5YgUkm7vI0bdbQTyBGmb?si=PWMRWOHuTvSze_APkdSlLw",
-      "genre": "Alternative"
+      "genre": "Rock"
     },
     {
       "artist": "Balanca Povo",
@@ -296,7 +296,7 @@
     },
     {
       "artist": "Balkan Taksim",
-      "about": "",
+      "about": "Balkan psych meets bass, breaks and synth electronica with a touch of groove. Their stylish electronic psychedelia and bass flow directly from their roots in Romania and Balkans upstream to global dancefloors.",
       "slug": "balkantaksim",
       "artist_id": "70oqqBR2WFsDZP6JhLvYpm?si=wPnbSup5Q4GqbifICJSOog",
       "genre": "Europe"
@@ -1036,6 +1036,1159 @@
       "artist_id": "",
       "genre": "Worldwide"
     },
+    {
+      "artist": "Early Eyes",
+      "about": "",
+      "slug": "earlyeyes",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Easter Island",
+      "about": "",
+      "slug": "easterisland",
+      "artist_id": "",
+      "genre": "Pop"
+    },
+    {
+      "artist": "Eddie \"Lockjaw\" Davis & Johhny Griffin",
+      "about": "",
+      "slug": "eddiedavis",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Edson Frederico E A Transa",
+      "about": "",
+      "slug": "edsonfrederico",
+      "artist_id": "",
+      "genre": "Latin"
+    },
+    {
+      "artist": "Electrelane",
+      "about": "",
+      "slug": "electrelane",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Electric Blue Yonder",
+      "about": "",
+      "slug": "electricblueyonder",
+      "artist_id": "",
+      "genre": "Folk"
+    },
+    {
+      "artist": "Eli Josef",
+      "about": "",
+      "slug": "elijosef",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Elizabeth Cotten",
+      "about": "",
+      "slug": "elizabethcotten",
+      "artist_id": "",
+      "genre": "Folk"
+    },
+    {
+      "artist": "Emilio Santiago",
+      "about": "",
+      "slug": "emiliosantiago",
+      "artist_id": "",
+      "genre": "Brazillian"
+    },
+    {
+      "artist": "Emily Brown",
+      "about": "",
+      "slug": "emilybrown",
+      "artist_id": "",
+      "genre": "Folk"
+    },
+    {
+      "artist": "Emma Ruth Rundle & Thou",
+      "about": "",
+      "slug": "emmaruthrundle",
+      "artist_id": "",
+      "genre": "Rock"
+    },
+    {
+      "artist": "Eric Dolphy",
+      "about": "",
+      "slug": "ericdolphy",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Ernest Ranglin",
+      "about": "",
+      "slug": "ernestranglin",
+      "artist_id": "",
+      "genre": "Reggae"
+    },
+    {
+      "artist": "Erroll Garner",
+      "about": "",
+      "slug": "errollgarner",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Even Oxen",
+      "about": "",
+      "slug": "evenoxen",
+      "artist_id": "",
+      "genre": "Christian"
+    }
+  ],
+  "number artist": [
+    {
+      "artist": "13th Floor Elevators",
+      "about": "The 13th Floor Elevators was an American rock band from Austin, Texas, United States, formed by guitarist and vocalist Roky Erickson, electric jug player Tommy Hall, and guitarist Stacy Sutherland. The band was together from 1965 to 1969, and during that period released four albums and seven singles for the International Artists record label.",
+      "slug": "13thfloorelevators",
+      "artist_id": "7xYxgSJaIf7yOFLmknYX38",
+      "genre": "Rock"
+    },
+    {
+      "artist": "45 Adapters",
+      "about": "The 45 Adapters are a New York based band that dresses well and drinks heavily.",
+      "slug": "45adapters",
+      "artist_id": "29VfueynBGZbP66KqDI8TF",
+      "genre": "Punk"
+    },
+    {
+      "artist": "5 Spiritual Tones",
+      "about": "5 Spiritual Tones is a 70s band that focuses primarily on funk and gospel.",
+      "slug": "5spiritualtones",
+      "artist_id": "10iIZAzGU0K1izfpB1VmV6",
+      "genre": "R&B/Soul"
+    }
+  ],
+  "a artist": [
+    {
+      "artist": "A.A. Williams",
+      "about": "Describing her music (tongue in cheek) as \"death gospel,\" A.A. Williams writes and performs dark and deeply atmospheric songs with a textured voice, matched by her instrumental abilities on guitar, piano, and cello.",
+      "slug": "aawilliams",
+      "artist_id": "1D0MStnRzJeelcnDjeBo8O",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Abbey Lincoln",
+      "about": "Anna Marie Wooldridge (August 6, 1930 – August 14, 2010), known professionally as Abbey Lincoln, was an American jazz vocalist, songwriter, and actress. She was a civil rights activist beginning in the 1960s. Lincoln made a career out of delivering deeply felt presentations of standards as well as writing and singing her own material.",
+      "slug": "abbeylincoln",
+      "artist_id": "0A9p7WNA1VwxVyrjx92Z9F",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "ADOY",
+      "about": "Adoy (Korean: 아도이), is a South Korean band formed in 2017. The band debuted on May 17, 2017, with Catnip.",
+      "slug": "adoy",
+      "artist_id": "64sY7LsUjNE3ifONkftTXC",
+      "genre": "Rock"
+    },
+    {
+      "artist": "African Brothers Band",
+      "about": "The African Brothers were a Jamaican reggae vocal trio formed by three Kingston teenagers - Lincoln \"Sugar\" Minott, Winston \"Tony Tuff\" Morris, and Derrick \"Bubbles\" Howard.",
+      "slug": "africanbrothersband",
+      "artist_id": "35F5yIph194spZD2wfhPrg?si=VvrIUtMRRUaCt2owEkwyrA",
+      "genre": "Worldwide"
+    },
+    {
+      "artist": "Aim Low",
+      "about": "Brighton based 5-piece rock/grunge band from the South coast of England.",
+      "slug": "aimlow",
+      "artist_id": "1O7HfHbbX2e6hBtDeRX22V?si=dvG8rLKwRwijArK3z_RMEQ",
+      "genre": "Ambient"
+    },
+    {
+      "artist": "Ajoy Chakrabarty",
+      "about": "Pandit Ajoy Chakrabarty is an Indian Hindustani classical vocalist, composer, lyricist and gurudev of the Patiala-Kasur gharana. He is considered to be one of the proverbial figures of Indian classical music.",
+      "slug": "ajoychakrabarty",
+      "artist_id": "6Xg6qVSMnpyFFBf8mtuUrR?si=W9zrgyudS6STy_llsVucXA",
+      "genre": "Indian"
+    },
+    {
+      "artist": "Akron",
+      "about": "Akron/Family were an American folk-influenced experimental rock band active from 2002 to 2013. Former members have lived in Portland, Oregon; Los Angeles, California; and Joshua Tree, California.",
+      "slug": "akron",
+      "artist_id": "64l9cD8tQscYZCGRLlNm3f?si=sllRZqgUQRKfI4w77cHpaA",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Albert Ayler",
+      "about": "Albert Ayler was an American avant-garde jazz saxophonist, singer and composer. After early experience playing R&B and bebop, Ayler began recording music during the free jazz era of the 1960s.",
+      "slug": "albertayler",
+      "artist_id": "2wn2nqzITvJ1vcMRO8Wzv6?si=0wgq7ZRYQyKD8MaplvgNnw",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Alewya",
+      "about": "Alewya Demmisse, known artistically as Alewya, is a British singer-songwriter, producer, multidisciplinary artist, and model.",
+      "slug": "alewya",
+      "artist_id": "0wcjJjpvnHb5vK4iwKfxPm?si=PwTrmkn6TgOA3UNHkooOAA",
+      "genre": "Hip-Hop/Rap"
+    },
+    {
+      "artist": "alexalone",
+      "about": "The sounds of alexalone will usher you into warm, fuzzy, lonely spaces, then shock you alive with pulsing energy. But, alexalone’s first full length album, ALEXALONEWORLD, isn’t merely about the sound, it is an exercise in world building, and a portrait of the artist cradling and nurturing their emotions as they create, navigating labyrinths of pain as they search for exits, and hoping for a haven where they can survey the damage and regroup.",
+      "slug": "alexalone",
+      "artist_id": "4gbLYxmxdl7JsjaiInWsMO?si=Eq_1PKUpSmuwBzOjbUh0BA",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Alfa Mist",
+      "about": "Alfa Mist is a British musician, producer, song-writer and MC based in Newham, London. He released his first solo EP Nocturne in 2015. He also runs a music label called Sekito. His music mixes hip-hop and club tropes with jazz improvisation. He collaborated with several musicians, including Jordan Rakei, Yussef Dayes and Tom Misch.",
+      "slug": "alfamist",
+      "artist_id": "2i1CPudyCUjL50Wqjv8AMI?si=mKya0kXZS52sF30IyzbWVQ",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Algernon Cadwallader",
+      "about": "Algernon Cadwallader was an American emo and math rock band from Yardley, Pennsylvania. They were active from 2005 to 2012. Stereogum referred to the band as the \"heroes of the emo revival\".",
+      "slug": "algernoncadwallader",
+      "artist_id": "1BfYXNfaB5HBwHn4gxnEQE?si=Vka3qUMNTd6CXB1vlo4wxg",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Alice Coltrane",
+      "about": "In 2021 he released an album titled Bring Backs on the American independent music label Anti-.[3][4] He also performed at the 2021 We Out Here Festival[7] and was one of the MOBO Awards 2021 nominees.[8]",
+      "slug": "alicecoltrane",
+      "artist_id": "0oKYiTD5CdNbrofRvM1dIr?si=lWfODXxyQjqpnCztLL4ApQ",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Altin Gun",
+      "about": "Altın Gün is an Anatolian rock band from Amsterdam, Netherlands. It was founded by bassist Jasper Verhulst in 2016 when he posted an ad on Facebook looking for Turkish musicians. Their style has been described as \"psychedelic\" with a \"dirty blend of funk rhythms, wah-wah guitars and analogue organs\".",
+      "slug": "altingun",
+      "artist_id": "37PL04N8kBWWW69jdrMMWT?si=kiZi8AO_QQO3EX1MmA9mhQ",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Andrew Hill",
+      "about": "Andrew Hill (June 30, 1931 – April 20, 2007) was an American jazz pianist and composer. Jazz critic John Fordham described Hill as a \"uniquely gifted composer, pianist and educator\" although \"his status remained largely inside knowledge in the jazz world for most of his career.\" Hill recorded for Blue Note Records for nearly a decade, producing a dozen albums.",
+      "slug": "andrewhill",
+      "artist_id": "4ORSNkNYSzva169PBZCzvy?si=e_aJf8DhSGqtq5Tb45MEgQ",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Angelique Kidjo",
+      "about": "Angélique Kpasseloko Hinto Hounsinou Kandjo Manta Zogbin Kidjo is a Beninese singer-songwriter, actress, and activist who is noted for her diverse musical influences and creative music videos. Kidjo was born into a family of performing artists.",
+      "slug": "angeliquekidjo",
+      "artist_id": "51qUDJb5AtQX6jIL4VJx6M?si=xHcEF5hRRomH9UK57BuA3A",
+      "genre": "Classical"
+    },
+    {
+      "artist": "Anjimile",
+      "about": "Anjimile Chithambo, better known under the mononym Anjimile, is an American folk musician from Boston, Massachusetts.",
+      "slug": "anjimile",
+      "artist_id": "4CmXLOB2gQfewLf8iTbNVp?si=rcOlnWLgSayY7ixS6YExOg",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Anna Ash",
+      "about": "Anna Ash expresses tension through smooth vocals and thoughtful lyrics, drawing from a variety of influences, from her folk roots to the jazz-soul of collaborators such as Joe Dart and Theo Katzman of Vulfpeck.",
+      "slug": "annaash",
+      "artist_id": "1QyjHJQb3WeWFxXaNLpLOw?si=H0OnKqqGRNeaPueIFLNSHQ",
+      "genre": "Alternative Folk"
+    },
+    {
+      "artist": "Anna McClellan",
+      "about": "Anna McClellan began performing original songs in her hometown of Omaha, NE at the age of seventeen and has been actively recording and touring ever since.",
+      "slug": "annamcclellan",
+      "artist_id": "2Y8G3abt5hRU7X9RNi7dlZ?si=EebVaTmGT6OemPKPRMCI8A",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Anoushka Shankar",
+      "about": "Anoushka Shankar is a British-Indian-American sitar player, producer, film composer and activist. She was the youngest and first woman to receive a British House of Commons Shield; she has had 7 Grammy Awards nominations and was the first Indian musician to perform live and to serve as presenter at the ceremony.",
+      "slug": "anoushkashankar",
+      "artist_id": "6MTByljF8u5omBltY2VKPU?si=0CRjCD_9TD-6veIvEGuYuw",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Antagonizers ATL",
+      "about": "Christopher Berinato. For Do Savannah. Working class street punks Antagonizers ATL are bringing their infectious Oi! energy to the Wormhole along with punk legends Patriot and Halebopp Astronauts.",
+      "slug": "antagonizersatl",
+      "artist_id": "244VyPaXxvLMx4z2Rlf8oK?si=ga0Kx_DRTV6Ywt5YwVShgg",
+      "genre": "Punk"
+    },
+    {
+      "artist": "Anthony Braxton",
+      "about": "Anthony Braxton (born June 4, 1945) is an American experimental composer, improviser and multi-instrumentalist who is best known for playing saxophones, particularly the alto. Braxton grew up on the South Side of Chicago, Illinois, and was a key early member of the Association for the Advancement of Creative Musicians. He received great acclaim for his 1969 double-LP record For Alto, the first full-length album of solo saxophone music.",
+      "slug": "anthonybrazton",
+      "artist_id": "3UXq4fckDmcPmleixlrl6i?si=taYi-dzEQL6ZNYioslCfBg",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Anushka",
+      "about": "Brighton-based duo Max Wheeler (producer) and Victoria Port (singer/songwriter) AKA Anushka transcend the UK jazz-electronic scene, melding dancefloor beats with sweet melodies, carried by mystifying female vocals.",
+      "slug": "anushka",
+      "artist_id": "30kBWK3T10BVkU6WLSeody?si=ZAwnUANETEWMyidg5-uetQ",
+      "genre": "Electronic"
+    },
+    {
+      "artist": "Anxious",
+      "about": "Anxious is an American emo band from Fairfield, Connecticut. The band is currently signed to Run for Cover Records. The band released their debut album in 2022 titled Little Green House.",
+      "slug": "anxious",
+      "artist_id": "4uOeSBqJoBz5OrxrsrTboH?si=N95eDOY1SL64lD1wW0mLSA",
+      "genre": "Indie Rock"
+    },
+    {
+      "artist": "Apostles of Music",
+      "about": "The Apostles are an English experimental punk rock band, who developed within the confines of the 1980s anarcho-punk scene in the UK, but did not necessarily adhere to the aesthetics of that movement.",
+      "slug": "apostlesofmusic",
+      "artist_id": "0iWhQM79cWPaf6oSifmQTU?si=1BfexiuySQiQ2-GEdzPtIw",
+      "genre": "Gospel Funk"
+    },
+    {
+      "artist": "Archie Shepp and Jason Moran",
+      "about": "Archie Shepp is an American jazz saxophonist, educator and playwright who since the 1960s has played a central part in the development of avant-garde jazz.",
+      "slug": "archieshepp",
+      "artist_id": "7C2DSqaNkh0w77O5Jz1FKh?si=9gVcy0OvS5uizgG_2YHFUQ",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "area resident",
+      "about": "Area Resident is Doug Hempstead. A CBC radio journalist twice-a-day and basement recording artist by night. This is the music he makes, mostly alone.",
+      "slug": "arearesident",
+      "artist_id": "6ywDHuGJnKfw4P3KGEbjuR?si=-8pyIuv6Qsi-0jT0ngOrVg",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Armada",
+      "about": "Armada is one of the top Indonesian pop groups. Formerly the band KERTAS, they changed their name in 2008 and released their first album Balas Dendam. ",
+      "slug": "armada",
+      "artist_id": "6H857CtcaYMSxOB4jvSIZf?si=FFHjD9jNSUujk_PijE-UDw",
+      "genre": "Pop"
+    },
+    {
+      "artist": "Arushi Jain",
+      "about": "Arushi Jain is a singer, pianist, and modular synthesist of Indian classical music. With an unorthodox vision of that centuries-old tradition – one that’s electronic, for a start, and resolutely DIY.",
+      "slug": "arushijain",
+      "artist_id": "7vQf39VMZhNhPo54R8hIzJ?si=x5N7rDInQPuuwXQCetJNLg",
+      "genre": "Electronic"
+    },
+    {
+      "artist": "Asha Bhosle & Mohammed Rafi",
+      "about": "",
+      "slug": "ashabhosle",
+      "artist_id": "2HKRvizUyXbd5lEmHbZX4n?si=E57yadcgQ9G7i0D9YOAGkg",
+      "genre": "Indian Folk"
+    },
+    {
+      "artist": "Ashley Shadow",
+      "about": "Ashley Shadow is from Vancouver, B.C., Canada. She is a songwriter and singer primarily influenced by punk, soul, folk and country.",
+      "slug": "ashleyshadow",
+      "artist_id": "5RdjQlRaM2PIjLE2tfgHxY?si=2KBDEh7eRqmYQCXt0mbayA",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Atlas Sound",
+      "about": "Atlas Sound is the solo project of Bradford Cox, the striking and eccentric vocalist for the enperimental indie rocker act Deerhunter. ",
+      "slug": "atlassound",
+      "artist_id": "3kGhAL9j1WyNjNkWTRQd8T?si=Quh_tXuRSbGxyzAXMoh9Eg",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Avan Samba",
+      "about": "",
+      "slug": "avansamba",
+      "artist_id": "2zljr65ymhYWSEzfVqkIRp?si=uACHZE-jSBq_4oT6_pF3YA",
+      "genre": "Brazillian Soul"
+    },
+    {
+      "artist": "Avey Tare",
+      "about": "David Michael Portner, also known by his moniker Avey Tare, is a musician and songwriter who co-founded the American experimental pop band Animal Collective.",
+      "slug": "aveytare",
+      "artist_id": "0yJolfjqzHfNbr9IoBSndu?si=RzXEr2TGS9GllkqBbC1zcQ",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Avey Tare's Slasher Flicks",
+      "about": "Avey Tare's Slasher Flicks, consists of Avey Tare of Animal Collective, ex-Dirty Projectors member Angel Deradoorian, and ex-Ponytaildrummer Jeremy Hyman. The first single from the album, \"Little Fang\", was named \"Best New Track\" by Pitchfork.",
+      "slug": "averytareslasher",
+      "artist_id": "1sY7Ak1Ygf2ZqmiZPTkZw5?si=hTl104TOQKmZMJ_7j--ZaQ",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Azambuja & Cia",
+      "about": "",
+      "slug": "azambuja",
+      "artist_id": "5NZ8pLdaU55CuRvfzTCdfS?si=DKVwpSAcTZ-CY1P08XN3lw",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Azymuth",
+      "about": "Azymuth is a Brazilian jazz-funk trio formed in 1973. The original band members were the now late Jose Roberto Bertrami (keyboards), plus Alex Malheiros (bass, guitars), and Ivan Conti (drums, percussion).",
+      "slug": "azymuth",
+      "artist_id": "5lYcr7Yue9FUB7MJDBtTJx?si=A32EX1ukT1W67UetIw4CiQ",
+      "genre": "Brazillian"
+    }
+  ],
+  "b artist": [
+    {
+      "artist": "Bad Waitress",
+      "about": "Bad Waitress is a Canadian punk rock band from Toronto, Ontario. The band is signed with Royal Mountain Records. Bad Waitress began under the moniker the Nude Dogs",
+      "slug": "badwaitress",
+      "artist_id": "5h5YgUkm7vI0bdbQTyBGmb?si=PWMRWOHuTvSze_APkdSlLw",
+      "genre": "Rock"
+    },
+    {
+      "artist": "Balanca Povo",
+      "about": "",
+      "slug": "balancapovo",
+      "artist_id": "0WfSHt8t3NOJwDyvAcvzVA?si=e2zipRMTQzqpTdQ73CTOnw",
+      "genre": "Brazillian Soul"
+    },
+    {
+      "artist": "Balkan Taksim",
+      "about": "Balkan psych meets bass, breaks and synth electronica with a touch of groove. Their stylish electronic psychedelia and bass flow directly from their roots in Romania and Balkans upstream to global dancefloors.",
+      "slug": "balkantaksim",
+      "artist_id": "70oqqBR2WFsDZP6JhLvYpm?si=wPnbSup5Q4GqbifICJSOog",
+      "genre": "Europe"
+    },
+    {
+      "artist": "Beach Bullies",
+      "about": "",
+      "slug": "beachbullies",
+      "artist_id": "5WlYpIRy7xB6nqclsHJSvK?si=b7zTXHIgTMOUw8xMMpk8VQ",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Bebeto",
+      "about": "",
+      "slug": "bebeto",
+      "artist_id": "1YhMWppPt9RVODKD1KCs7W?si=SLGgIVrHT-SSKWFW2QCpgw",
+      "genre": "Brazillian Soul"
+    },
+    {
+      "artist": "Bent Arcana",
+      "about": "",
+      "slug": "bentarcana",
+      "artist_id": "3rOnnvTLenWmwrHP0dvFsM?si=5FaP7e0STU-zCRxmgtjn4w",
+      "genre": "Rock"
+    },
+    {
+      "artist": "Bernice",
+      "about": "",
+      "slug": "bernice",
+      "artist_id": "5gpIHPSqWFnsv9UAwEGN0s?si=G4PYfYjbSKmSAmryztupyw",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Beverly Glenn-Copeland",
+      "about": "",
+      "slug": "beverlyglenncopeland",
+      "artist_id": "2bN5hXtWZXEIfnHO34eXfe?si=UgGRTTf5QPum_8iGUDYrxQ",
+      "genre": "New Age"
+    },
+    {
+      "artist": "Big Youth",
+      "about": "",
+      "slug": "bigyouth",
+      "artist_id": "2TdzGitZtbe3Zw3BB4SFEH?si=LH8HP5iTT9OL_EjRVllvgA",
+      "genre": "Reggae"
+    },
+    {
+      "artist": "Billy Dean Thomas",
+      "about": "",
+      "slug": "billydeanthomas",
+      "artist_id": "42QQTC9Wg1z2v1F4UZElXV?si=yM9hxs5sTmWdOFNGx6A_fQ",
+      "genre": "Hip-Hop/Rap"
+    },
+    {
+      "artist": "Black Country, New Road",
+      "about": "",
+      "slug": "blackcountrynewroad",
+      "artist_id": "3PP6ghmOlDl2jaKaH0avUN?si=I3QXgfNOTOK4qjBzSbEwJw",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Blaze Foley",
+      "about": "",
+      "slug": "blazefoley",
+      "artist_id": "1TlScGwN8MmIZ7kIYGjSZA?si=y5WB4k6wRHuNeIaT2r-QrQ",
+      "genre": "Country"
+    },
+    {
+      "artist": "Blue Cactus",
+      "about": "",
+      "slug": "bluecactus",
+      "artist_id": "6rouro6xhJxK6NxCHLp26n?si=7SjH5wjWQwecC66zgJ3hew",
+      "genre": "Country"
+    },
+    {
+      "artist": "Blunt Bangs",
+      "about": "",
+      "slug": "bluntbangs",
+      "artist_id": "3jIyC1JqUl8T4hIqTodBOz?si=f5ka1f4HTISZsQ6gC5zzyg",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Bo Jangles",
+      "about": "",
+      "slug": "bojangles",
+      "artist_id": "28zgV9i9R7tX9NYoOJ7Vxi?si=1LB4QDCUQxi6nbObcjs1UQ",
+      "genre": "Hip-Hop/Rap"
+    },
+    {
+      "artist": "Bomb the Music Industry!",
+      "about": "",
+      "slug": "bombthemusicindustry",
+      "artist_id": "7mmU5GuOoyxoBAgOZkSVj7?si=WkI5blgcRvKfhh3wfFoDxQ",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Bombino",
+      "about": "",
+      "slug": "bombino",
+      "artist_id": "7s4I6rDvTcdBDKElVbtsAN?si=63mMCBp0QGK-o4xjk8ID0Q",
+      "genre": "Afro-Pop"
+    },
+    {
+      "artist": "Bonecrusher",
+      "about": "",
+      "slug": "bonecrusher",
+      "artist_id": "6cwlhbT6PnscdmUYCLUJsa?si=YscsTqVbSw2cxlQPRqIkjQ",
+      "genre": "Hip-Hop/Rap"
+    },
+    {
+      "artist": "Bonifrate",
+      "about": "",
+      "slug": "bonifrate",
+      "artist_id": "3MfRmtrqF1iq8uwon8ffuT?si=5lUUepgDQAysx6t1pD771w",
+      "genre": "Psychedelic"
+    },
+    {
+      "artist": "Boogarins",
+      "about": "",
+      "slug": "boogarins",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Borboleta",
+      "about": "",
+      "slug": "borboleta",
+      "artist_id": "",
+      "genre": "Pop"
+    },
+    {
+      "artist": "Boris",
+      "about": "",
+      "slug": "boris",
+      "artist_id": "",
+      "genre": "Metal"
+    },
+    {
+      "artist": "Boscoe",
+      "about": "",
+      "slug": "boscoe",
+      "artist_id": "",
+      "genre": "R&B/Soul"
+    },
+    {
+      "artist": "Bosnian Rainbows",
+      "about": "",
+      "slug": "bosnianrainbows",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Brassknuckle Boys",
+      "about": "",
+      "slug": "brassknuckleboys",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Brian Jackson",
+      "about": "",
+      "slug": "brianjackson",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Brother John Witherspoon",
+      "about": "",
+      "slug": "brotherjohnwitherspoon",
+      "artist_id": "",
+      "genre": "R&B/Soul"
+    },
+    {
+      "artist": "Bruce Lee Band",
+      "about": "",
+      "slug": "bruceleeband",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Bud Powell",
+      "about": "",
+      "slug": "budpowell",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Buffalo Nichols",
+      "about": "",
+      "slug": "buffalonichols",
+      "artist_id": "",
+      "genre": "Blues"
+    },
+    {
+      "artist": "Bulgarian State Radio & Television Female Vocal",
+      "about": "",
+      "slug": "bulgarianstateradio",
+      "artist_id": "",
+      "genre": "Worldwide"
+    },
+    {
+      "artist": "Bully",
+      "about": "",
+      "slug": "bully",
+      "artist_id": "",
+      "genre": "Alternative"
+    }
+  ],
+  "c artist": [
+    {
+      "artist": "Captain Beefheart & His Magic Band",
+      "about": "",
+      "slug": "captainbeefheart",
+      "artist_id": "",
+      "genre": "Rock"
+    },
+    {
+      "artist": "Cap'n Jazz",
+      "about": "",
+      "slug": "capnjazz",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Carissa's Wierd",
+      "about": "",
+      "slug": "carissaswierd",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Carlos Nino & Friends",
+      "about": "",
+      "slug": "carlosnino",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Cassandra Jenkins",
+      "about": "",
+      "slug": "cassandrajenkins",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Cedarsmoke",
+      "about": "",
+      "slug": "cedarsmoke",
+      "artist_id": "",
+      "genre": "Indie Rock"
+    },
+    {
+      "artist": "Cedric Noel",
+      "about": "",
+      "slug": "cedricnoel",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Celeste Krishna & Monarchs",
+      "about": "",
+      "slug": "celestekrishna",
+      "artist_id": "",
+      "genre": "Indie Pop"
+    },
+    {
+      "artist": "Central Heat Exchange",
+      "about": "",
+      "slug": "centralheatexchange",
+      "artist_id": "",
+      "genre": "Indie Rock"
+    },
+    {
+      "artist": "CHAI",
+      "about": "",
+      "slug": "chai",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Charles Lloyd & The Marvels",
+      "about": "",
+      "slug": "charleslloyd",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Charles Mingus",
+      "about": "",
+      "slug": "charlesmingus",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Charlie Ballantine",
+      "about": "",
+      "slug": "charlieballantine",
+      "artist_id": "",
+      "genre": "Hard Bop"
+    },
+    {
+      "artist": "Charlie Parker",
+      "about": "",
+      "slug": "charlieparker",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Cher Strauberry",
+      "about": "",
+      "slug": "cherstrauberry",
+      "artist_id": "",
+      "genre": "Punk"
+    },
+    {
+      "artist": "Chris Bell",
+      "about": "",
+      "slug": "chrisbell",
+      "artist_id": "",
+      "genre": "Rock"
+    },
+    {
+      "artist": "Christian McBride",
+      "about": "",
+      "slug": "christianmcbride",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Christina Ward",
+      "about": "",
+      "slug": "christinaward",
+      "artist_id": "",
+      "genre": "Pop"
+    },
+    {
+      "artist": "Christopher Parker & The Band of Guardian Angels",
+      "about": "",
+      "slug": "christopherparker",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Chrome",
+      "about": "",
+      "slug": "chrome",
+      "artist_id": "",
+      "genre": "Rock"
+    },
+    {
+      "artist": "Chubby and the Gang",
+      "about": "",
+      "slug": "chubbyandthegang",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Chuck is a Band",
+      "about": "",
+      "slug": "chuckisaband",
+      "artist_id": "",
+      "genre": "Rock"
+    },
+    {
+      "artist": "Church Girls",
+      "about": "",
+      "slug": "churchgirls",
+      "artist_id": "",
+      "genre": "Rock"
+    },
+    {
+      "artist": "CIVIC",
+      "about": "",
+      "slug": "civic",
+      "artist_id": "",
+      "genre": "Punk"
+    },
+    {
+      "artist": "Clarence Clarity",
+      "about": "",
+      "slug": "clarenceclarity",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Clark Terry Quartet",
+      "about": "",
+      "slug": "clarkterryquartet",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Claudia",
+      "about": "",
+      "slug": "claudia",
+      "artist_id": "",
+      "genre": "R&B/Soul"
+    },
+    {
+      "artist": "Cliff Gober",
+      "about": "",
+      "slug": "cliffgober",
+      "artist_id": "",
+      "genre": "R&B/Soul"
+    },
+    {
+      "artist": "Cloakroom",
+      "about": "",
+      "slug": "cloakroom",
+      "artist_id": "",
+      "genre": "Rock"
+    },
+    {
+      "artist": "Cochemea",
+      "about": "",
+      "slug": "cochemea",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Coco",
+      "about": "",
+      "slug": "coco",
+      "artist_id": "",
+      "genre": "Pop"
+    },
+    {
+      "artist": "Collie Ryan",
+      "about": "",
+      "slug": "collieryan",
+      "artist_id": "",
+      "genre": "Folk"
+    },
+    {
+      "artist": "Collin Sherman",
+      "about": "",
+      "slug": "collinsherman",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Comets On Fire",
+      "about": "",
+      "slug": "cometsonfire",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Concrete Elite",
+      "about": "",
+      "slug": "concreteelite",
+      "artist_id": "",
+      "genre": "Punk"
+    },
+    {
+      "artist": "Cornelius",
+      "about": "",
+      "slug": "cornelius",
+      "artist_id": "",
+      "genre": "Rock"
+    },
+    {
+      "artist": "Count Ossie & The Mystic Revel",
+      "about": "",
+      "slug": "countossie",
+      "artist_id": "",
+      "genre": "Reggae"
+    },
+    {
+      "artist": "Coupons",
+      "about": "",
+      "slug": "coupons",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Cry Babies",
+      "about": "",
+      "slug": "crybabies",
+      "artist_id": "",
+      "genre": "Funk/Soul"
+    },
+    {
+      "artist": "Crying",
+      "about": "",
+      "slug": "crying",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Crystal Murray",
+      "about": "",
+      "slug": "crystalmurray",
+      "artist_id": "",
+      "genre": "R&B/Soul"
+    },
+    {
+      "artist": "Culture",
+      "about": "",
+      "slug": "culture",
+      "artist_id": "",
+      "genre": "Hip-Hop/Rap"
+    }
+  ],
+  "d artist": [
+    {
+      "artist": "Dadawah",
+      "about": "",
+      "slug": "dadawah",
+      "artist_id": "",
+      "genre": "Reggae"
+    },
+    {
+      "artist": "Dalai Lama",
+      "about": "",
+      "slug": "dalailama",
+      "artist_id": "",
+      "genre": "Devotion/Spiritual"
+    },
+    {
+      "artist": "Dandy Livingstone",
+      "about": "",
+      "slug": "dandylivingstone",
+      "artist_id": "",
+      "genre": "Reggae"
+    },
+    {
+      "artist": "Darius Jones",
+      "about": "",
+      "slug": "dariusjones",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Dave Burrell",
+      "about": "",
+      "slug": "daveburrell",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Dave McMurray",
+      "about": "",
+      "slug": "davemcmurray",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Dave Sewelson",
+      "about": "",
+      "slug": "davesewelson",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "David Lynch",
+      "about": "",
+      "slug": "davidlynch",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "days n' daze",
+      "about": "",
+      "slug": "daysndaze",
+      "artist_id": "",
+      "genre": "Punk"
+    },
+    {
+      "artist": "Dead Kennedys",
+      "about": "",
+      "slug": "deadkennedys",
+      "artist_id": "",
+      "genre": "Punk"
+    },
+    {
+      "artist": "Deakin",
+      "about": "",
+      "slug": "deakin",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Death",
+      "about": "",
+      "slug": "death",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Debashish Bhattacharya",
+      "about": "",
+      "slug": "debashishbhattacharya",
+      "artist_id": "",
+      "genre": "Indian Classical"
+    },
+    {
+      "artist": "Deerhoof",
+      "about": "",
+      "slug": "deerhoof",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Defiance, Ohio",
+      "about": "",
+      "slug": "defianceohio",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Del Paxton",
+      "about": "",
+      "slug": "delpaxton",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Deradoorian",
+      "about": "",
+      "slug": "deradoorian",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Dexter Gordon",
+      "about": "",
+      "slug": "dextergordon",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Dezron Douglas & Brandee Young",
+      "about": "",
+      "slug": "dezrondouglas",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Dhruba Ghosh",
+      "about": "",
+      "slug": "dhrubaghosh",
+      "artist_id": "",
+      "genre": "Classical"
+    },
+    {
+      "artist": "Dizzy Gillespie &Charlie Parker",
+      "about": "",
+      "slug": "dizzygillespie",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "DJ 2-Tone Jones",
+      "about": "",
+      "slug": "dj2tone",
+      "artist_id": "",
+      "genre": "Hip-Hop/Rap"
+    },
+    {
+      "artist": "DJ Harrison",
+      "about": "",
+      "slug": "djharrison",
+      "artist_id": "",
+      "genre": "Electronic"
+    },
+    {
+      "artist": "DLG",
+      "about": "",
+      "slug": "dlg",
+      "artist_id": "",
+      "genre": "Tropical"
+    },
+    {
+      "artist": "Don Caballero",
+      "about": "",
+      "slug": "doncaballero",
+      "artist_id": "",
+      "genre": "Alternative"
+    },
+    {
+      "artist": "Don Chicharron",
+      "about": "",
+      "slug": "donchicharron",
+      "artist_id": "",
+      "genre": "Latin"
+    },
+    {
+      "artist": "Don Lifted",
+      "about": "",
+      "slug": "donlifted",
+      "artist_id": "",
+      "genre": "Alternative Rap"
+    },
+    {
+      "artist": "Doug & The Slugz",
+      "about": "",
+      "slug": "dougandtheslugz",
+      "artist_id": "",
+      "genre": "Metal"
+    },
+    {
+      "artist": "Doug Carn",
+      "about": "",
+      "slug": "dougcarn",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Dowdelin",
+      "about": "",
+      "slug": "dowdelin",
+      "artist_id": "",
+      "genre": "Cajun"
+    },
+    {
+      "artist": "Dr. Lonnie Smith",
+      "about": "",
+      "slug": "lonniesmith",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Duck. Little Brother, Duck!",
+      "about": "",
+      "slug": "ducklittlebrotherduck",
+      "artist_id": "",
+      "genre": "Rock"
+    },
+    {
+      "artist": "Duke Pearson",
+      "about": "",
+      "slug": "dukepearson",
+      "artist_id": "",
+      "genre": "Jazz"
+    },
+    {
+      "artist": "Dutch Falconi",
+      "about": "",
+      "slug": "dutchfalconi",
+      "artist_id": "",
+      "genre": "Worldwide"
+    }
+  ],
+  "e artist": [
     {
       "artist": "Early Eyes",
       "about": "",

@@ -1,0 +1,1724 @@
+{
+  "a_songs": [
+    {
+      "explicit": "Clean",
+      "song": "Control",
+      "artist": "A.A. Williams",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "aawilliams"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Cold",
+      "artist": "A.A. Williams",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "aawilliams"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Terrible Friends",
+      "artist": "A.A. Williams",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "aawilliams"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Belong",
+      "artist": "A.A. Williams",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "aawilliams"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Lost In The Stars",
+      "artist": "Abbey Lincoln",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "abbeylincoln"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Simply",
+      "artist": "ADOY",
+      "texan": "Not Texan",
+      "genre": "Korean",
+      "slug": "adoy"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Antihero",
+      "artist": "ADOY",
+      "texan": "Not Texan",
+      "genre": "Korean",
+      "slug": "adoy"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Saint",
+      "artist": "ADOY",
+      "texan": "Not Texan",
+      "genre": "Korean",
+      "slug": "adoy"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Baby",
+      "artist": "ADOY",
+      "texan": "Not Texan",
+      "genre": "Korean",
+      "slug": "adoy"
+    },
+    {
+      "explicit": "Clean",
+      "song": "NY",
+      "artist": "ADOY",
+      "texan": "Not Texan",
+      "genre": "Korean",
+      "slug": "adoy"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Up",
+      "artist": "ADOY",
+      "texan": "Not Texan",
+      "genre": "Korean",
+      "slug": "adoy"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Machozi ya Huba",
+      "artist": "Adventures In Sound",
+      "texan": "Not Texan",
+      "genre": "Worldwide",
+      "slug": "adventuresinsound"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Ebi Te Yie",
+      "artist": "African Brothers Band (Interna",
+      "texan": "Not Texan",
+      "genre": "Worldwide",
+      "slug": "africanbrothersband"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Abusua Nnye Asafo",
+      "artist": "African Brothers Band (Interna",
+      "texan": "Not Texan",
+      "genre": "Worldwide",
+      "slug": "africanbrothersband"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Mmobrowa",
+      "artist": "African Brothers Band (Interna",
+      "texan": "Not Texan",
+      "genre": "Worldwide",
+      "slug": "africanbrothersband"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Ofie Nwansena",
+      "artist": "African Brothers Band (Interna",
+      "texan": "Not Texan",
+      "genre": "Worldwide",
+      "slug": "africanbrothersband"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Hini Me",
+      "artist": "African Brothers Band (Interna",
+      "texan": "Not Texan",
+      "genre": "Worldwide",
+      "slug": "africanbrothersband"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Seantie",
+      "artist": "African Brothers Band (Interna",
+      "texan": "Not Texan",
+      "genre": "Worldwide",
+      "slug": "africanbrothersband"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Ena Eye A Mane Me",
+      "artist": "African Brothers Band (Interna",
+      "texan": "Not Texan",
+      "genre": "Worldwide",
+      "slug": "africanbrothersband"
+    },
+    {
+      "explicit": "Clean",
+      "song": "San Behwe Wo Mma",
+      "artist": "African Brothers Band (Interna",
+      "texan": "Not Texan",
+      "genre": "Worldwide",
+      "slug": "africanbrothersband"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Me Nyame Wo Pennye Ho",
+      "artist": "African Brothers Band (Interna",
+      "texan": "Not Texan",
+      "genre": "Worldwide",
+      "slug": "africanbrothersband"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Oyonko Brebo",
+      "artist": "African Brothers Band (Interna",
+      "texan": "Not Texan",
+      "genre": "Worldwide",
+      "slug": "africanbrothersband"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Hypertensive Crisis",
+      "artist": "Aim Low",
+      "texan": "Not Texan",
+      "genre": "Ambient",
+      "slug": "aimlow"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Bird Footprints in the Snow",
+      "artist": "Aim Low",
+      "texan": "Not Texan",
+      "genre": "Ambient",
+      "slug": "aimlow"
+    },
+    {
+      "explicit": "Clean",
+      "song": "My Valuable Hunting Knife (Guided By Voices cover)",
+      "artist": "Aim Low",
+      "texan": "Not Texan",
+      "genre": "Ambient",
+      "slug": "aimlow"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Broken Sundial",
+      "artist": "Aim Low",
+      "texan": "Not Texan",
+      "genre": "Ambient",
+      "slug": "aimlow"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Broken Sundial (Lachlan Fletcher Body Horror Remix)",
+      "artist": "Aim Low",
+      "texan": "Not Texan",
+      "genre": "Ambient",
+      "slug": "aimlow"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Lagos City",
+      "artist": "Aisko Rock Group",
+      "texan": "Not Texan",
+      "genre": "Rock",
+      "slug": "aiskorockgroup"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Raga Mishra Bhairavi - Thumri",
+      "artist": "Ajoy Chakrabarty",
+      "texan": "Not Texan",
+      "genre": "Indian",
+      "slug": "ajoychakrabarty"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Bob Dylan Sits And Thinks Pt. One Old Profile",
+      "artist": "Akron",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "akron"
+    },
+    {
+      "explicit": "Clean",
+      "song": "I'll Be on the Water",
+      "artist": "Akron",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "akron"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Before and Again",
+      "artist": "Akron",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "akron"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Suchness",
+      "artist": "Akron/Family",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "akron"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Part of Corey",
+      "artist": "Akron/Family",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "akron"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Italy",
+      "artist": "Akron/Family",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "akron"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Corey (In Full)",
+      "artist": "Akron/Family",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "akron"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Running, Returning",
+      "artist": "Akron/Family",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "akron"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Afford",
+      "artist": "Akron/Family",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "akron"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Sorrow Boy",
+      "artist": "Akron/Family",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "akron"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Shoes",
+      "artist": "Akron/Family",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "akron"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Lumen",
+      "artist": "Akron/Family",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "akron"
+    },
+    {
+      "explicit": "Clean",
+      "song": "How Do I Know",
+      "artist": "Akron/Family",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "akron"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Franny/You're Human",
+      "artist": "Akron/Family",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "akron"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Dancing Flowers",
+      "artist": "Albert Ayler",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "albertayler"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Love Cry",
+      "artist": "Albert Ayler",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "albertayler"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Spirits Rejoice",
+      "artist": "Albert Ayler",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "albertayler"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Jagna",
+      "artist": "Alewya",
+      "texan": "Not Texan",
+      "genre": "Hip-hop/Rap",
+      "slug": "alewya"
+    },
+    {
+      "explicit": "Clean",
+      "song": "The Code (feat. Moses Boyd)",
+      "artist": "Alewya",
+      "texan": "Not Texan",
+      "genre": "Hip-hop/Rap",
+      "slug": "alewya"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Dragon (Clean)",
+      "artist": "Alewya",
+      "texan": "Not Texan",
+      "genre": "Hip-hop/Rap",
+      "slug": "alewya"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Ethiopia (Clean)",
+      "artist": "Alewya",
+      "texan": "Not Texan",
+      "genre": "Hip-hop/Rap",
+      "slug": "alewya"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Zuggy",
+      "artist": "Alewya",
+      "texan": "Not Texan",
+      "genre": "Hip-hop/Rap",
+      "slug": "alewya"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Channel High (Clean)",
+      "artist": "Alewya",
+      "texan": "Not Texan",
+      "genre": "Hip-hop/Rap",
+      "slug": "alewya"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Spirit_X",
+      "artist": "Alewya",
+      "texan": "Not Texan",
+      "genre": "Hip-hop/Rap",
+      "slug": "alewya"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Play",
+      "artist": "Alewya",
+      "texan": "Not Texan",
+      "genre": "Hip-hop/Rap",
+      "slug": "alewya"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Electric Sickness",
+      "artist": "alexalone",
+      "texan": "Texan ",
+      "genre": "Alternative",
+      "slug": "alexalone"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Where in the World",
+      "artist": "alexalone",
+      "texan": "Texan ",
+      "genre": "Alternative",
+      "slug": "alexalone"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Unpacking My Feelings",
+      "artist": "alexalone",
+      "texan": "Texan ",
+      "genre": "Alternative",
+      "slug": "alexalone"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Can't Sleep",
+      "artist": "alexalone",
+      "texan": "Texan ",
+      "genre": "Alternative",
+      "slug": "alexalone"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Let it Go",
+      "artist": "alexalone",
+      "texan": "Texan ",
+      "genre": "Alternative",
+      "slug": "alexalone"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Black Rainbow",
+      "artist": "alexalone",
+      "texan": "Texan ",
+      "genre": "Alternative",
+      "slug": "alexalone"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Ruins",
+      "artist": "alexalone",
+      "texan": "Texan ",
+      "genre": "Alternative",
+      "slug": "alexalone"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Eavesdropper",
+      "artist": "alexalone",
+      "texan": "Texan ",
+      "genre": "Alternative",
+      "slug": "alexalone"
+    },
+    {
+      "explicit": "Clean",
+      "song": "First Light",
+      "artist": "Alfa Mist",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "alfa mist"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Bumper Cars",
+      "artist": "Alfa Mist",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "alfa mist"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Spit Fountain",
+      "artist": "Algernon Cadwallader",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "algernon cadwallader"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Yo Soy Milk",
+      "artist": "Algernon Cadwallader",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "algernon cadwallader"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Katie's Conscious",
+      "artist": "Algernon Cadwallader",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "algernon cadwallader"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Shiva-Loka",
+      "artist": "Alice Coltrane",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "alice coltrane"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Stopover Bombay",
+      "artist": "Alice Coltrane",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "alice coltrane"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Journey In Satchidananda",
+      "artist": "Alice Coltrane",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "alice coltrane"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Something About John Coltrane",
+      "artist": "Alice Coltrane",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "alice coltrane"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Isis And Osiris",
+      "artist": "Alice Coltrane",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "alice coltrane"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Govinda Jai Jai",
+      "artist": "Alice Coltrane",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "alice coltrane"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Bahcada Yesil Cinar",
+      "artist": "Altin Gun",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "altin gun"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Ordunun Dereleri",
+      "artist": "Altin Gun",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "altin gun"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Bulunur Mu",
+      "artist": "Altin Gun",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "altin gun"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Hey Nari",
+      "artist": "Altin Gun",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "altin gun"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Yuce Dag Basinda",
+      "artist": "Altin Gun",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "altin gun"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Kesik Cayir",
+      "artist": "Altin Gun",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "altin gun"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Arda Boylari",
+      "artist": "Altin Gun",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "altin gun"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Kara Toprak",
+      "artist": "Altin Gun",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "altin gun"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Sevda Olmasaydi",
+      "artist": "Altin Gun",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "altin gun"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Macka Yollari",
+      "artist": "Altin Gun",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "altin gun"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Yekte",
+      "artist": "Altin Gun",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "altin gun"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Esmerim Guzelim",
+      "artist": "Altin Gun",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "altin gun"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Yuce Dag Basinda (radio edit)",
+      "artist": "Altin Gun",
+      "texan": "Not Texan",
+      "genre": "Alternative",
+      "slug": "altin gun"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Refuge",
+      "artist": "Andrew Hill",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "andrew hill"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Choose Love (feat. Shungudzo)",
+      "artist": "Angelique Kidjo",
+      "texan": "Not Texan",
+      "genre": "Classical ",
+      "slug": "angelique kidjo"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Dignity (feat. Yemi Alade)",
+      "artist": "Angelique Kidjo",
+      "texan": "Not Texan",
+      "genre": "Classical ",
+      "slug": "angelique kidjo"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Africa, One Of A Kind (feat. Mr. Eazi &",
+      "artist": "Angelique Kidjo",
+      "texan": "Not Texan",
+      "genre": "Classical ",
+      "slug": "angelique kidjo"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Mother Nature",
+      "artist": "Angelique Kidjo",
+      "texan": "Not Texan",
+      "genre": "Classical ",
+      "slug": "angelique kidjo"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Do Yourself (feat. Burna Boy)",
+      "artist": "Angelique Kidjo",
+      "texan": "Not Texan",
+      "genre": "Classical ",
+      "slug": "angelique kidjo"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Meant For Me (feat. Shungudzo)",
+      "artist": "Angelique Kidjo",
+      "texan": "Not Texan",
+      "genre": "Classical ",
+      "slug": "angelique kidjo"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Omon Oba (Zeynab & Lionel Loueke)",
+      "artist": "Angelique Kidjo",
+      "texan": "Not Texan",
+      "genre": "Classical ",
+      "slug": "angelique kidjo"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Free & Equal (feat. Sampa the Great)",
+      "artist": "Angelique Kidjo",
+      "texan": "Not Texan",
+      "genre": "Classical ",
+      "slug": "angelique kidjo"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Fired Up (feat. Blue Lab Beats & Ghetto Boy)",
+      "artist": "Angelique Kidjo",
+      "texan": "Not Texan",
+      "genre": "Classical ",
+      "slug": "angelique kidjo"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Take It Or Leave It (feat. EARTHGANG)",
+      "artist": "Angelique Kidjo",
+      "texan": "Not Texan",
+      "genre": "Classical ",
+      "slug": "angelique kidjo"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Mycelium (feat. -M-)",
+      "artist": "Angelique Kidjo",
+      "texan": "Not Texan",
+      "genre": "Classical ",
+      "slug": "angelique kidjo"
+    },
+    {
+      "explicit": "Clean",
+      "song": "One Africa (Independance Cha-cha)",
+      "artist": "Angelique Kidjo",
+      "texan": "Not Texan",
+      "genre": "Classical ",
+      "slug": "angelique kidjo"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Flying High",
+      "artist": "Angelique Kidjo",
+      "texan": "Not Texan",
+      "genre": "Classical ",
+      "slug": "angelique kidjo"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Your Tree",
+      "artist": "Anjimile",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anjimile"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Baby No More",
+      "artist": "Anjimile",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anjimile"
+    },
+    {
+      "explicit": "Clean",
+      "song": "In Your Eyes",
+      "artist": "Anjimile",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anjimile"
+    },
+    {
+      "explicit": "Clean",
+      "song": 1978,
+      "artist": "Anjimile",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anjimile"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Not Another Word",
+      "artist": "Anjimile",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anjimile"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Maker",
+      "artist": "Anjimile",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anjimile"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Ndimakukonda",
+      "artist": "Anjimile",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anjimile"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Giver Taker",
+      "artist": "Anjimile",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anjimile"
+    },
+    {
+      "explicit": "Clean",
+      "song": "To Meet You There",
+      "artist": "Anjimile",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anjimile"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Fire Season",
+      "artist": "Anna Ash",
+      "texan": "Not Texan",
+      "genre": "Alt folk ",
+      "slug": "anna ash"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Less Regret",
+      "artist": "Anna Ash",
+      "texan": "Not Texan",
+      "genre": "Alt folk ",
+      "slug": "anna ash"
+    },
+    {
+      "explicit": "Clean",
+      "song": "I Was Just the Evening",
+      "artist": "Anna Ash",
+      "texan": "Not Texan",
+      "genre": "Alt folk ",
+      "slug": "anna ash"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Dress Rehearsal",
+      "artist": "Anna Ash",
+      "texan": "Not Texan",
+      "genre": "Alt folk ",
+      "slug": "anna ash"
+    },
+    {
+      "explicit": "Clean",
+      "song": "What the Light Can Do",
+      "artist": "Anna Ash",
+      "texan": "Not Texan",
+      "genre": "Alt folk ",
+      "slug": "anna ash"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Fire Season [Radio Edit]",
+      "artist": "Anna Ash",
+      "texan": "Not Texan",
+      "genre": "Alt folk ",
+      "slug": "anna ash"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Favorite Part",
+      "artist": "Anna Ash",
+      "texan": "Not Texan",
+      "genre": "Alt folk ",
+      "slug": "anna ash"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Popularity",
+      "artist": "Anna Ash",
+      "texan": "Not Texan",
+      "genre": "Alt folk ",
+      "slug": "anna ash"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Seasonal",
+      "artist": "Anna Ash",
+      "texan": "Not Texan",
+      "genre": "Alt folk ",
+      "slug": "anna ash"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Sgt. Pepper",
+      "artist": "Anna Ash",
+      "texan": "Not Texan",
+      "genre": "Alt folk ",
+      "slug": "anna ash"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Violently Blue",
+      "artist": "Anna Ash",
+      "texan": "Not Texan",
+      "genre": "Alt folk ",
+      "slug": "anna ash"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Less Regret",
+      "artist": "Anna Ash",
+      "texan": "Not Texan",
+      "genre": "Alt folk ",
+      "slug": "anna ash"
+    },
+    {
+      "explicit": "Clean",
+      "song": "I Was Just Your Evening",
+      "artist": "Anna Ash",
+      "texan": "Not Texan",
+      "genre": "Alt folk ",
+      "slug": "anna ash"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Dress Rehearsal",
+      "artist": "Anna Ash",
+      "texan": "Not Texan",
+      "genre": "Alt folk ",
+      "slug": "anna ash"
+    },
+    {
+      "explicit": "Clean",
+      "song": "What the Light Can Do",
+      "artist": "Anna Ash",
+      "texan": "Not Texan",
+      "genre": "Alt folk ",
+      "slug": "anna ash"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Fire Season [Clean Edit]",
+      "artist": "Anna Ash",
+      "texan": "Not Texan",
+      "genre": "Alt folk ",
+      "slug": "anna ash"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Sleeper [Clean Edit]",
+      "artist": "Anna Ash",
+      "texan": "Not Texan",
+      "genre": "Alt folk ",
+      "slug": "anna ash"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Raisin",
+      "artist": "Anna McClellan",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anna mcclellan"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Desperate",
+      "artist": "Anna McClellan",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anna mcclellan"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Feel You",
+      "artist": "Anna McClellan",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anna mcclellan"
+    },
+    {
+      "explicit": "Clean",
+      "song": "To Prove",
+      "artist": "Anna McClellan",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anna mcclellan"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Pace of the Universe",
+      "artist": "Anna McClellan",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anna mcclellan"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Celery",
+      "artist": "Anna McClellan",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anna mcclellan"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Con S Sewer",
+      "artist": "Anna McClellan",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anna mcclellan"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Gone",
+      "artist": "Anna McClellan",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anna mcclellan"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Trying Too Hard",
+      "artist": "Anna McClellan",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anna mcclellan"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Veronica",
+      "artist": "Anna McClellan",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anna mcclellan"
+    },
+    {
+      "explicit": "Clean",
+      "song": "No Wind",
+      "artist": "Anna McClellan",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anna mcclellan"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Bairagi",
+      "artist": "Anoushka Shankar",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anoushka shankar"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Tilak Shyam",
+      "artist": "Anoushka Shankar",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anoushka shankar"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Kirwani",
+      "artist": "Anoushka Shankar",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anoushka shankar"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Charukeshi",
+      "artist": "Anoushka Shankar",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anoushka shankar"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Pratham Prem",
+      "artist": "Anoushka Shankar",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "anoushka shankar"
+    },
+    {
+      "explicit": "Explicit",
+      "song": "A Way Of Life",
+      "artist": "Antagonizers ATL",
+      "texan": "Not Texan",
+      "genre": "Punk ",
+      "slug": "antagonizers atl"
+    },
+    {
+      "explicit": "Clean",
+      "song": "To Pianist Cecil Taylor",
+      "artist": "Anthony Braxton",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "anthony braxton"
+    },
+    {
+      "explicit": "Clean",
+      "song": "So Far Journey",
+      "artist": "Anushka",
+      "texan": "Not Texan",
+      "genre": "electronic ",
+      "slug": "anushka"
+    },
+    {
+      "explicit": "Clean",
+      "song": "You My Love",
+      "artist": "Anushka",
+      "texan": "Not Texan",
+      "genre": "electronic ",
+      "slug": "anushka"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Speak To Me",
+      "artist": "Anushka",
+      "texan": "Not Texan",
+      "genre": "electronic ",
+      "slug": "anushka"
+    },
+    {
+      "explicit": "Clean",
+      "song": "You Mine",
+      "artist": "Anushka",
+      "texan": "Not Texan",
+      "genre": "electronic ",
+      "slug": "anushka"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Brave",
+      "artist": "Anushka",
+      "texan": "Not Texan",
+      "genre": "electronic ",
+      "slug": "anushka"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Bad Weather",
+      "artist": "Anushka",
+      "texan": "Not Texan",
+      "genre": "electronic ",
+      "slug": "anushka"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Breathe",
+      "artist": "Anushka",
+      "texan": "Not Texan",
+      "genre": "electronic ",
+      "slug": "anushka"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Serenity",
+      "artist": "Anushka",
+      "texan": "Not Texan",
+      "genre": "electronic ",
+      "slug": "anushka"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Go",
+      "artist": "Anushka",
+      "texan": "Not Texan",
+      "genre": "electronic ",
+      "slug": "anushka"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Free Will",
+      "artist": "Anushka",
+      "texan": "Not Texan",
+      "genre": "electronic ",
+      "slug": "anushka"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Did I Wake You_",
+      "artist": "Anushka",
+      "texan": "Not Texan",
+      "genre": "electronic ",
+      "slug": "anushka"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Move Right Through Me",
+      "artist": "Anushka",
+      "texan": "Not Texan",
+      "genre": "electronic ",
+      "slug": "anushka"
+    },
+    {
+      "explicit": "Clean",
+      "song": "We Live In Hope",
+      "artist": "Anushka",
+      "texan": "Not Texan",
+      "genre": "electronic ",
+      "slug": "anushka"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Your One Way Street",
+      "artist": "Anxious",
+      "texan": "Not Texan",
+      "genre": "Indie rock ",
+      "slug": "anxious"
+    },
+    {
+      "explicit": "Clean",
+      "song": "In April",
+      "artist": "Anxious",
+      "texan": "Not Texan",
+      "genre": "Indie rock ",
+      "slug": "anxious"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Growing Up Song",
+      "artist": "Anxious",
+      "texan": "Not Texan",
+      "genre": "Indie rock ",
+      "slug": "anxious"
+    },
+    {
+      "explicit": "Clean",
+      "song": "More Than A Letter",
+      "artist": "Anxious",
+      "texan": "Not Texan",
+      "genre": "Indie rock ",
+      "slug": "anxious"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Wayne",
+      "artist": "Anxious",
+      "texan": "Not Texan",
+      "genre": "Indie rock ",
+      "slug": "anxious"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Speechless",
+      "artist": "Anxious",
+      "texan": "Not Texan",
+      "genre": "Indie rock ",
+      "slug": "anxious"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Let Me",
+      "artist": "Anxious",
+      "texan": "Not Texan",
+      "genre": "Indie rock ",
+      "slug": "anxious"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Call From You",
+      "artist": "Anxious",
+      "texan": "Not Texan",
+      "genre": "Indie rock ",
+      "slug": "anxious"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Afternoon",
+      "artist": "Anxious",
+      "texan": "Not Texan",
+      "genre": "Indie rock ",
+      "slug": "anxious"
+    },
+    {
+      "explicit": "Clean",
+      "song": "You When You're Gone",
+      "artist": "Anxious",
+      "texan": "Not Texan",
+      "genre": "Indie rock ",
+      "slug": "anxious"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Look Where He Brought Us",
+      "artist": "Apostles of Music",
+      "texan": "Not Texan",
+      "genre": "Gospel funk ",
+      "slug": "apostlesofmusic"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Sometimes I Fell Like a Motherless Child",
+      "artist": "Archie Shepp and Jason Moran",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "archieshepp"
+    },
+    {
+      "explicit": "Clean",
+      "song": "In Your Pepper",
+      "artist": "area resident",
+      "texan": "Not Texan",
+      "genre": "alt",
+      "slug": "arearesident"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Easy Way Out",
+      "artist": "area resident",
+      "texan": "Not Texan",
+      "genre": "alt",
+      "slug": "arearesident"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Swordplay",
+      "artist": "area resident",
+      "texan": "Not Texan",
+      "genre": "alt",
+      "slug": "arearesident"
+    },
+    {
+      "explicit": "Clean",
+      "song": "We're All Water",
+      "artist": "area resident",
+      "texan": "Not Texan",
+      "genre": "alt",
+      "slug": "arearesident"
+    },
+    {
+      "explicit": "Clean",
+      "song": "You Can't Hold Rick Danko Down",
+      "artist": "area resident",
+      "texan": "Not Texan",
+      "genre": "alt",
+      "slug": "arearesident"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Jardinova",
+      "artist": "area resident",
+      "texan": "Not Texan",
+      "genre": "alt",
+      "slug": "arearesident"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Move Over For The Half-Boy",
+      "artist": "area resident",
+      "texan": "Not Texan",
+      "genre": "alt",
+      "slug": "arearesident"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Everybody Will Do the Same",
+      "artist": "area resident",
+      "texan": "Not Texan",
+      "genre": "alt",
+      "slug": "arearesident"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Hunkered Down In A Government Town",
+      "artist": "area resident",
+      "texan": "Not Texan",
+      "genre": "alt",
+      "slug": "arearesident"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Brudenell",
+      "artist": "area resident",
+      "texan": "Not Texan",
+      "genre": "alt",
+      "slug": "arearesident"
+    },
+    {
+      "explicit": "Clean",
+      "song": "The Rebel Sound",
+      "artist": "Armada",
+      "texan": "Not Texan",
+      "genre": "Pop",
+      "slug": "armada"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Richer Than Blood",
+      "artist": "Arushi Jain",
+      "texan": "Not Texan",
+      "genre": "electronic ",
+      "slug": "arushijain"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Look How Far We Have Come",
+      "artist": "Arushi Jain",
+      "texan": "Not Texan",
+      "genre": "electronic ",
+      "slug": "arushijain"
+    },
+    {
+      "explicit": "Clean",
+      "song": "The Sun Swirls Within You",
+      "artist": "Arushi Jain",
+      "texan": "Not Texan",
+      "genre": "electronic ",
+      "slug": "arushijain"
+    },
+    {
+      "explicit": "Clean",
+      "song": "My People Have Deep Roots",
+      "artist": "Arushi Jain",
+      "texan": "Not Texan",
+      "genre": "electronic ",
+      "slug": "arushijain"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Cultivating Self Love",
+      "artist": "Arushi Jain",
+      "texan": "Not Texan",
+      "genre": "electronic ",
+      "slug": "arushijain"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Under The Lilac Sky",
+      "artist": "Arushi Jain",
+      "texan": "Not Texan",
+      "genre": "electronic ",
+      "slug": "arushijain"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Aaja Aaja Main Hoon Pyar Tera",
+      "artist": "Asha Bhosle & Mohammed Rafi",
+      "texan": "Not Texan",
+      "genre": "Indian folk ",
+      "slug": "ashabhosie"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Don't Slow Me Down feat. Bonnie 'Prince' Billy)",
+      "artist": "Ashley Shadow",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "ashleyshadow"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Gone Too Long",
+      "artist": "Ashley Shadow",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "ashleyshadow"
+    },
+    {
+      "explicit": "Clean",
+      "song": "For Love",
+      "artist": "Ashley Shadow",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "ashleyshadow"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Don't Slow Me Down (feat. Bonnie 'Prince' Billy)",
+      "artist": "Ashley Shadow",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "ashleyshadow"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Grey",
+      "artist": "Ashley Shadow",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "ashleyshadow"
+    },
+    {
+      "explicit": "Clean",
+      "song": "From You",
+      "artist": "Ashley Shadow",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "ashleyshadow"
+    },
+    {
+      "explicit": "Clean",
+      "song": "I Will Remember",
+      "artist": "Ashley Shadow",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "ashleyshadow"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Unspoken",
+      "artist": "Ashley Shadow",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "ashleyshadow"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Nothing",
+      "artist": "Ashley Shadow",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "ashleyshadow"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Catlin",
+      "artist": "Ashley Shadow",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "ashleyshadow"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Bury",
+      "artist": "Ashley Shadow",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "ashleyshadow"
+    },
+    {
+      "explicit": "Clean",
+      "song": "The Light That Failed",
+      "artist": "Atlas Sound",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "atlassound"
+    },
+    {
+      "explicit": "Clean",
+      "song": "An Orchid",
+      "artist": "Atlas Sound",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "atlassound"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Walkabout (W/Noah Lennox)",
+      "artist": "Atlas Sound",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "atlassound"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Criminals",
+      "artist": "Atlas Sound",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "atlassound"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Attic Lights",
+      "artist": "Atlas Sound",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "atlassound"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Sheila",
+      "artist": "Atlas Sound",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "atlassound"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Quick Canal (W/Laetitia Sadier)",
+      "artist": "Atlas Sound",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "atlassound"
+    },
+    {
+      "explicit": "Clean",
+      "song": "My Halo",
+      "artist": "Atlas Sound",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "atlassound"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Kid Klimax",
+      "artist": "Atlas Sound",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "atlassound"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Washington School",
+      "artist": "Atlas Sound",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "atlassound"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Logos",
+      "artist": "Atlas Sound",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "atlassound"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Ibere",
+      "artist": "Avan Samba",
+      "texan": "Not Texan",
+      "genre": "Brazilian soul",
+      "slug": "avansamba"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Season High",
+      "artist": "Avey Tare",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "aveytare"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Little Fang",
+      "artist": "Avey Tare's Slasher Flicks",
+      "texan": "Not Texan",
+      "genre": "Alt",
+      "slug": "aveytare"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Tema De Azambuja",
+      "artist": "Azambuja & Cia",
+      "texan": "Not Texan",
+      "genre": "Jazz",
+      "slug": "azambuja"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Quiet Storm (Akili Remix)",
+      "artist": "Azymuth",
+      "texan": "Not Texan",
+      "genre": "Brazilian",
+      "slug": "azymuth"
+    },
+    {
+      "explicit": "Clean",
+      "song": "Rendor Do Samba (DJ Spinna Remix)",
+      "artist": "Azymuth",
+      "texan": "Not Texan",
+      "genre": "Brazilian",
+      "slug": "azymuth"
+    }
+  ]
+}

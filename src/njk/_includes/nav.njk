@@ -1,8 +1,8 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
       <a class="navbar-brand" href="{{ relative_path }}index.html">
     <img src="../img/kvrx_logo.jpeg" width="30" height="30" class="d-inline-block align-top" alt="">
-    KVRX Hot 100: The Mobile Application
+    KVRX Hot 100: The Desktop Application
   </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -18,30 +18,35 @@
             {% for tab in genres.genres %}
               <li><a class="dropdown-item" href="{{ relative_path }}genre/{{ tab.slug }}.html">{{ tab.genre }}</a></li>
             {% endfor %}
+          </ul>
+        </li>
+         <div class="collapse navbar-collapse" id="navbarNavDropdown">
 
+    <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+         <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Artists
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            {% for name in artist_name.artist_name %}
+              <li><a class="dropdown-item" href="{{ relative_path }}{{ name.slug }}.html">{{ name.artist }}</a></li>
+            {% endfor %}
           </ul>
         </li>
          <div class="collapse navbar-collapse" id="navbarNavDropdown">
 
 
-      <ul class="navbar-nav">
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Artists
-          </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            {% for art in artists.artists %}
-            <li><a class="dropdown-item" href="{{ relative_path }}artist/{{ art.slug}}.html">{{ art.artist }}</a></li>
-            {% endfor %}
-          </ul>
-        </li>
-      </ul>
     </div>
       <li class="nav-item">
         <a class="nav-link" href="{{ relative_path }}about.html">About</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="{{ relative_path }}songs.html">Non-Blacklisted Songs</a>
+      </li>
+    </ul>
+      <li class="nav-item">
+        <a class="nav-link" href="{{ relative_path }}download.html">Download the App!</a>
       </li>
     </ul>
   </div>
