@@ -18,7 +18,11 @@
       <div class="col-sm-8 text-white">
           <h1>{{ artist }}</h1>
           <p>{{ about }}</p>
-          <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/{{ artist_id }}?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+      {% if artist_id %}
+         <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/{{ artist_id }}?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+      {% else %}
+        <h2>To view this artist's songs, visit them on Spotify!</h2>
+      {% endif %}
       </div>
     </div>
   </article>

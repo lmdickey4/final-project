@@ -5,231 +5,264 @@
       "about": "The 13th Floor Elevators was an American rock band from Austin, Texas, United States, formed by guitarist and vocalist Roky Erickson, electric jug player Tommy Hall, and guitarist Stacy Sutherland. The band was together from 1965 to 1969, and during that period released four albums and seven singles for the International Artists record label.",
       "slug": "13thfloorelevators",
       "artist_id": "7xYxgSJaIf7yOFLmknYX38",
-      "genre": "Rock"
+      "genre": "Rock",
+      "genre_slug": "rock"
     },
     {
       "artist": "45 Adapters",
       "about": "The 45 Adapters are a New York based band that dresses well and drinks heavily.",
       "slug": "45adapters",
       "artist_id": "29VfueynBGZbP66KqDI8TF",
-      "genre": "Punk"
+      "genre": "Punk",
+      "genre_slug": "punk"
     },
     {
       "artist": "5 Spiritual Tones",
       "about": "5 Spiritual Tones is a 70s band that focuses primarily on funk and gospel.",
       "slug": "5spiritualtones",
       "artist_id": "10iIZAzGU0K1izfpB1VmV6",
-      "genre": "R&B/Soul"
+      "genre": "R&B/Soul",
+      "genre_slug": "rbsoul"
     },
     {
       "artist": "A.A. Williams",
       "about": "Describing her music (tongue in cheek) as \"death gospel,\" A.A. Williams writes and performs dark and deeply atmospheric songs with a textured voice, matched by her instrumental abilities on guitar, piano, and cello.",
       "slug": "aawilliams",
       "artist_id": "1D0MStnRzJeelcnDjeBo8O",
-      "genre": "Alternative"
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Abbey Lincoln",
       "about": "Anna Marie Wooldridge (August 6, 1930 – August 14, 2010), known professionally as Abbey Lincoln, was an American jazz vocalist, songwriter, and actress. She was a civil rights activist beginning in the 1960s. Lincoln made a career out of delivering deeply felt presentations of standards as well as writing and singing her own material.",
       "slug": "abbeylincoln",
       "artist_id": "0A9p7WNA1VwxVyrjx92Z9F",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "ADOY",
       "about": "Adoy (Korean: 아도이), is a South Korean band formed in 2017. The band debuted on May 17, 2017, with Catnip.",
       "slug": "adoy",
       "artist_id": "64sY7LsUjNE3ifONkftTXC",
-      "genre": "Rock"
+      "genre": "Rock",
+      "genre_slug": "rock"
     },
     {
       "artist": "African Brothers Band",
       "about": "The African Brothers were a Jamaican reggae vocal trio formed by three Kingston teenagers - Lincoln \"Sugar\" Minott, Winston \"Tony Tuff\" Morris, and Derrick \"Bubbles\" Howard.",
       "slug": "africanbrothersband",
       "artist_id": "35F5yIph194spZD2wfhPrg?si=VvrIUtMRRUaCt2owEkwyrA",
-      "genre": "Worldwide"
+      "genre": "Worldwide",
+      "genre_slug": "worldwide"
     },
     {
       "artist": "Aim Low",
       "about": "Brighton based 5-piece rock/grunge band from the South coast of England.",
       "slug": "aimlow",
       "artist_id": "1O7HfHbbX2e6hBtDeRX22V?si=dvG8rLKwRwijArK3z_RMEQ",
-      "genre": "Ambient"
+      "genre": "Ambient",
+      "genre_slug": "ambient"
     },
     {
       "artist": "Ajoy Chakrabarty",
       "about": "Pandit Ajoy Chakrabarty is an Indian Hindustani classical vocalist, composer, lyricist and gurudev of the Patiala-Kasur gharana. He is considered to be one of the proverbial figures of Indian classical music.",
       "slug": "ajoychakrabarty",
       "artist_id": "6Xg6qVSMnpyFFBf8mtuUrR?si=W9zrgyudS6STy_llsVucXA",
-      "genre": "Indian"
+      "genre": "Indian",
+      "genre_slug": "indian"
     },
     {
       "artist": "Akron",
       "about": "Akron/Family were an American folk-influenced experimental rock band active from 2002 to 2013. Former members have lived in Portland, Oregon; Los Angeles, California; and Joshua Tree, California.",
       "slug": "akron",
       "artist_id": "64l9cD8tQscYZCGRLlNm3f?si=sllRZqgUQRKfI4w77cHpaA",
-      "genre": "Alternative"
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Albert Ayler",
       "about": "Albert Ayler was an American avant-garde jazz saxophonist, singer and composer. After early experience playing R&B and bebop, Ayler began recording music during the free jazz era of the 1960s.",
       "slug": "albertayler",
       "artist_id": "2wn2nqzITvJ1vcMRO8Wzv6?si=0wgq7ZRYQyKD8MaplvgNnw",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Alewya",
       "about": "Alewya Demmisse, known artistically as Alewya, is a British singer-songwriter, producer, multidisciplinary artist, and model.",
       "slug": "alewya",
       "artist_id": "0wcjJjpvnHb5vK4iwKfxPm?si=PwTrmkn6TgOA3UNHkooOAA",
-      "genre": "Hip-Hop/Rap"
+      "genre": "Hip-Hop/Rap",
+      "genre_slug": "hiphoprap"
     },
     {
       "artist": "alexalone",
       "about": "The sounds of alexalone will usher you into warm, fuzzy, lonely spaces, then shock you alive with pulsing energy. But, alexalone’s first full length album, ALEXALONEWORLD, isn’t merely about the sound, it is an exercise in world building, and a portrait of the artist cradling and nurturing their emotions as they create, navigating labyrinths of pain as they search for exits, and hoping for a haven where they can survey the damage and regroup.",
       "slug": "alexalone",
       "artist_id": "4gbLYxmxdl7JsjaiInWsMO?si=Eq_1PKUpSmuwBzOjbUh0BA",
-      "genre": "Alternative"
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Alfa Mist",
       "about": "Alfa Mist is a British musician, producer, song-writer and MC based in Newham, London. He released his first solo EP Nocturne in 2015. He also runs a music label called Sekito. His music mixes hip-hop and club tropes with jazz improvisation. He collaborated with several musicians, including Jordan Rakei, Yussef Dayes and Tom Misch.",
       "slug": "alfamist",
       "artist_id": "2i1CPudyCUjL50Wqjv8AMI?si=mKya0kXZS52sF30IyzbWVQ",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Algernon Cadwallader",
       "about": "Algernon Cadwallader was an American emo and math rock band from Yardley, Pennsylvania. They were active from 2005 to 2012. Stereogum referred to the band as the \"heroes of the emo revival\".",
       "slug": "algernoncadwallader",
       "artist_id": "1BfYXNfaB5HBwHn4gxnEQE?si=Vka3qUMNTd6CXB1vlo4wxg",
-      "genre": "Alternative"
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Alice Coltrane",
       "about": "In 2021 he released an album titled Bring Backs on the American independent music label Anti-.[3][4] He also performed at the 2021 We Out Here Festival[7] and was one of the MOBO Awards 2021 nominees.[8]",
       "slug": "alicecoltrane",
       "artist_id": "0oKYiTD5CdNbrofRvM1dIr?si=lWfODXxyQjqpnCztLL4ApQ",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Altin Gun",
       "about": "Altın Gün is an Anatolian rock band from Amsterdam, Netherlands. It was founded by bassist Jasper Verhulst in 2016 when he posted an ad on Facebook looking for Turkish musicians. Their style has been described as \"psychedelic\" with a \"dirty blend of funk rhythms, wah-wah guitars and analogue organs\".",
       "slug": "altingun",
       "artist_id": "37PL04N8kBWWW69jdrMMWT?si=kiZi8AO_QQO3EX1MmA9mhQ",
-      "genre": "Alternative"
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Andrew Hill",
       "about": "Andrew Hill (June 30, 1931 – April 20, 2007) was an American jazz pianist and composer. Jazz critic John Fordham described Hill as a \"uniquely gifted composer, pianist and educator\" although \"his status remained largely inside knowledge in the jazz world for most of his career.\" Hill recorded for Blue Note Records for nearly a decade, producing a dozen albums.",
       "slug": "andrewhill",
       "artist_id": "4ORSNkNYSzva169PBZCzvy?si=e_aJf8DhSGqtq5Tb45MEgQ",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Angelique Kidjo",
       "about": "Angélique Kpasseloko Hinto Hounsinou Kandjo Manta Zogbin Kidjo is a Beninese singer-songwriter, actress, and activist who is noted for her diverse musical influences and creative music videos. Kidjo was born into a family of performing artists.",
       "slug": "angeliquekidjo",
       "artist_id": "51qUDJb5AtQX6jIL4VJx6M?si=xHcEF5hRRomH9UK57BuA3A",
-      "genre": "Classical"
+      "genre": "Classical",
+      "genre_slug": "classical"
     },
     {
       "artist": "Anjimile",
       "about": "Anjimile Chithambo, better known under the mononym Anjimile, is an American folk musician from Boston, Massachusetts.",
       "slug": "anjimile",
       "artist_id": "4CmXLOB2gQfewLf8iTbNVp?si=rcOlnWLgSayY7ixS6YExOg",
-      "genre": "Alternative"
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Anna Ash",
       "about": "Anna Ash expresses tension through smooth vocals and thoughtful lyrics, drawing from a variety of influences, from her folk roots to the jazz-soul of collaborators such as Joe Dart and Theo Katzman of Vulfpeck.",
       "slug": "annaash",
       "artist_id": "1QyjHJQb3WeWFxXaNLpLOw?si=H0OnKqqGRNeaPueIFLNSHQ",
-      "genre": "Alternative Folk"
+      "genre": "Alt Folk",
+      "genre_slug": "altfolk"
     },
     {
       "artist": "Anna McClellan",
       "about": "Anna McClellan began performing original songs in her hometown of Omaha, NE at the age of seventeen and has been actively recording and touring ever since.",
       "slug": "annamcclellan",
       "artist_id": "2Y8G3abt5hRU7X9RNi7dlZ?si=EebVaTmGT6OemPKPRMCI8A",
-      "genre": "Alternative"
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Anoushka Shankar",
       "about": "Anoushka Shankar is a British-Indian-American sitar player, producer, film composer and activist. She was the youngest and first woman to receive a British House of Commons Shield; she has had 7 Grammy Awards nominations and was the first Indian musician to perform live and to serve as presenter at the ceremony.",
       "slug": "anoushkashankar",
       "artist_id": "6MTByljF8u5omBltY2VKPU?si=0CRjCD_9TD-6veIvEGuYuw",
-      "genre": "Alternative"
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Antagonizers ATL",
       "about": "Christopher Berinato. For Do Savannah. Working class street punks Antagonizers ATL are bringing their infectious Oi! energy to the Wormhole along with punk legends Patriot and Halebopp Astronauts.",
       "slug": "antagonizersatl",
       "artist_id": "244VyPaXxvLMx4z2Rlf8oK?si=ga0Kx_DRTV6Ywt5YwVShgg",
-      "genre": "Punk"
+      "genre": "Punk",
+      "genre_slug": "punk"
     },
     {
       "artist": "Anthony Braxton",
       "about": "Anthony Braxton (born June 4, 1945) is an American experimental composer, improviser and multi-instrumentalist who is best known for playing saxophones, particularly the alto. Braxton grew up on the South Side of Chicago, Illinois, and was a key early member of the Association for the Advancement of Creative Musicians. He received great acclaim for his 1969 double-LP record For Alto, the first full-length album of solo saxophone music.",
       "slug": "anthonybrazton",
       "artist_id": "3UXq4fckDmcPmleixlrl6i?si=taYi-dzEQL6ZNYioslCfBg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Anushka",
       "about": "Brighton-based duo Max Wheeler (producer) and Victoria Port (singer/songwriter) AKA Anushka transcend the UK jazz-electronic scene, melding dancefloor beats with sweet melodies, carried by mystifying female vocals.",
       "slug": "anushka",
       "artist_id": "30kBWK3T10BVkU6WLSeody?si=ZAwnUANETEWMyidg5-uetQ",
-      "genre": "Electronic"
+      "genre": "Electronic",
+      "genre_slug": "electronic"
     },
     {
       "artist": "Anxious",
       "about": "Anxious is an American emo band from Fairfield, Connecticut. The band is currently signed to Run for Cover Records. The band released their debut album in 2022 titled Little Green House.",
       "slug": "anxious",
       "artist_id": "4uOeSBqJoBz5OrxrsrTboH?si=N95eDOY1SL64lD1wW0mLSA",
-      "genre": "Indie Rock"
+      "genre": "Indie Rock",
+      "genre_slug": "indierock"
     },
     {
       "artist": "Apostles of Music",
       "about": "The Apostles are an English experimental punk rock band, who developed within the confines of the 1980s anarcho-punk scene in the UK, but did not necessarily adhere to the aesthetics of that movement.",
       "slug": "apostlesofmusic",
       "artist_id": "0iWhQM79cWPaf6oSifmQTU?si=1BfexiuySQiQ2-GEdzPtIw",
-      "genre": "Gospel Funk"
+      "genre": "Gospel Funk",
+      "genre_slug": "gospelfunk"
     },
     {
       "artist": "Archie Shepp and Jason Moran",
       "about": "Archie Shepp is an American jazz saxophonist, educator and playwright who since the 1960s has played a central part in the development of avant-garde jazz.",
       "slug": "archieshepp",
       "artist_id": "7C2DSqaNkh0w77O5Jz1FKh?si=9gVcy0OvS5uizgG_2YHFUQ",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "area resident",
       "about": "Area Resident is Doug Hempstead. A CBC radio journalist twice-a-day and basement recording artist by night. This is the music he makes, mostly alone.",
       "slug": "arearesident",
       "artist_id": "6ywDHuGJnKfw4P3KGEbjuR?si=-8pyIuv6Qsi-0jT0ngOrVg",
-      "genre": "Alternative"
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Armada",
       "about": "Armada is one of the top Indonesian pop groups. Formerly the band KERTAS, they changed their name in 2008 and released their first album Balas Dendam. ",
       "slug": "armada",
       "artist_id": "6H857CtcaYMSxOB4jvSIZf?si=FFHjD9jNSUujk_PijE-UDw",
-      "genre": "Pop"
+      "genre": "Pop",
+      "genre_slug": "pop"
     },
     {
       "artist": "Arushi Jain",
       "about": "Arushi Jain is a singer, pianist, and modular synthesist of Indian classical music. With an unorthodox vision of that centuries-old tradition – one that’s electronic, for a start, and resolutely DIY.",
       "slug": "arushijain",
       "artist_id": "7vQf39VMZhNhPo54R8hIzJ?si=x5N7rDInQPuuwXQCetJNLg",
-      "genre": "Electronic"
+      "genre": "Electronic",
+      "genre_slug": "electronic"
     },
     {
       "artist": "Asha Bhosle & Mohammed Rafi",
       "about": "",
       "slug": "ashabhosle",
       "artist_id": "2HKRvizUyXbd5lEmHbZX4n?si=E57yadcgQ9G7i0D9YOAGkg",
-      "genre": "Indian Folk"
+      "genre": "Indian Folk",
+      "genre_slug": "indianfolk"
     },
     {
       "artist": "Ashley Shadow",

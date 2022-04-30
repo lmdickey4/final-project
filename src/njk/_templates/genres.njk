@@ -10,25 +10,29 @@
 
 
 
-  <article class="container text-white">
-    <div class="row">
-      <div class="col-sm-4">
-          <img src="../img/{{ slug }}.jpeg" alt="" class="img-fluid mb-4">
-      </div>
-      <div class="col-sm-8">
-          <h1>{{ genre }}</h1>
-           {% for item in artists.artists %}
-           {% if item.genre == genre %}
-           <a href="{{ relative_path }}artist/{{ item.slug }}.html">{{ item.artist }}</a><br>
-           {% endif %}
-        {% endfor %}<br>
-      </div>
-    </div>
+  <article class="container text-center text-white">
+    <h1>{{ genre }}</h1>
   </article>
 
-
-
-
-
+<div class="container">
+<div class="timeline">
+{% for item in artists.artists %}
+  {% if item.genre == genre %}
+		<div class="timeline-row">
+			<div class="timeline-content">
+				<i class="icon-attachment"></i>
+				<h4>{{ item.artist }}</h4>
+				<p>{{ item.about}}</p>
+				<div class="">
+					<span class="badge badge-pill">
+            <a href="{{ relative_path }}artist/{{ item.slug }}.html">Check them out here!</a><br>
+          </span>
+				</div>
+			</div>
+		</div>
+  {% endif %}
+{% endfor %}
+</div>
+</div>
 
 {% endblock %}

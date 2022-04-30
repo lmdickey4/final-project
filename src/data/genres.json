@@ -1,40 +1,164 @@
 {
   "genres": [
     {
-      "genre": "Rock",
-      "slug": "rock"
+      "genre": "Afro-pop",
+      "slug": "afropop"
     },
     {
-      "genre": "Punk",
-      "slug": "punk"
+      "genre": "Alt",
+      "slug": "alt"
     },
     {
-      "genre": "R&B/Soul",
-      "slug": "rbsoul"
+      "genre": "Alt folk ",
+      "slug": "altfolk"
+    },
+    {
+      "genre": "Alt Rap",
+      "slug": "altrap"
     },
     {
       "genre": "Alternative",
       "slug": "alternative"
     },
     {
-      "genre": "Jazz",
-      "slug": "jazz"
-    },
-    {
       "genre": "Ambient",
       "slug": "ambient"
+    },
+    {
+      "genre": "Blues ",
+      "slug": "blues"
+    },
+    {
+      "genre": "Brazilian",
+      "slug": "brazilian"
+    },
+    {
+      "genre": "Brazilian soul",
+      "slug": "brazilian"
+    },
+    {
+      "genre": "Cajun",
+      "slug": "cajun"
+    },
+    {
+      "genre": "Christian",
+      "slug": "christian"
+    },
+    {
+      "genre": "Classical ",
+      "slug": "classical"
+    },
+    {
+      "genre": "Country",
+      "slug": "country"
+    },
+    {
+      "genre": "Devotion/spiritual",
+      "slug": "devotionspiritual"
+    },
+    {
+      "genre": "electronic ",
+      "slug": "electronic"
     },
     {
       "genre": "Europe",
       "slug": "europe"
     },
     {
+      "genre": "Folk",
+      "slug": "folk"
+    },
+    {
+      "genre": "funk/soul",
+      "slug": "funksoul"
+    },
+    {
+      "genre": "Gospel funk ",
+      "slug": "gospelfunk"
+    },
+    {
+      "genre": "Hard Bop",
+      "slug": "hardbop"
+    },
+    {
+      "genre": "Hip-hop",
+      "slug": "hiphop"
+    },
+    {
+      "genre": "Hip-hop/Rap",
+      "slug": "hiphoprap"
+    },
+    {
+      "genre": "Indian",
+      "slug": "indian"
+    },
+    {
+      "genre": "Indian Classical ",
+      "slug": "indianclassical"
+    },
+    {
+      "genre": "Indian folk ",
+      "slug": "indianfolk"
+    },
+    {
+      "genre": "Indie Pop",
+      "slug": "indiepop"
+    },
+    {
+      "genre": "Indie rock ",
+      "slug": "indierock"
+    },
+    {
+      "genre": "Jazz",
+      "slug": "jazz"
+    },
+    {
+      "genre": "Korean",
+      "slug": "korean"
+    },
+    {
+      "genre": "Latin",
+      "slug": "latin"
+    },
+    {
+      "genre": "Metal",
+      "slug": "metal"
+    },
+    {
+      "genre": "New age",
+      "slug": "newage"
+    },
+    {
+      "genre": "Pop",
+      "slug": "pop"
+    },
+    {
+      "genre": "Psychedelic ",
+      "slug": "psychedelic"
+    },
+    {
+      "genre": "Punk",
+      "slug": "punk"
+    },
+    {
+      "genre": "RBSoul",
+      "slug": "rbsoul"
+    },
+    {
       "genre": "Reggae",
       "slug": "reggae"
     },
     {
-      "genre": "Cajun",
-      "slug": "cajun"
+      "genre": "Rock",
+      "slug": "rock"
+    },
+    {
+      "genre": "Tropical ",
+      "slug": "tropical"
+    },
+    {
+      "genre": "Worldwide",
+      "slug": "worldwide"
     }
   ]
 }
