@@ -19,36 +19,6 @@
       "fileId": "15CIpi-JzJX9hgrwIQUqEyWzlrl21-OKbp3FoqFHEwUA",
       "type": "sheet",
       "name": "artist_name"
-    },
-    {
-      "fileId": "1tcAUau_lnEnRjoAkkcQSW2q1CRTZc1mf0rMV31p0qx8",
-      "type": "sheet",
-      "name": "a_songs"
-    },
-    {
-      "fileId": "1fVXcUOciyWfSOfHUIODAkABpXFxKdlk8zOc-dXIpOGI",
-      "type": "sheet",
-      "name": "b_songs"
-    },
-    {
-      "fileId": "1K5zAx_Ck1THclJMeI2pssWikovsV4z8LVKXCW-v7JFY",
-      "type": "sheet",
-      "name": "c_songs"
-    },
-    {
-      "fileId": "1XNuuH0glGy_QOW8gofFJae9seZ0EBzk4xlJljsRixro",
-      "type": "sheet",
-      "name": "d_songs"
-    },
-    {
-      "fileId": "13fsdDSKpeW9T2m-655Gtlq_e9JnVKS2VqO0Ht6sAeaM",
-      "type": "sheet",
-      "name": "e_songs"
-    },
-    {
-      "fileId": "1ccvkQB4kX_1FIABtWjIQhPbUfuWW3hx7GxtHXmmpJ1M",
-      "type": "sheet",
-      "name": "number_songs"
     }
   ],
   "to_bake": [
@@ -65,13 +35,6 @@
       "array": "genres",
       "slug": "slug",
       "path": "genre"
-    },
-    {
-      "template": "artist_name",
-      "data": "artist_name",
-      "array": "artist_name",
-      "slug": "slug",
-      "path": "slug"
     }
   ]
 }

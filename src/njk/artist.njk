@@ -1,0 +1,44 @@
+{% extends '_templates/datatable.njk' %}
+
+{% set relative_path = "../" %}
+
+{% block page_title %}Artists{% endblock %}
+
+{% block page_description %}The index search description for this page goes here.{% endblock %}
+
+{% block content %}
+
+<div class="container text-white">
+<h1>Artists</h1>
+<p>Find your new favorite artist below!</p>
+<table class="table table-hover table-sm table-dark" id="songs">
+  <thead>
+    <tr class="table-active">
+      <th scope="col">Artist</th>
+      <th scope="col">Genre</th>
+    </tr>
+  </thead>
+  <tbody>
+      {% for item2 in artists.artists %}
+    <tr>
+        <td>
+            <a href="{{ relative_path }}artist/{{ item2.slug }}.html">{{ item2.artist }}</a>
+        </td>
+        <td>
+            <a href ="{{relative_path }}genre/{{ item2.genre_slug }}.html">{{ item2.genre }}</a>
+        </td>
+    </tr>
+    {% endfor %}
+    
+   
+  </tbody>
+</table>
+</div>
+
+<script>
+    $(document).ready(function() {
+        $('#songs').DataTable();
+    } );
+</script>
+
+{% endblock %}

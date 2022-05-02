@@ -1,0 +1,1551 @@
+<!doctype html>
+<html lang="en">
+  <!-- A Intro to Coding for Journalists class project -->
+  <head>
+    <title>Artists</title>
+    <meta name="description" content="The index search description for this page goes here.">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="../css/main.css"> 
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid">
+      <a class="navbar-brand" href="../index.html">
+    <img src="../img/kvrx_logo.jpeg" width="30" height="30" class="d-inline-block align-top" alt="">
+    KVRX Hot 100: The Desktop Application
+  </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+         <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Genres
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            
+              <li><a class="dropdown-item" href="../genre/afropop.html">Afro-pop</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/alt.html">Alt</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/altfolk.html">Alt folk </a></li>
+            
+              <li><a class="dropdown-item" href="../genre/altrap.html">Alt Rap</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/alternative.html">Alternative</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/ambient.html">Ambient</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/blues.html">Blues </a></li>
+            
+              <li><a class="dropdown-item" href="../genre/brazilian.html">Brazilian</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/brazilian.html">Brazilian soul</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/cajun.html">Cajun</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/christian.html">Christian</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/classical.html">Classical </a></li>
+            
+              <li><a class="dropdown-item" href="../genre/country.html">Country</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/devotionspiritual.html">Devotion/spiritual</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/electronic.html">electronic </a></li>
+            
+              <li><a class="dropdown-item" href="../genre/europe.html">Europe</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/folk.html">Folk</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/funksoul.html">funk/soul</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/gospelfunk.html">Gospel funk </a></li>
+            
+              <li><a class="dropdown-item" href="../genre/hardbop.html">Hard Bop</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/hiphop.html">Hip-hop</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/hiphoprap.html">Hip-hop/Rap</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/indian.html">Indian</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/indianclassical.html">Indian Classical </a></li>
+            
+              <li><a class="dropdown-item" href="../genre/indianfolk.html">Indian folk </a></li>
+            
+              <li><a class="dropdown-item" href="../genre/indiepop.html">Indie Pop</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/indierock.html">Indie rock </a></li>
+            
+              <li><a class="dropdown-item" href="../genre/jazz.html">Jazz</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/korean.html">Korean</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/latin.html">Latin</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/metal.html">Metal</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/newage.html">New age</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/pop.html">Pop</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/psychedelic.html">Psychedelic </a></li>
+            
+              <li><a class="dropdown-item" href="../genre/punk.html">Punk</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/rbsoul.html">RBSoul</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/reggae.html">Reggae</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/rock.html">Rock</a></li>
+            
+              <li><a class="dropdown-item" href="../genre/tropical.html">Tropical </a></li>
+            
+              <li><a class="dropdown-item" href="../genre/worldwide.html">Worldwide</a></li>
+            
+          </ul>
+        </li>
+         <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    </div>
+      <li class="nav-item">
+        <a class="nav-link" href="../artist.html">Artists</a>
+      <li class="nav-item">
+        <a class="nav-link" href="../songs.html">Non-Blacklisted Songs</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="../about.html">About</a>
+      </li>
+  </div>
+</nav>
+
+
+  </div>
+</nav>
+
+    
+
+<div class="container text-white">
+<h1>Artists</h1>
+<p>Find your new favorite artist below!</p>
+<table class="table table-hover table-sm table-dark" id="songs">
+  <thead>
+    <tr class="table-active">
+      <th scope="col">Artist</th>
+      <th scope="col">Genre</th>
+    </tr>
+  </thead>
+  <tbody>
+      
+    <tr>
+        <td>
+            <a href="../artist/13thfloorelevators.html">13th Floor Elevators</a>
+        </td>
+        <td>
+            <a href ="../genre/rock.html">Rock</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/45adapters.html">45 Adapters</a>
+        </td>
+        <td>
+            <a href ="../genre/punk.html">Punk</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/5spiritualtones.html">5 Spiritual Tones</a>
+        </td>
+        <td>
+            <a href ="../genre/rbsoul.html">R&amp;B/Soul</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/aawilliams.html">A.A. Williams</a>
+        </td>
+        <td>
+            <a href ="../genre/alternative.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/abbeylincoln.html">Abbey Lincoln</a>
+        </td>
+        <td>
+            <a href ="../genre/jazz.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/adoy.html">ADOY</a>
+        </td>
+        <td>
+            <a href ="../genre/rock.html">Rock</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/africanbrothersband.html">African Brothers Band</a>
+        </td>
+        <td>
+            <a href ="../genre/worldwide.html">Worldwide</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/aimlow.html">Aim Low</a>
+        </td>
+        <td>
+            <a href ="../genre/ambient.html">Ambient</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/ajoychakrabarty.html">Ajoy Chakrabarty</a>
+        </td>
+        <td>
+            <a href ="../genre/indian.html">Indian</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/akron.html">Akron</a>
+        </td>
+        <td>
+            <a href ="../genre/alternative.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/albertayler.html">Albert Ayler</a>
+        </td>
+        <td>
+            <a href ="../genre/jazz.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/alewya.html">Alewya</a>
+        </td>
+        <td>
+            <a href ="../genre/hiphoprap.html">Hip-Hop/Rap</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/alexalone.html">alexalone</a>
+        </td>
+        <td>
+            <a href ="../genre/alternative.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/alfamist.html">Alfa Mist</a>
+        </td>
+        <td>
+            <a href ="../genre/jazz.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/algernoncadwallader.html">Algernon Cadwallader</a>
+        </td>
+        <td>
+            <a href ="../genre/alternative.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/alicecoltrane.html">Alice Coltrane</a>
+        </td>
+        <td>
+            <a href ="../genre/jazz.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/altingun.html">Altin Gun</a>
+        </td>
+        <td>
+            <a href ="../genre/alternative.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/andrewhill.html">Andrew Hill</a>
+        </td>
+        <td>
+            <a href ="../genre/jazz.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/angeliquekidjo.html">Angelique Kidjo</a>
+        </td>
+        <td>
+            <a href ="../genre/classical.html">Classical</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/anjimile.html">Anjimile</a>
+        </td>
+        <td>
+            <a href ="../genre/alternative.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/annaash.html">Anna Ash</a>
+        </td>
+        <td>
+            <a href ="../genre/altfolk.html">Alt Folk</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/annamcclellan.html">Anna McClellan</a>
+        </td>
+        <td>
+            <a href ="../genre/alternative.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/anoushkashankar.html">Anoushka Shankar</a>
+        </td>
+        <td>
+            <a href ="../genre/alternative.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/antagonizersatl.html">Antagonizers ATL</a>
+        </td>
+        <td>
+            <a href ="../genre/punk.html">Punk</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/anthonybrazton.html">Anthony Braxton</a>
+        </td>
+        <td>
+            <a href ="../genre/jazz.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/anushka.html">Anushka</a>
+        </td>
+        <td>
+            <a href ="../genre/electronic.html">Electronic</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/anxious.html">Anxious</a>
+        </td>
+        <td>
+            <a href ="../genre/indierock.html">Indie Rock</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/apostlesofmusic.html">Apostles of Music</a>
+        </td>
+        <td>
+            <a href ="../genre/gospelfunk.html">Gospel Funk</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/archieshepp.html">Archie Shepp and Jason Moran</a>
+        </td>
+        <td>
+            <a href ="../genre/jazz.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/arearesident.html">area resident</a>
+        </td>
+        <td>
+            <a href ="../genre/alternative.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/armada.html">Armada</a>
+        </td>
+        <td>
+            <a href ="../genre/pop.html">Pop</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/arushijain.html">Arushi Jain</a>
+        </td>
+        <td>
+            <a href ="../genre/electronic.html">Electronic</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/ashabhosle.html">Asha Bhosle &amp; Mohammed Rafi</a>
+        </td>
+        <td>
+            <a href ="../genre/indianfolk.html">Indian Folk</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/ashleyshadow.html">Ashley Shadow</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/atlassound.html">Atlas Sound</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/aveytare.html">Avey Tare</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/averytareslasher.html">Avey Tare&#39;s Slasher Flicks</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/azymuth.html">Azymuth</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Brazillian</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/badwaitress.html">Bad Waitress</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Rock</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/balkantaksim.html">Balkan Taksim</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Europe</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/beachbullies.html">Beach Bullies</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/bebeto.html">El Bebeto</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Brazillian Soul</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/bentarcana.html">Bent Arcana</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Rock</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/bernice.html">Bernice</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/beverlyglenncopeland.html">Beverly Glenn-Copeland</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">New Age</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/bigyouth.html">Big Youth</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Reggae</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/billydeanthomas.html">Billy Dean Thomas</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Hip-Hop/Rap</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/blackcountrynewroad.html">Black Country, New Road</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/blazefoley.html">Blaze Foley</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Country</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/bluecactus.html">Blue Cactus</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Country</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/bluntbangs.html">Blunt Bangs</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/bombthemusicindustry.html">Bomb the Music Industry!</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/bombino.html">Bombino</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Afro-Pop</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/bonecrusher.html">Bonecrusher</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Punk</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/bonifrate.html">Bonifrate</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Psychedelic</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/boogarins.html">Boogarins</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/borboleta.html">Borboleta</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Pop</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/boris.html">Boris</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Metal</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/boscoe.html">Boscoe</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">R&amp;B/Soul</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/bosnianrainbows.html">Bosnian Rainbows</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/brassknuckleboys.html">Brassknuckle Boys</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Punk</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/brianjackson.html">Brian Jackson</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/bruceleeband.html">Bruce Lee Band</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/budpowell.html">Bud Powell</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/buffalonichols.html">Buffalo Nichols</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Blues</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/bulgarianstateradio.html">Bulgarian State Radio &amp; Television Female Vocal</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Worldwide</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/bully.html">Bully</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Rock</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/captainbeefheart.html">Captain Beefheart &amp; His Magic Band</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Rock</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/capnjazz.html">Cap&#39;n Jazz</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/carissaswierd.html">Carissa&#39;s Wierd</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/carlosnino.html">Carlos Nino &amp; Friends</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/cassandrajenkins.html">Cassandra Jenkins</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/cedarsmoke.html">Cedarsmoke</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Indie Rock</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/cedricnoel.html">Cedric Noel</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/celestekrishna.html">Celeste Krishna &amp; Monarchs</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Indie Pop</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/centralheatexchange.html">Central Heat Exchange</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Indie Rock</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/chai.html">CHAI</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/charlesmingus.html">Charles Mingus</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/charlieballantine.html">Charlie Ballantine</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Hard Bop</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/charlieparker.html">Charlie Parker</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/cherstrauberry.html">Cher Strauberry</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Punk</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/chrisbell.html">Chris Bell</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Pop</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/christianmcbride.html">Christian McBride</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/christinaward.html">Christina Ward</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Pop</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/chrome.html">Chrome</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Rock</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/chubbyandthegang.html">Chubby and the Gang</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/churchgirls.html">Church Girls</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Rock</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/civic.html">CIVIC</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Rock</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/clarenceclarity.html">Clarence Clarity</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/clarkterryquartet.html">Clark Terry Quartet</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/claudia.html">Claudia</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Pop</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/cloakroom.html">Cloakroom</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Rock</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/cochemea.html">Cochemea</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/coco.html">Coco</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Indie</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/collieryan.html">Collie Ryan</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Folk</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/collinsherman.html">Collin Sherman</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/cometsonfire.html">Comets On Fire</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/concreteelite.html">Concrete Elite</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Punk</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/cornelius.html">Cornelius</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Rock</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/countossie.html">Count Ossie &amp; The Mystic Revel</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Reggae</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/coupons.html">Coupons</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/crying.html">Crying</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/crystalmurray.html">Crystal Murray</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">R&amp;B/Soul</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/culture.html">Culture</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Reggae</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/dadawah.html">Dadawah</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Reggae</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/dalailama.html">Dalai Lama</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Devotion/Spiritual</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/dandylivingstone.html">Dandy Livingstone</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Reggae</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/dariusjones.html">Darius Jones</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/daveburrell.html">Dave Burrell</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/davemcmurray.html">Dave McMurray</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/davesewelson.html">Dave Sewelson</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/davidlynch.html">David Lynch</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/daysndaze.html">days n&#39; daze</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Punk</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/deadkennedys.html">Dead Kennedys</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Punk</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/deakin.html">Deakin</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/death.html">Death</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Metal</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/debashishbhattacharya.html">Debashish Bhattacharya</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Indian Classical</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/deerhoof.html">Deerhoof</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/defianceohio.html">Defiance, Ohio</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/delpaxton.html">Del Paxton</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/deradoorian.html">Deradoorian</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/dextergordon.html">Dexter Gordon</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/dezrondouglas.html">Dezron Douglas &amp; Brandee Young</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/dhrubaghosh.html">Dhruba Ghosh</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Classical</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/dizzygillespie.html">Dizzy Gillespie &amp;Charlie Parker</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/dj2tone.html">DJ 2-Tone Jones</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Hip-Hop/Rap</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/djharrison.html">DJ Harrison</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Electronic</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/dlg.html">DLG</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Tropical</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/doncaballero.html">Don Caballero</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/donchicharron.html">Don Chicharron</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Latin</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/donlifted.html">Don Lifted</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative Rap</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/dougandtheslugz.html">Doug &amp; The Slugz</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Metal</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/dougcarn.html">Doug Carn</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/dowdelin.html">Dowdelin</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Cajun</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/lonniesmith.html">Dr. Lonnie Smith</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/ducklittlebrotherduck.html">Duck. Little Brother, Duck!</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Rock</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/dukepearson.html">Duke Pearson</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/dutchfalconi.html">Dutch Falconi</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Worldwide</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/earlyeyes.html">Early Eyes</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/easterisland.html">Easter Island</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Pop</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/eddiedavis.html">Eddie &quot;Lockjaw&quot; Davis &amp; Johhny Griffin</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/edsonfrederico.html">Edson Frederico </a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Latin</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/electrelane.html">Electrelane</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/electricblueyonder.html">Electric Blue Yonder</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Folk</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/elijosef.html">Eli Josef</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Alternative</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/elizabethcotten.html">Elizabeth Cotten</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Folk</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/emiliosantiago.html">Emilio Santiago</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Brazillian</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/emilybrown.html">Emily Brown</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Folk</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/emmaruthrundle.html">Emma Ruth Rundle &amp; Thou</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Rock</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/ericdolphy.html">Eric Dolphy</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/ernestranglin.html">Ernest Ranglin</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Reggae</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/errollgarner.html">Erroll Garner</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Jazz</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <a href="../artist/evenoxen.html">Even Oxen</a>
+        </td>
+        <td>
+            <a href ="../genre/.html">Christian</a>
+        </td>
+    </tr>
+    
+    
+   
+  </tbody>
+</table>
+</div>
+
+<script>
+    $(document).ready(function() {
+        $('#songs').DataTable();
+    } );
+</script>
+
+
+
+    <footer>
+<p id="legal" class="center-block text-center">
+  <small>&copy; <span class="copyright-year"></span>
+  A class project by Lainie Dickey.
+</p>
+</footer>
+
+
+    
+    <script src="../js/popper.js"></script>
+    <script src="../js/bootstrap.js"></script>
+    <script src="../js/scripts.js"></script>
+  </body>
+</html>

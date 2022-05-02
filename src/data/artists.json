@@ -269,910 +269,960 @@
       "about": "Ashley Shadow is from Vancouver, B.C., Canada. She is a songwriter and singer primarily influenced by punk, soul, folk and country.",
       "slug": "ashleyshadow",
       "artist_id": "5RdjQlRaM2PIjLE2tfgHxY?si=2KBDEh7eRqmYQCXt0mbayA",
-      "genre": "Alternative"
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Atlas Sound",
       "about": "Atlas Sound is the solo project of Bradford Cox, the striking and eccentric vocalist for the enperimental indie rocker act Deerhunter. ",
       "slug": "atlassound",
       "artist_id": "3kGhAL9j1WyNjNkWTRQd8T?si=Quh_tXuRSbGxyzAXMoh9Eg",
-      "genre": "Alternative"
-    },
-    {
-      "artist": "Avan Samba",
-      "about": "",
-      "slug": "avansamba",
-      "artist_id": "2zljr65ymhYWSEzfVqkIRp?si=uACHZE-jSBq_4oT6_pF3YA",
-      "genre": "Brazillian Soul"
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Avey Tare",
       "about": "David Michael Portner, also known by his moniker Avey Tare, is a musician and songwriter who co-founded the American experimental pop band Animal Collective.",
       "slug": "aveytare",
       "artist_id": "0yJolfjqzHfNbr9IoBSndu?si=RzXEr2TGS9GllkqBbC1zcQ",
-      "genre": "Alternative"
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Avey Tare's Slasher Flicks",
       "about": "Avey Tare's Slasher Flicks, consists of Avey Tare of Animal Collective, ex-Dirty Projectors member Angel Deradoorian, and ex-Ponytaildrummer Jeremy Hyman. The first single from the album, \"Little Fang\", was named \"Best New Track\" by Pitchfork.",
       "slug": "averytareslasher",
       "artist_id": "1sY7Ak1Ygf2ZqmiZPTkZw5?si=hTl104TOQKmZMJ_7j--ZaQ",
-      "genre": "Alternative"
-    },
-    {
-      "artist": "Azambuja & Cia",
-      "about": "",
-      "slug": "azambuja",
-      "artist_id": "5NZ8pLdaU55CuRvfzTCdfS?si=DKVwpSAcTZ-CY1P08XN3lw",
-      "genre": "Jazz"
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Azymuth",
       "about": "Azymuth is a Brazilian jazz-funk trio formed in 1973. The original band members were the now late Jose Roberto Bertrami (keyboards), plus Alex Malheiros (bass, guitars), and Ivan Conti (drums, percussion).",
       "slug": "azymuth",
       "artist_id": "5lYcr7Yue9FUB7MJDBtTJx?si=A32EX1ukT1W67UetIw4CiQ",
-      "genre": "Brazillian"
+      "genre": "Brazilian",
+      "genre_slug": "brazilian"
     },
     {
       "artist": "Bad Waitress",
       "about": "Bad Waitress is a Canadian punk rock band from Toronto, Ontario. The band is signed with Royal Mountain Records. Bad Waitress began under the moniker the Nude Dogs",
       "slug": "badwaitress",
       "artist_id": "5h5YgUkm7vI0bdbQTyBGmb?si=PWMRWOHuTvSze_APkdSlLw",
-      "genre": "Rock"
-    },
-    {
-      "artist": "Balanca Povo",
-      "about": "",
-      "slug": "balancapovo",
-      "artist_id": "0WfSHt8t3NOJwDyvAcvzVA?si=e2zipRMTQzqpTdQ73CTOnw",
-      "genre": "Brazillian Soul"
+      "genre": "Rock",
+      "genre_slug": "rock"
     },
     {
       "artist": "Balkan Taksim",
       "about": "Balkan psych meets bass, breaks and synth electronica with a touch of groove. Their stylish electronic psychedelia and bass flow directly from their roots in Romania and Balkans upstream to global dancefloors.",
       "slug": "balkantaksim",
       "artist_id": "70oqqBR2WFsDZP6JhLvYpm?si=wPnbSup5Q4GqbifICJSOog",
-      "genre": "Europe"
+      "genre": "Europe",
+      "genre_slug": "Europe"
     },
     {
       "artist": "Beach Bullies",
-      "about": "",
+      "about": "In 1980, armed with only a guitar, a drum machine and his flatmate's girlfriend Jill Fricker on backup vocals, James A. Smith formed The Beach Bullies.",
       "slug": "beachbullies",
       "artist_id": "5WlYpIRy7xB6nqclsHJSvK?si=b7zTXHIgTMOUw8xMMpk8VQ",
-      "genre": "Alternative"
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
-      "artist": "Bebeto",
-      "about": "",
+      "artist": "El Bebeto",
+      "about": "El Bebeto is an award-winning, charting singer of Mexican Regional music from Guasave, Sinaloa.",
       "slug": "bebeto",
       "artist_id": "1YhMWppPt9RVODKD1KCs7W?si=SLGgIVrHT-SSKWFW2QCpgw",
-      "genre": "Brazillian Soul"
+      "genre": "Brazilian Soul",
+      "genre_slug": "braziliansoul"
     },
     {
       "artist": "Bent Arcana",
-      "about": "",
+      "about": "Bent Arcana is Dwyer's latest supergroup, and its self-titled debut album is a cosmic slop of funky influences performed by a coterie of Dwyer's musical coconspirators.",
       "slug": "bentarcana",
       "artist_id": "3rOnnvTLenWmwrHP0dvFsM?si=5FaP7e0STU-zCRxmgtjn4w",
-      "genre": "Rock"
+      "genre": "Rock",
+      "genre_slug": "rock"
     },
     {
       "artist": "Bernice",
-      "about": "",
+      "about": "Bernice have always been an intriguing prospect — a group of jazz-trained Toronto musicians making their own arty spin on pop music.",
       "slug": "bernice",
       "artist_id": "5gpIHPSqWFnsv9UAwEGN0s?si=G4PYfYjbSKmSAmryztupyw",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Beverly Glenn-Copeland",
-      "about": "",
+      "about": "Beverly Glenn-Copeland – a spiritual transgender ambient artist recognised for his trailblazing in music and attitudes.",
       "slug": "beverlyglenncopeland",
       "artist_id": "2bN5hXtWZXEIfnHO34eXfe?si=UgGRTTf5QPum_8iGUDYrxQ",
-      "genre": "New Age"
+      "genre": "New Age",
+      "genre_slug": "newage"
     },
     {
       "artist": "Big Youth",
-      "about": "",
+      "about": "Manley Augustus Buchanan, better known as Big Youth, is a Jamaican DJ, mostly known for his work during the 1970s.",
       "slug": "bigyouth",
       "artist_id": "2TdzGitZtbe3Zw3BB4SFEH?si=LH8HP5iTT9OL_EjRVllvgA",
-      "genre": "Reggae"
+      "genre": "Reggae",
+      "genre_slug": "reggae"
     },
     {
       "artist": "Billy Dean Thomas",
-      "about": "",
+      "about": "Billy Dean Thomas, a.k.a. “The Queer Biggie,” is a quadruple-threat: a rapper, singer, instrumentalist and charismatic performer whose dynamic presence permeates their live shows and music videos",
       "slug": "billydeanthomas",
       "artist_id": "42QQTC9Wg1z2v1F4UZElXV?si=yM9hxs5sTmWdOFNGx6A_fQ",
-      "genre": "Hip-Hop/Rap"
+      "genre": "Hip-Hop/Rap",
+      "genre_slug": "hiphoprap"
     },
     {
       "artist": "Black Country, New Road",
-      "about": "",
+      "about": "Black Country, New Road are an English rock band formed in Cambridgeshire in 2018, consisting of Tyler Hyde, Lewis Evans, Georgia Ellery, May Kershaw, Charlie Wayne and Luke Mark.",
       "slug": "blackcountrynewroad",
       "artist_id": "3PP6ghmOlDl2jaKaH0avUN?si=I3QXgfNOTOK4qjBzSbEwJw",
-      "genre": "Alternative"
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Blaze Foley",
-      "about": "",
+      "about": "Michael David Fuller, better known by his stage name Blaze Foley, was an American country music singer-songwriter, poet, and artist active in Austin, Texas.",
       "slug": "blazefoley",
       "artist_id": "1TlScGwN8MmIZ7kIYGjSZA?si=y5WB4k6wRHuNeIaT2r-QrQ",
-      "genre": "Country"
+      "genre": "Country",
+      "genre_slug": "country"
     },
     {
       "artist": "Blue Cactus",
-      "about": "",
+      "about": "Blue Cactus, the North Carolina duo of Steph Stewart and Mario Arnez, make Cosmic Americana: a blend of grit, glitz, groove, and twang that evokes a celestial soundscape of mid-century heartbreak.",
       "slug": "bluecactus",
       "artist_id": "6rouro6xhJxK6NxCHLp26n?si=7SjH5wjWQwecC66zgJ3hew",
-      "genre": "Country"
+      "genre": "Country",
+      "genre_slug": "country"
     },
     {
       "artist": "Blunt Bangs",
-      "about": "",
+      "about": "Blunt Bangs is a new indie rock outfit out of Athens, GA, featuring names straight from the 2000s indie blog rock explosion, including Reggie Youngblood (Black Kids) Christian “Smokey” DeRoeck (Woods, Deep State, Meneguar, Little Gold), and Cash Carter (Tracy Shedd, The Cadets).",
       "slug": "bluntbangs",
       "artist_id": "3jIyC1JqUl8T4hIqTodBOz?si=f5ka1f4HTISZsQ6gC5zzyg",
-      "genre": "Alternative"
-    },
-    {
-      "artist": "Bo Jangles",
-      "about": "",
-      "slug": "bojangles",
-      "artist_id": "28zgV9i9R7tX9NYoOJ7Vxi?si=1LB4QDCUQxi6nbObcjs1UQ",
-      "genre": "Hip-Hop/Rap"
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Bomb the Music Industry!",
-      "about": "",
+      "about": "Bomb the Music Industry! were an American punk rock musical collective from Baldwin, Nassau County, New York, United States, led by singer-songwriter, producer, and multi-instrumentalist Jeff Rosenstock. The band was known for their DIY punk ethic and commitment to accessibility.",
       "slug": "bombthemusicindustry",
       "artist_id": "7mmU5GuOoyxoBAgOZkSVj7?si=WkI5blgcRvKfhh3wfFoDxQ",
-      "genre": "Alternative"
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Bombino",
-      "about": "",
+      "about": "Omara \"Bombino\" Moctar is a Nigerien Tuareg singer-songwriter and guitarist. His music is sung in Tamasheq and often address geopolitical concerns in Turag.",
       "slug": "bombino",
       "artist_id": "7s4I6rDvTcdBDKElVbtsAN?si=63mMCBp0QGK-o4xjk8ID0Q",
-      "genre": "Afro-Pop"
+      "genre": "Afro-Pop",
+      "genre_slug": "afropop"
     },
     {
       "artist": "Bonecrusher",
-      "about": "",
+      "about": "Bonecrusher, a no-frills, self-proclaimed \"working-class\" punk band, were formed in 1992 in Orange County, California.",
       "slug": "bonecrusher",
-      "artist_id": "6cwlhbT6PnscdmUYCLUJsa?si=YscsTqVbSw2cxlQPRqIkjQ",
-      "genre": "Hip-Hop/Rap"
+      "artist_id": "10V050oLReHwafpEEGZIxk?si=zCYubOPaSN6WvNl6HlzFiA",
+      "genre": "Punk",
+      "genre_slug": "punk"
     },
     {
       "artist": "Bonifrate",
-      "about": "",
+      "about": "Bonifrate Bonifrate is a modern bard from Paraty, Brazil, who makes records at home.",
       "slug": "bonifrate",
       "artist_id": "3MfRmtrqF1iq8uwon8ffuT?si=5lUUepgDQAysx6t1pD771w",
-      "genre": "Psychedelic"
+      "genre": "Psychedelic",
+      "genre_slug": "psychedelic"
     },
     {
       "artist": "Boogarins",
-      "about": "",
+      "about": "Boogarins is a brazilian psychedelic rock e Neo-psychedelia band formed in 2012, in Goiânia, by members Fernando \"Dinho\" Almeida and Benke Ferraz.",
       "slug": "boogarins",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "0ohvsn0lgt51qZUbu9ct4s?si=ib9y7TfSR4yy4IBJq0uT_A",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Borboleta",
-      "about": "",
+      "about": "As well as Borboleta’s musical inspirations – ranging from Frank Ocean, Kari Faux and Missy Elliot to classic rock and Black spiritual jazz from the 60s and 70s – the natural world is key to unlocking Leach’s sound.",
       "slug": "borboleta",
-      "artist_id": "",
-      "genre": "Pop"
+      "artist_id": "48oFIzlN0IzuoVx8cx4iku?si=mITUdpAcR-uYla4FQw1Sqw",
+      "genre": "Pop",
+      "genre_slug": "pop"
     },
     {
       "artist": "Boris",
-      "about": "",
+      "about": "Boris is a Japanese experimental music band formed in 1992 in Tokyo and composed of drummer Atsuo, guitarist/bassist Takeshi, and guitarist/keyboardist Wata. All three members contribute vocals",
       "slug": "boris",
-      "artist_id": "",
-      "genre": "Metal"
+      "artist_id": "3EgMK920cIH5aLxFnJ6zSi?si=9PFsG_gPTPizpBhV9QVJzA",
+      "genre": "Metal",
+      "genre_slug": "metal"
     },
     {
       "artist": "Boscoe",
-      "about": "",
+      "about": "Though little known outside of their hometown of Chicago, the short-lived soul-jazz ensemble Boscoewere a musical bridge between the Windy City's R&B scene and the politically conscious and musically adventurous work of Sun Ra and the Artistic Heritage Ensemble.",
       "slug": "boscoe",
-      "artist_id": "",
-      "genre": "R&B/Soul"
+      "artist_id": "2XPtKIOttOrkLpPQmrgKAO?si=axYSB2-HTC-kweR7m7mLzA",
+      "genre": "R&B/Soul",
+      "genre_slug": "rbsoul"
     },
     {
       "artist": "Bosnian Rainbows",
-      "about": "",
+      "about": "Bosnian Rainbows was an American art rock band from El Paso, Texas, formed in 2012. The band consists of former the Mars Volta members Omar Rodríguez-López and Deantoni Parks, alongside Le Butcherettes vocalist Teri Gender Bender and Nicci Kasper of KUDU and We Are Dark Angels",
       "slug": "bosnianrainbows",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "26sni4GjXXHoWkWrBkyZnO?si=6ElwPMZiROaaF88Ng3iaBA",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Brassknuckle Boys",
-      "about": "",
+      "about": "The Brassknuckle Boys stormed on to the american punk scene back in 1998 and have since become internationally infamous as an iconic, intelligent but tough-as-nails punk band firmly in the grasp of street rock n roll fans worldwide while maintaining their own unique sound that is dripping with Americana.",
       "slug": "brassknuckleboys",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "0m47R5HA718algZYlnA7Jc?si=WAuuoizrSCCr_R7X-05P3w",
+      "genre": "Punk",
+      "genre_slug": "punk"
     },
     {
       "artist": "Brian Jackson",
-      "about": "",
+      "about": "Brian Robert Jackson is an American keyboardist, flautist, singer, composer, and producer known for his collaborations with Gil Scott-Heron in the 1970s.",
       "slug": "brianjackson",
-      "artist_id": "",
-      "genre": "Jazz"
-    },
-    {
-      "artist": "Brother John Witherspoon",
-      "about": "",
-      "slug": "brotherjohnwitherspoon",
-      "artist_id": "",
-      "genre": "R&B/Soul"
+      "artist_id": "2UXhlYaVdXWvO950p0wwrU?si=imNNk_-gQriSOeggX4d_cw",
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Bruce Lee Band",
-      "about": "",
+      "about": "The Bruce Lee Band is the name given to the releases of Mike Park and his backing band which up until 2005 included members of Less Than Jake and the Rx Bandits.",
       "slug": "bruceleeband",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "6BhJtndfqL4E0eO0ZGKrhY?si=jxHwjRnCRu66APoRLg86gA",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Bud Powell",
-      "about": "",
+      "about": "Earl Rudolph \"Bud\" Powell was an American jazz pianist and composer. Along with Charlie Parker, Thelonious Monk, and Dizzy Gillespie, Powell was a leading figure in the development of modern jazz.",
       "slug": "budpowell",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "570vCzcespB48HIQyTbDO6?si=5cbvWKipRI2IE092kZxFzA",
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Buffalo Nichols",
-      "about": "",
+      "about": "Born in Houston but raised in Milwaukee, Carl “Buffalo” Nichols is a deft fingerpicker and slide guitarist and muted power singer.",
       "slug": "buffalonichols",
-      "artist_id": "",
-      "genre": "Blues"
+      "artist_id": "5dT9JLuBwGNiHJQsY29Qmh?si=hT3BgVMVRxKR6-itUMKXiA",
+      "genre": "Blues",
+      "genre_slug": "blues"
     },
     {
       "artist": "Bulgarian State Radio & Television Female Vocal",
-      "about": "",
+      "about": "The Bulgarian State Television Female Vocal Choir is an internationally renowned world music ensemble that performs modern arrangements of traditional Bulgarian folk melodies.",
       "slug": "bulgarianstateradio",
-      "artist_id": "",
-      "genre": "Worldwide"
+      "artist_id": "5j3PVTaVrMlssk4IC0kumd?si=ONy7tzk8R7e5ZYwAZ1fQ_Q",
+      "genre": "Worldwide",
+      "genre_slug": "worldwide"
     },
     {
       "artist": "Bully",
-      "about": "",
+      "about": "Bully is the solo project of guitarist and singer Alicia Bognanno. The American rock band formed in 2013 in Nashville.",
       "slug": "bully",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "34LdbFt5sVXKTJOzf1iExQ?si=bCVQm7gUQr6QaCMfMVtlMg",
+      "genre": "Rock",
+      "genre_slug": "rock"
     },
     {
       "artist": "Captain Beefheart & His Magic Band",
-      "about": "",
+      "about": "Don Van Vliet was an American singer, songwriter, multi-instrumentalist, and visual artist best known by the stage name Captain Beefheart. Conducting a rotating ensemble called Captain Beefheart and His Magic Band, known separately as \"The Magic Band\", he recorded 13 studio albums between 1964 and 1982.",
       "slug": "captainbeefheart",
-      "artist_id": "",
-      "genre": "Rock"
+      "artist_id": "2k8kY9zHUWxuTtwV4UutHw?si=Il8nY28AS_6nsioGF69V5w",
+      "genre": "Rock",
+      "genre_slug": "rock"
     },
     {
       "artist": "Cap'n Jazz",
-      "about": "",
+      "about": "Cap'n Jazz was an American emo band formed in Chicago in 1989 by brothers Tim and Mike Kinsella, who were joined by Sam Zurick and Victor Villarreal. After a number of name changes and the addition of guitarist Davey von Bohlen, the band began to earn a cult following in the Chicago area and the Midwest.Wikipedia",
       "slug": "capnjazz",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "3JhEcBWSCPXkRMt1VK14i4?si=flUxA226Q3-lmQ6wHAApCQ",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Carissa's Wierd",
-      "about": "",
+      "about": "Carissa's Wierd was an indie rock band based in Seattle that formed in 1995 and disbanded in late 2003. Their sound has been described as \"chamber rock\". The band deliberately misspelled the word \"Weird\" in their name.",
       "slug": "carissaswierd",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "5VnYwYnG7QmpzQtxyubIwh?si=tmyrmNzqSoap5Fb1TnCsvw",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Carlos Nino & Friends",
-      "about": "",
+      "about": "Carlos Gabriel Niño is a Californian music producer, percussionist, performer, arranger, composer, musician, programmer, radio host, DJ, music consultant, poet, and event organizer, based in his hometown of Woodland Hills, California.",
       "slug": "carlosnino",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "5Vp9z1lRUNMLQCXbwrIbDK?si=r08mCOowQui7tNFwv3QSaw",
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Cassandra Jenkins",
-      "about": "",
+      "about": "New York City-based artist and musician Cassandra Jenkins' musical vision is broad, idiosyncratic and ever-changing.",
       "slug": "cassandrajenkins",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "1WVGbBnzZ5WLZ2PfesIHik?si=vD9KrzYCQlurR7TdPLXQQQ",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Cedarsmoke",
-      "about": "",
+      "about": "Brisbane based 5-piece alt/rock band Cedarsmoke, continue to draw upon their signature dark lyricism attuned to upbeat rock anthems to generate witty music. ",
       "slug": "cedarsmoke",
-      "artist_id": "",
-      "genre": "Indie Rock"
+      "artist_id": "0LVfXd7IeEIY59IY7v2BcI?si=WYLhkzAGQLeu_Jq71nU6WQ",
+      "genre": "Indie Rock",
+      "genre_slug": "indierock"
     },
     {
       "artist": "Cedric Noel",
-      "about": "",
+      "about": "Cedric Noel is a multi-ethnic, multinational, multi-instrumental singer-songwriter residing in Canada.",
       "slug": "cedricnoel",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "6tdulbCmITkRtfAWMRueVY?si=mByDN5h2TX66q_gjcnGwDw",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Celeste Krishna & Monarchs",
-      "about": "",
+      "about": "Celeste Krishna is an expressionist music artist who makes Alabama poet-pop music with Monarchs.",
       "slug": "celestekrishna",
-      "artist_id": "",
-      "genre": "Indie Pop"
+      "artist_id": "4fHswCzZBwNyv68zJk0yDC?si=v30MQM1NQiGBZSG8SE7-fw",
+      "genre": "Indie Pop",
+      "genre_slug": "indiepop"
     },
     {
       "artist": "Central Heat Exchange",
-      "about": "",
+      "about": "Called Central Heat Exchange, their self-titled debut was first initiated by Jacob Stolz, who sent a snippet of a song onto Santiago Dietche, who added his own instrumentals, and then sent on to Paul Stolz and Adam Soloway to add their own thoughts and touches.",
       "slug": "centralheatexchange",
-      "artist_id": "",
-      "genre": "Indie Rock"
+      "artist_id": "50Y6M7qthXuBc6D294wqW0?si=B-wq_fimSty37PiDPpPlqQ",
+      "genre": "Indie Rock",
+      "genre_slug": "indierock"
     },
     {
       "artist": "CHAI",
-      "about": "",
+      "about": "Chai are a Japanese rock band from Nagoya. The group consists of four women—Mana, Kana, Yuuki and Yuna. Formed in 2012, the band released their debut studio album Pink in 2017",
       "slug": "chai",
-      "artist_id": "",
-      "genre": "Alternative"
-    },
-    {
-      "artist": "Charles Lloyd & The Marvels",
-      "about": "",
-      "slug": "charleslloyd",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "0NZsNnETGPWLKJj2Y0vpBx?si=oI4LNT2XQv6oF9dU4UmzxQ",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Charles Mingus",
-      "about": "",
+      "about": "Charles Mingus Jr. (April 22, 1922 – January 5, 1979) was an American jazz double bassist, pianist, composer, and bandleader. A major proponent of collective improvisation, he is considered to be one of the greatest jazz musicians and composers in history,[1] with a career spanning three decades and collaborations with other jazz musicians such as Louis Armstrong, Duke Ellington, Charlie Parker, Dizzy Gillespie, and Herbie Hancock.",
       "slug": "charlesmingus",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "1W8TbFzNS15VwsempfY12H?si=K2L-pLO4SH-UYOHGn-8esw",
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Charlie Ballantine",
-      "about": "",
+      "about": "Charlie Ballantine is an internationally renowned, award winning, touring guitarist.",
       "slug": "charlieballantine",
-      "artist_id": "",
-      "genre": "Hard Bop"
+      "artist_id": "6rMP8cMZYWAAWwovLDuaVD?si=4o13b_-HTSyRAEsQNRuwEA",
+      "genre": "Hard Bop",
+      "genre_slug": "hardbop"
     },
     {
       "artist": "Charlie Parker",
-      "about": "",
+      "about": "Charles Parker Jr., nicknamed \"Bird\" or \"Yardbird\", was an American jazz saxophonist, band leader and composer. Parker was a highly influential soloist and leading figure in the development of bebop, a form of jazz characterized by fast tempos, virtuosic technique, and advanced harmonies.",
       "slug": "charlieparker",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "4Ww5mwS7BWYjoZTUIrMHfC?si=Ik959EN1S9ezzjYWLBoLtw",
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Cher Strauberry",
-      "about": "",
+      "about": "Cher is a skateboarder, musician and artist born and raised in the East Bay. She is an integral member of the Unity Crew/Movement blazing paths for LGBTQ",
       "slug": "cherstrauberry",
-      "artist_id": "",
-      "genre": "Punk"
+      "artist_id": "4Q4yrOdEZewAF4gWdFiCqc?si=GZmQTxmIQPOTAl3j3J2dsw",
+      "genre": "Punk",
+      "genre_slug": "punk"
     },
     {
       "artist": "Chris Bell",
-      "about": "",
+      "about": "Christopher Branford Bell was an American musician, guitarist, singer, and songwriter. Along with Alex Chilton, he led the power pop band Big Star through its first album #1 Record.",
       "slug": "chrisbell",
-      "artist_id": "",
-      "genre": "Rock"
+      "artist_id": "5UDDnXpPNuL91XxNJLX47f?si=03V8gOODSCqOpUuxHqQtGA",
+      "genre": "Pop",
+      "genre_slug": "pop"
     },
     {
       "artist": "Christian McBride",
-      "about": "",
+      "about": "Christian McBride is an American jazz bassist, composer and arranger. He has appeared on more than 300 recordings as a sideman, and is a eight-time Grammy Award winner.",
       "slug": "christianmcbride",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "5ACxPOI9gR3l0cyy2dvkHv?si=zoiCcV8XTpy0luxQYpXkEA",
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Christina Ward",
-      "about": "",
+      "about": "Christina Ward is a guitarist/banjoist/writer and singer of sad indie folk songs from the Philadelphia area",
       "slug": "christinaward",
-      "artist_id": "",
-      "genre": "Pop"
-    },
-    {
-      "artist": "Christopher Parker & The Band of Guardian Angels",
-      "about": "",
-      "slug": "christopherparker",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "5vFO7oC2ill5MX4qGyOgVX?si=7AwXGG3ORzSpLj7yr3yHXw",
+      "genre": "Pop",
+      "genre_slug": "pop"
     },
     {
       "artist": "Chrome",
-      "about": "",
+      "about": "Chrome is an American rock band founded in San Francisco in 1976 by musician Damon Edge and associated with the 1970s post-punk movement.",
       "slug": "chrome",
-      "artist_id": "",
-      "genre": "Rock"
+      "artist_id": "1OQRxZIPriIdtJCs1Dvd8w?si=lsRNQ-zsQhO0IB14QZQRPw",
+      "genre": "Rock",
+      "genre_slug": "rock"
     },
     {
       "artist": "Chubby and the Gang",
-      "about": "",
+      "about": "Chubby and the Gang are an English rock band formed in West London in 2019. Consisting of vocalist Charlie \"Chubby Charles\" Manning-Walker, guitarists Ethan Stahl and Tom \"Razor\" Hardwick, bassist Maegan Brooks Mills and drummer Joe McMahon, the band was formed out of a number of UK hardcore punk bands, including Arms Race, Vile Spirit and Gutter Knife.",
       "slug": "chubbyandthegang",
-      "artist_id": "",
-      "genre": "Alternative"
-    },
-    {
-      "artist": "Chuck is a Band",
-      "about": "",
-      "slug": "chuckisaband",
-      "artist_id": "",
-      "genre": "Rock"
+      "artist_id": "54owRfib7AwmLx1OEM1Apd?si=xIVebIqVRH6ckRbf_bi_xg",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Church Girls",
-      "about": "",
+      "about": "Church Girls is an indie / post-punk band from Philadelphia, PA.",
       "slug": "churchgirls",
-      "artist_id": "",
-      "genre": "Rock"
+      "artist_id": "4Lp6hXrpbIv2le9TCGi68F?si=zRNu0vsvRBeYZnLLTO-Ktg",
+      "genre": "Rock",
+      "genre_slug": "rock"
     },
     {
       "artist": "CIVIC",
-      "about": "",
+      "about": "CIVIC are a five-piece Australian rock band, formed in 2017 in Melbourne, Victoria.[1][2] The band consists of Jim McCullough, Lewis Hodgson, Roland Hlavka and David Forcier.",
       "slug": "civic",
-      "artist_id": "",
-      "genre": "Punk"
+      "artist_id": "7ATw5ZiG6dfYFUUVpCsyFe?si=l3EFJ0beRVugD3Y9LRfUEA",
+      "genre": "Rock",
+      "genre_slug": "rock"
     },
     {
       "artist": "Clarence Clarity",
-      "about": "",
+      "about": "Adam Mark Crisp, known by the stage name Clarence Clarity, is an English singer, songwriter, producer, and musician. He has been praised for his unique, eclectic pop sound which was described by The Guardian as \"funk played by a swarm of bees\".",
       "slug": "clarenceclarity",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "25u5QFxy3HVQsbcbxHOP62?si=4PBmJa83S3m1wtKSQqJHHg",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Clark Terry Quartet",
-      "about": "",
+      "about": "An American swing and bebop trumpeter group and a pioneer of the flugelhorn in jazz.",
       "slug": "clarkterryquartet",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "4DGl9y3bKun9n2xjyirMwF?si=4Ybb0f1oRFm_mg_e_GZmqA",
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Claudia",
-      "about": "",
+      "about": "Claudia Tan, a Sarawakian-born star is an exceptional writer with a movie on the way and a booming career in the world of pop music!",
       "slug": "claudia",
-      "artist_id": "",
-      "genre": "R&B/Soul"
-    },
-    {
-      "artist": "Cliff Gober",
-      "about": "",
-      "slug": "cliffgober",
-      "artist_id": "",
-      "genre": "R&B/Soul"
+      "artist_id": "2kUBwtoPkA9ZoJxcQUtL2P?si=WX7k2XyEQc64sIJz3YSZFg",
+      "genre": "Pop",
+      "genre_slug": "pop"
     },
     {
       "artist": "Cloakroom",
-      "about": "",
+      "about": "Cloakroom is an American rock band from Northwest Indiana, United States. They are currently signed to Relapse Records",
       "slug": "cloakroom",
-      "artist_id": "",
-      "genre": "Rock"
+      "artist_id": "2lP34R0Q7edlojuJrUMPnj?si=MlrZBq7TR4COsz9l46Dt0g",
+      "genre": "Rock",
+      "genre_slug": "rock"
     },
     {
       "artist": "Cochemea",
-      "about": "",
+      "about": "Cochemea Gastelum is a musical journeyman who draws on ancestral memories and family histories to wrap new flesh around the bones of history.",
       "slug": "cochemea",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "5Kv477c3fjT3ifEOm1Kh0A?si=Ywc1TEfBRomxw1pkYHPagg",
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Coco",
-      "about": "",
+      "about": "Maia Friedman, Oliver Hill, and Dan Molad make up the band Coco, who previously remained anynomous. They make indie/alternative romance music. ",
       "slug": "coco",
-      "artist_id": "",
-      "genre": "Pop"
+      "artist_id": "4NxTtZTeJqQ1n27i2qnPCe?si=vOpe8pkVRMKswDEHJFzrCQ",
+      "genre": "Indie",
+      "genre_slug": "indie"
     },
     {
       "artist": "Collie Ryan",
-      "about": "",
+      "about": "Collie Ryan is a student of Theosophy who privately pressed three records in 1973. This project was funded by her friends at New Age Farms carrot and fresh juice company in Lompoc, California, and the records were distributed at shows at the Sun and Earth Health Food Store and Restaurant in Santa Barbara.",
       "slug": "collieryan",
-      "artist_id": "",
-      "genre": "Folk"
+      "artist_id": "627icswnJsqm5lQtrByx7w?si=QRuv_F55R3OjM9bHsfZtiA",
+      "genre": "Folk",
+      "genre_slug": "folk"
     },
     {
       "artist": "Collin Sherman",
-      "about": "",
+      "about": "Colling Sherman is a jazz artist from New York. He does experimental jazz, electronic, ambient, noise, drone.",
       "slug": "collinsherman",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "3TM1YvROomhpBvzIYRf5vf?si=Tm7iU4ksRt-xqpoeNlrIyA",
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Comets On Fire",
-      "about": "",
+      "about": "Comets on Fire were an American noise rock band from Santa Cruz, California, United States. The band was formed in 1999 by guitarist and vocalist Ethan Miller and longtime friend bassist Ben Flashman, who were seeking to create rhythmically and sonically intense music that paid no attention to categorizations.",
       "slug": "cometsonfire",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "369NbOi6NH1ThhB3gxFwqh?si=wdgmZ6ClT7WCzmUIMc5nzQ",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Concrete Elite",
-      "about": "",
+      "about": "Oi! Hardcore Punk band from Austin, Texas, USA.",
       "slug": "concreteelite",
-      "artist_id": "",
-      "genre": "Punk"
+      "artist_id": "6LU6P55CoIXmvCfJb4ajgB?si=1M7rNn5IQ0aNbm9-VxqYEA",
+      "genre": "Punk",
+      "genre_slug": "punk"
     },
     {
       "artist": "Cornelius",
-      "about": "",
+      "about": "Keigo Oyamada, also known by his moniker Cornelius, is a Japanese musician and producer who co-founded Flipper's Guitar, an influential Shibuya-kei band, and subsequently embarked on a solo career.",
       "slug": "cornelius",
-      "artist_id": "",
-      "genre": "Rock"
+      "artist_id": "2vJObElaIZWYDLpiXiJMo9?si=ibGUgCtsQXGQwOPgpJIGEA",
+      "genre": "Rock",
+      "genre_slug": "rock"
     },
     {
       "artist": "Count Ossie & The Mystic Revel",
-      "about": "",
+      "about": "A fusion of the Mystics, led by gifted saxophonist and spiritual seeker Cedric ‘Im’ Brooks and the Count Ossie Rastafarian Drummers. In the past these two groups were responsible for some of the most colourful and creative music that has emerged from the island of Jamaica.",
       "slug": "countossie",
-      "artist_id": "",
-      "genre": "Reggae"
+      "artist_id": "77I4HzxCWBIfIrXFMz1KYs?si=U6jS3jWJRoOcu1n2LX0YMg",
+      "genre": "Reggae",
+      "genre_slug": "reggae"
     },
     {
       "artist": "Coupons",
-      "about": "",
+      "about": "Coupons is a band from Albany, NY consisting of the members: Dan LaFave, Collin J Reynolds, Shannon Straney, Dylan Depice, Dan Maddalone",
       "slug": "coupons",
-      "artist_id": "",
-      "genre": "Alternative"
-    },
-    {
-      "artist": "Cry Babies",
-      "about": "",
-      "slug": "crybabies",
-      "artist_id": "",
-      "genre": "Funk/Soul"
+      "artist_id": "6rcC90tSg3y5Kk03xJI0H9?si=AeZmanuzQYOxsU7-6pPbzA",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Crying",
-      "about": "",
+      "about": "Crying is an American rock band from Purchase, New York formed in 2013. They consist of Elaiza Santos, Ryan Galloway and Kynwyn Sterling.",
       "slug": "crying",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "4RoIQHT4yJcA0ENhs8WLd4?si=6BBTMF6CTmGp4QRwsZIiIA",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Crystal Murray",
-      "about": "",
+      "about": "Crystal Murray is a French R&B singer-songwriter.",
       "slug": "crystalmurray",
-      "artist_id": "",
-      "genre": "R&B/Soul"
+      "artist_id": "2lRXAjsNoYGqyYkgHxk5OH?si=yfLwVnRYThGQ_us5iXQHCg",
+      "genre": "R&B/Soul",
+      "genre_slug": "rbsoul"
     },
     {
       "artist": "Culture",
-      "about": "",
+      "about": "Culture are a Jamaican roots reggae group founded in 1976. Originally they were known as the African Disciples.",
       "slug": "culture",
-      "artist_id": "",
-      "genre": "Hip-Hop/Rap"
+      "artist_id": "4DbtUTi2WsBNdruAZL2pNz?si=ZvwkPHd2QFm4YPAZKa__3Q",
+      "genre": "Reggae",
+      "genre_slug": "reggae"
     },
     {
       "artist": "Dadawah",
-      "about": "",
+      "about": "Michael George Henry OD, better known as Ras Michael, is a Jamaican reggae singer and Nyabinghi specialist. He also performs under the name of Dadawah.",
       "slug": "dadawah",
-      "artist_id": "",
-      "genre": "Reggae"
+      "artist_id": "6Xx653QgibdcjA4RfW6iyU?si=iHvLCbTLS2i9ElaC9GzfYg",
+      "genre": "Reggae",
+      "genre_slug": "reggae"
     },
     {
       "artist": "Dalai Lama",
-      "about": "",
+      "about": "The 14th Dalai Lama, known as Gyalwa Rinpoche to the Tibetan people, is the current Dalai Lama, the highest spiritual leader and former head of state of Tibet.",
       "slug": "dalailama",
-      "artist_id": "",
-      "genre": "Devotion/Spiritual"
+      "artist_id": "6RXfTUnrji43vpU1AdK4up?si=qAjbL8FgQH2aeB79PoMXHQ",
+      "genre": "Devotion/Spiritual",
+      "genre_slug": "devotionspiritual"
     },
     {
       "artist": "Dandy Livingstone",
-      "about": "",
+      "about": "Dandy Livingstone is a British-Jamaican ska, rocksteady, and reggae musician and producer, best known for his 1972 hit, \"Suzanne Beware of the Devil\", and for his song, \"Rudy, A Message to You\", which was later a cover hit for The Specials.",
       "slug": "dandylivingstone",
-      "artist_id": "",
-      "genre": "Reggae"
+      "artist_id": "2kV3Q07NlB0i9taIpo2KyF?si=NBCCJhU-RH-e87sU7ou4WA",
+      "genre": "Reggae",
+      "genre_slug": "reggae"
     },
     {
       "artist": "Darius Jones",
-      "about": "",
+      "about": "Darius Jones is an extraordinarily gifted young alto saxophonist and composer living in New York. He makes modern, soulful, scintillating music.",
       "slug": "dariusjones",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "4QCrPWEJukX8n7A8iOuSzo?si=tNDhNUSiTF2T7Wxk6G2cWw",
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Dave Burrell",
-      "about": "",
+      "about": "Herman Davis \"Dave\" Burrell is an American jazz pianist. He has played with many jazz musicians including Archie Shepp, Pharoah Sanders, Marion Brown and David Murray",
       "slug": "daveburrell",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "5CsxtursJ0wOOXyIdGaJKr?si=YMv2RZiYRsCLsYNsJ_8xzA",
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Dave McMurray",
-      "about": "",
+      "about": "Dave McMurray is an American jazz musician. His primary instrument is saxophone, although he also plays flute, keyboard, and a variety of percussion instruments.",
       "slug": "davemcmurray",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "1DOwY4lGFMmu4gqoGAI84x?si=0MvyekQ9SDaKaungBAfOkg",
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Dave Sewelson",
-      "about": "",
+      "about": "Dave is a baritone saxophone specialist, he arrived in New York City in the summer of 1977, settled in the East Village becoming a stalwart of the downtown scene, played in many bands of the area, probably best know as a founding member of the Microscopic Septet and lifetime member of William Parker’s Little Huey Creative Music Orchestra.",
       "slug": "davesewelson",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "5B5o6cQQNiGZXPBTpZBZlm?si=d6UElWLQRRm-qOE4Wq98sA",
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "David Lynch",
-      "about": "",
+      "about": "David Keith Lynch is an American filmmaker, painter, visual artist, actor, musician, and writer. A recipient of an Academy Honorary Award in 2019.",
       "slug": "davidlynch",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "2Gu6Q05ExIGwHTF43kqLBI?si=QBIEbiBZRc2hclUjBEErnQ",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "days n' daze",
-      "about": "",
+      "about": "Days N' Daze is an American band formed in Houston, Texas performing a type of folk punk they have called 'H-Town Thrashgrass'.",
       "slug": "daysndaze",
-      "artist_id": "",
-      "genre": "Punk"
+      "artist_id": "3wRGr9z5I5xmmVc21fIvC6?si=-VspgVlhRC6gI0x048K9Nw",
+      "genre": "Punk",
+      "genre_slug": "punk"
     },
     {
       "artist": "Dead Kennedys",
-      "about": "",
+      "about": "Dead Kennedys are an American punk rock band that formed in San Francisco, California, in 1978. The band was one of the defining punk bands during its initial eight-year run.",
       "slug": "deadkennedys",
-      "artist_id": "",
-      "genre": "Punk"
+      "artist_id": "30U8fYtiNpeA5KH6H87QUV?si=a4yruZyFSwCs4IjcPzSFsw",
+      "genre": "Punk",
+      "genre_slug": "punk"
     },
     {
       "artist": "Deakin",
-      "about": "",
+      "about": "Joshua Caleb Dibb (born January 6, 1978), also known by his moniker Deakin, is an American musician who co-founded the experimental pop band Animal Collective.",
       "slug": "deakin",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "6JSybS5o47NUTNFQauvxUY?si=GT_G_TRVSTuKlfYkgWZcFg",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Death",
-      "about": "",
+      "about": "Death was an American death metal band formed in Altamonte Springs, Florida in 1984 by guitarist and vocalist Chuck Schuldiner. Death is considered to be among the most influential bands in heavy metal and a pioneering force in the extreme metal subgenre of death metal.",
       "slug": "death",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "4f5V3PQ66nIrBCqugJtaGn?si=WlDwzCqPQIeoCXJuff7MVg",
+      "genre": "Metal",
+      "genre_slug": "metal"
     },
     {
       "artist": "Debashish Bhattacharya",
-      "about": "",
+      "about": "Debashish Bhattacharya is an Indian classical musician, singer, composer and educator. He is said to have introduced the first Slide Guitar Syllabus in the world.",
       "slug": "debashishbhattacharya",
-      "artist_id": "",
-      "genre": "Indian Classical"
+      "artist_id": "1gluErp8xTWWbjs6kh3Qjb?si=Coxj3wNXQGWPhMImJ28ywg",
+      "genre": "Indian Classical",
+      "genre_slug": "indianclassical"
     },
     {
       "artist": "Deerhoof",
-      "about": "",
+      "about": "Deerhoof are an American independent music group formed in San Francisco in 1994. They currently consist of founding drummer Greg Saunier, bassist and singer Satomi Matsuzaki, guitarists John Dieterich and Ed Rodriguez",
       "slug": "deerhoof",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "7AZwAitWq1KcFoIJhRWb6V?si=8jRsIf4gSYayXmOHbqKx7g",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Defiance, Ohio",
-      "about": "",
+      "about": "Defiance, Ohio is a punk rock band from Columbus, Ohio. However, they are named after the town of Defiance, Ohio, in far northwest Ohio, near Toledo. The band features a violin, cello, and double bass.",
       "slug": "defianceohio",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "275dFoyS7o1g1O4rFgy3Ix?si=tvFCDB0GSRGML4rOg8PZ0Q",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Del Paxton",
-      "about": "",
+      "about": "Del Paxton is an Indie/Emo/ Remedial-Math Rock trio from Buffalo NY",
       "slug": "delpaxton",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "6xfq2lQ3eodSswZZBoJkkD?si=JvkheV67Q3CEB28vbl_fbQ",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Deradoorian",
-      "about": "",
+      "about": "Angel Deradoorian, also known mononymously as Deradoorian, is a musician based in Los Angeles, California. She is best known for her work with Dirty Projectors as full-time member from 2007 to 2012.",
       "slug": "deradoorian",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "3jLCHiuXBTGEEku37TsobP?si=u-5YI8hQQKGrqShNCOKJ3g",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Dexter Gordon",
-      "about": "",
+      "about": "Dexter Gordon was an American jazz tenor saxophonist, composer, bandleader, and actor. He was among the most influential early bebop musicians",
       "slug": "dextergordon",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "3NUsiT2JSyaWAnWaXxDzhQ?si=IF4LHi8bQiKegB00RZQaug",
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Dezron Douglas & Brandee Young",
-      "about": "",
+      "about": "Forced into lockdown in their apartment in the spring of 2020, Dezron Douglas (bassist) and Brandee Younger (harpist) started a series of Instagram brunches to stay connected with fans and friends and the music. What resulted was the album Force Majeure, which lives up to its name in every way",
       "slug": "dezrondouglas",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "3HtyiTNRFO5HOPU5Cj3at7?si=z9Fh_oYWRF6Zm6ZD7fqL7w",
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Dhruba Ghosh",
-      "about": "",
+      "about": "Dhruba Ghosh was an Indian classical musician and Sarangi player from Mumbai.",
       "slug": "dhrubaghosh",
-      "artist_id": "",
-      "genre": "Classical"
+      "artist_id": "0pn5aTFHGUAargYGABvRow?si=pxipIvhXTOOCYZuor20q0Q",
+      "genre": "Classical",
+      "genre_slug": "classical"
     },
     {
       "artist": "Dizzy Gillespie &Charlie Parker",
       "about": "",
       "slug": "dizzygillespie",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "5RzjqfPS0Bu4bUMkyNNDpn?si=o974o3OxTuqqECylKwVWbg",
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "DJ 2-Tone Jones",
-      "about": "",
+      "about": "DJ 2-Tone Jones is a DJ, educator, tastemaker & co-creator of Shaolin Jazz.",
       "slug": "dj2tone",
-      "artist_id": "",
-      "genre": "Hip-Hop/Rap"
+      "artist_id": "5uD4qCw6B6RohO1426PgYp?si=nMTPXHCiTZG9bylYPU2fOw",
+      "genre": "Hip-Hop/Rap",
+      "genre_slug": "hiphoprap"
     },
     {
       "artist": "DJ Harrison",
-      "about": "",
+      "about": "DJ Harrison, born Devonne Andre Harris, is a multi-instrumentalist, singer, songwriter and producer from Richmond, Virginia",
       "slug": "djharrison",
-      "artist_id": "",
-      "genre": "Electronic"
+      "artist_id": "6gU7qtF5B31WwdgkNwF1XK?si=nnKoRa2IRJSttXzCYcCVwQ",
+      "genre": "Electronic",
+      "genre_slug": "electronic"
     },
     {
       "artist": "DLG",
-      "about": "",
+      "about": "Dark Latin Groove is a salsa band that mixes salsa, reggae and hip-hop. The group was brought together in New York by producer Sergio George and included Huey Dunbar, Fragancia, and James \"Da Barba\" de Jesus.",
       "slug": "dlg",
-      "artist_id": "",
-      "genre": "Tropical"
+      "artist_id": "6OjbjDH6ZfL9NWdioYibGP?si=q66W1EnXTIy0kmR36RqoZA",
+      "genre": "Tropical",
+      "genre_slug": "tropical"
     },
     {
       "artist": "Don Caballero",
-      "about": "",
+      "about": "Don Caballero was an American instrumental rock group from Pittsburgh, Pennsylvania. The group took its name from the character Guy Caballero, portrayed by Joe Flaherty, on the sketch comedy show Second City Television.",
       "slug": "doncaballero",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "30h1cDhDvSG9RZlfBHmt9C?si=VQt3oIYSTDuUcPesuHvjWA",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Don Chicharron",
-      "about": "",
+      "about": "Don Chicharrón plays and pays homage to Chicha, the sonic result of Peruvian artists mixing the various aural stylings of their day: ‘60s psychedelia, Andean traditional folk melodies, and Afro-Cuban cumbia rhythms. Formed by Peruvian-American, Aldo Pantoja, Don Chicharrón filters its brand of Chicha through the songwriting influences of its 8 other members, giving its self-titled debut LP touches of punk, surf, prog, jazz, reggaetón, and salsa",
       "slug": "donchicharron",
-      "artist_id": "",
-      "genre": "Latin"
+      "artist_id": "64dHU89rYI6cvcmHI6kV1I?si=TkuVtoi2TJOHjaBjuVhnAA",
+      "genre": "Latin",
+      "genre_slug": "latin"
     },
     {
       "artist": "Don Lifted",
-      "about": "",
+      "about": "Don Lifted Matthews is a multi-disciplined creative, predominantly working in music, visual arts and film.",
       "slug": "donlifted",
-      "artist_id": "",
-      "genre": "Alternative Rap"
+      "artist_id": "7FuyFZHywT85uyugfUkb1h?si=59wsmkckRd6NcuD0DcJurw",
+      "genre": "Alternative Rap",
+      "genre_slug": "alternativerap"
     },
     {
       "artist": "Doug & The Slugz",
-      "about": "",
+      "about": "Formed in 1983 by Doug 'Dagger' Kane, the charismatic frontman of all of the above-mentioned bands, Doug & The Slugz were without a doubt one of America's first Oi! bands around, certainly on the West Coast.",
       "slug": "dougandtheslugz",
-      "artist_id": "",
-      "genre": "Metal"
+      "artist_id": "1OuiG1Kg7snXI622UPlEas?si=ns1NhZl0TVOG2fp6TKrr3w",
+      "genre": "Metal",
+      "genre_slug": "metal"
     },
     {
       "artist": "Doug Carn",
-      "about": "",
+      "about": "Doug Carn is an American jazz musician from St. Augustine, Florida, formerly married to Jean Carne and known for his several albums released for Black Jazz Records.",
       "slug": "dougcarn",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "1PWbiGBEBaiLJI0Lvhnoha?si=1BbGo6tXTnO3ZWWEqctvsw",
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Dowdelin",
-      "about": "",
+      "about": "Based in Lyon with roots in Guadeloupe, Martinique and Armenia, the four-piece, self proclaimed 'Creole Afro-Futurists' Dowdelin spread the love with their addictive new foot shufflers.",
       "slug": "dowdelin",
-      "artist_id": "",
-      "genre": "Cajun"
+      "artist_id": "1ogaqCgdEnTy7M5jO0tMue?si=mMuFGDpyS2K14icsFMk5cQ",
+      "genre": "Cajun",
+      "genre_slug": "cajun"
     },
     {
       "artist": "Dr. Lonnie Smith",
-      "about": "",
+      "about": "Lonnie Smith, styled Dr. Lonnie Smith, was an American jazz Hammond B3 organist who was a member of the George Benson quartet in the 1960s.",
       "slug": "lonniesmith",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "1ZpPJRe9erwiWi548SKVyn?si=z2YbfvljSVekoBjHOXQq5A",
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Duck. Little Brother, Duck!",
-      "about": "",
+      "about": "Duck. Little Brother, Duck! take the upside down genre of math rock and turn it on its head once again. The band made their entrance into the Portland scene with fifteen sprawling tracks in the spring of 2010.",
       "slug": "ducklittlebrotherduck",
-      "artist_id": "",
-      "genre": "Rock"
+      "artist_id": "2x6X4uMNcgJxPfDSkpx0Dv?si=2PaBLwWzRJuQBVms96zDOA",
+      "genre": "Rock",
+      "genre_slug": "rock"
     },
     {
       "artist": "Duke Pearson",
-      "about": "",
+      "about": "Columbus Calvin \"Duke\" Pearson Jr. was an American jazz pianist and composer. Allmusic describes him as having a \"big part in shaping the Blue Note label's hard bop direction in the 1960s as a record producer.\"",
       "slug": "dukepearson",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "2SZ1e7QHN5jon9tpSpQl44?si=UVy0YCSZR6OCVPbX80o_9Q",
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Dutch Falconi",
-      "about": "",
+      "about": "A musician, composer and producer. He's a recovering swing big band leader from the 90's and reluctant multi-instrumentalist. He plays and records his cimbalom, bandoneon, cello, bass and guitar tunes for others to use and enjoy.",
       "slug": "dutchfalconi",
-      "artist_id": "",
-      "genre": "Worldwide"
+      "artist_id": "7pjh7QyIwSU7n6SBDIIH74?si=fV2CGJwUTaK4PAk8U2We1g",
+      "genre": "Worldwide",
+      "genre_slug": "worldwide"
     },
     {
       "artist": "Early Eyes",
-      "about": "",
+      "about": "Early Eyes Early Eyes became a band on October 3rd, 2016, as a temporary pop-up ensemble, garnering a sizable local following almost instantly",
       "slug": "earlyeyes",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "5Vd6nIpBPLzJDQDcvILQu4?si=IzWCNZ0tRLe-5tQxIapUYA",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Easter Island",
-      "about": "",
+      "about": "Formed by brothers Ethan and Asher Payne in 2010, Easter Island creates panoramic, post- rock, inspired dream pop",
       "slug": "easterisland",
-      "artist_id": "",
-      "genre": "Pop"
+      "artist_id": "1vqP4ZcJ2j3GKCXVy28gbs?si=2wrLUL-7ScCposNmRg-SIg",
+      "genre": "Pop",
+      "genre_slug": "pop"
     },
     {
       "artist": "Eddie \"Lockjaw\" Davis & Johhny Griffin",
-      "about": "",
+      "about": "Back in the early '60s, when tenor saxophonists Johnny Griffin and Eddie ''Lockjaw'' Davis teamed up to record a series of albums, they were dubbed the ''Tough Tenors,'' no doubt in appreciation of the rough-and-tumble nature of their dueling solos",
       "slug": "eddiedavis",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "0gNn3uUyIEErdQthThI51i?si=AmViZtuVQXmwwodOrOCT6g",
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
-      "artist": "Edson Frederico E A Transa",
-      "about": "",
+      "artist": "Edson Frederico ",
+      "about": "Edson Frederico is an experienced pianist, composer, conductor, ochestrator, and musical director that accompanied Liza Minelli on her 1998 preformances in Rio",
       "slug": "edsonfrederico",
-      "artist_id": "",
-      "genre": "Latin"
+      "artist_id": "1UJ8FzXQBzeiDFmOod5zwv?si=PMKJUO69SN6uq-afYsgcZw",
+      "genre": "Latin",
+      "genre_slug": "latin"
     },
     {
       "artist": "Electrelane",
-      "about": "",
+      "about": "Electrelane were an English indie rock band, formed in Brighton in 1998 by Verity Susman and Emma Gaze. The band comprised Susman, Gaze, Mia Clarke, and Ros Murray.",
       "slug": "electrelane",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "7ulIMfVKiXh8ecEpAVHIAY?si=mTRExhA-SGyKSUO0a9zSgw",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Electric Blue Yonder",
-      "about": "",
+      "about": "Electric Blue Yonder is a Real American Space Folk band. A traveling troup of researches that study the secrets of this universe and report back through song",
       "slug": "electricblueyonder",
-      "artist_id": "",
-      "genre": "Folk"
+      "artist_id": "0bQhgsQlEIjRLTTSskt47r?si=7V2mJaVPRTiWa2Ha7CuS6w",
+      "genre": "Folk",
+      "genre_slug": "folk"
     },
     {
       "artist": "Eli Josef",
-      "about": "",
+      "about": "Eli Josef is a local San Marcos artist with an indie garage rock sound",
       "slug": "elijosef",
-      "artist_id": "",
-      "genre": "Alternative"
+      "artist_id": "4y3uhZt4T3XHGm8f8wMqqW?si=dzAcA8vDTtC7phBA1LlTYg",
+      "genre": "Alternative",
+      "genre_slug": "alternative"
     },
     {
       "artist": "Elizabeth Cotten",
-      "about": "",
+      "about": "Elizabeth \"Libba\" Cotten was an American folk and blues musician. She was a self-taught left-handed guitarist who played a guitar strung for a right-handed player, but played it upside down.",
       "slug": "elizabethcotten",
-      "artist_id": "",
-      "genre": "Folk"
+      "artist_id": "1eTZGzLkukATM7FoGltyFs?si=9tsCmKo2SrakEw5tTcK_TA",
+      "genre": "Folk",
+      "genre_slug": "folk"
     },
     {
       "artist": "Emilio Santiago",
-      "about": "",
+      "about": "Emilio Santiago was a Brazilian vocalist and bossa nova luminary.",
       "slug": "emiliosantiago",
-      "artist_id": "",
-      "genre": "Brazillian"
+      "artist_id": "6quVEYAfHqHwpp8JujXBHt?si=BFlTABKzSi-USDRI8CUPNg",
+      "genre": "Brazilian",
+      "genre_slug": "brazilian"
     },
     {
       "artist": "Emily Brown",
-      "about": "",
+      "about": "Emily Brown is a California singer, songwriter and poet. ",
       "slug": "emilybrown",
-      "artist_id": "",
-      "genre": "Folk"
+      "artist_id": "7dJBqrB78fu99OYWBXcXgG?si=07a800DMSXmQYzbs76Ae6A",
+      "genre": "Folk",
+      "genre_slug": "folk"
     },
     {
       "artist": "Emma Ruth Rundle & Thou",
-      "about": "",
+      "about": "Louisiana's Thou write feral sludge metal, while Kentucky singer-songwriter Emma Ruth Rundle creates emotionally bruised post-rock.",
       "slug": "emmaruthrundle",
-      "artist_id": "",
-      "genre": "Rock"
+      "artist_id": "34gLicNdz493863yZTanvC?si=JnPrzRGySWOzXADDJ0C6zw",
+      "genre": "Rock",
+      "genre_slug": "rock"
     },
     {
       "artist": "Eric Dolphy",
-      "about": "",
+      "about": "Eric Allan Dolphy Jr. was an American jazz alto saxophonist, bass clarinetist and flautist.",
       "slug": "ericdolphy",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "6rxxu32JCGDpKKMPHxnSJp?si=6hWB_c1vTAuTdYKeCoHzOg",
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Ernest Ranglin",
-      "about": "",
+      "about": "A pioneering force behind the rise of Caribbean music, Ernet Ranglin is a guitar virtuoso.",
       "slug": "ernestranglin",
-      "artist_id": "",
-      "genre": "Reggae"
+      "artist_id": "6RTCb5pWKinqlUyG2qacit?si=jMxkAW8KTw6tJ00g-qGP-Q",
+      "genre": "Reggae",
+      "genre_slug": "reggae"
     },
     {
       "artist": "Erroll Garner",
-      "about": "",
+      "about": "Erroll Louis Garner was an American jazz pianist and composer known for his swing playing and ballads.",
       "slug": "errollgarner",
-      "artist_id": "",
-      "genre": "Jazz"
+      "artist_id": "6C65D20ASusYqHGSIktfED?si=jzGW1HrMRoyRLuH-x1h-Ew",
+      "genre": "Jazz",
+      "genre_slug": "jazz"
     },
     {
       "artist": "Even Oxen",
-      "about": "",
+      "about": "Lead by Bersain Beristain, Even Oxen is an indie and experimental Christian music project based in Texas.",
       "slug": "evenoxen",
-      "artist_id": "",
-      "genre": "Christian"
+      "artist_id": "5cf4qgi6O056ue1IMPPeB8?si=pAOoTc9OQKuG_zMgQDCbWw",
+      "genre": "Christian",
+      "genre_slug": "christian"
     }
   ],
   "number artist": [
